@@ -13,5 +13,5 @@ tags: [design,rest,api]
 Excellent document on how to create a REST API with concrete world examples.
 
 "Web API Design - Crafting interfaces that developers love" by Brian Mulloy. 
-[[pdf](/resources/webApiDesign.pdf){:target="_blank"}]
+[[pdf]({{ site.github.url }}/resources/webApiDesign.pdf){:target="_blank"}]
 [[web](https://pages.apigee.com/rs/apigee/images/api-design-ebook-2012-03.pdf){:target="_blank"}]
