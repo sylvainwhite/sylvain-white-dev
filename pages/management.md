@@ -8,7 +8,7 @@ title: Management
 
 Thanks to a former colleague.
 
-[Tips and tricks for managing]({{ site.github.url }}/resources/TipsAndTricksForManaging.pdf){:target="_blank"}.
+[Tips and tricks for managing]({{ site.github.url }}/resources/TipsAndTricksForManaging.pdf){:target="_blank"}
 
 ## Interpersonal communication 
 
@@ -24,7 +24,7 @@ Watch this commercial to find out.
 
 ## Does your work worth something?
 
-The signs you work for a factory and not for a software company caring about what they deliver
+The signs you work for a factory and not for a software company caring about what they deliver.
 
 "12 Signs you're working in a Feature Factory" by John Cutler. 
 [[pdf]({{ site.github.url }}/resources/12SignsYoureWorkingInAFeatureFactory.pdf){:target="_blank"}]
