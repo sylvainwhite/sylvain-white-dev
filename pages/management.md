@@ -14,7 +14,7 @@ Thanks to a former colleague.
 
 A classic paper on interpersonal communication.
 
-[Barriers ans Gateways to Communication]({{ site.github.url }}/resources/barriersAndGatewaysToCommunication.pdf){:target="_blank"}
+[Barriers ans Gateways to Communication]({{ site.github.url }}/resources/barriersAndGatewaysToCommunication.pdf){:target="_blank"} by Carl R. Rogers and F. J. Roethlisberger
 
 ## Managing software developers, it is like...
 
