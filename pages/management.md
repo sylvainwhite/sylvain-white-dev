@@ -26,6 +26,6 @@ Watch this commercial to find out.
 
 The signs you work for a factory and not for a software company caring about what they deliver.
 
-"12 Signs you're working in a Feature Factory" by John Cutler. 
+"12 Signs you're working in a Feature Factory" by John Cutler
 [[pdf]({{ site.github.url }}/resources/12SignsYoureWorkingInAFeatureFactory.pdf){:target="_blank"}]
 [[web](https://hackernoon.com/12-signs-youre-working-in-a-feature-factory-44a5b938d6a2){:target="_blank"}]
