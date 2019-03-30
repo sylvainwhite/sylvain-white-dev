@@ -1,0 +1,27 @@
+# Change 'comments' to true for Disqus comments
+disqus:
+  comments: false
+  disqus_shortname: 'millennial-3'
+
+# If you are not using Google Analytics, please change 'google-ID' to an empty string
+google-ID: ''
+
+menu:
+- {name: 'UI tips and tricks', folder: 'pages', file: 'uiTipsAndTricks.html'}
+- {name: 'Management', folder: 'pages', file: 'management.html'}
+- {name: 'Documentation', folder: 'pages', file: 'documentation.html'}
+
+# Available social icons are powered by Font Awesome, so you can use any icon that they offer
+social:
+- {icon: 'linkedin', link: 'https://ca.linkedin.com/in/sylvain-white-dev'}
+
+# Customize site text
+pagination:
+  next_page: 'Newer'
+  previous_page: 'Older'
+
+sharing_button_prompt: 'Feel free to share!'
+
+related_posts: 'Other related posts...'
+
+post_date_prefix: 'Written on'
