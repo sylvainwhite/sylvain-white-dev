@@ -1,0 +1,17 @@
+---
+layout: post
+title: "9 Java logging problems"
+author: "Sylvain White"
+categories: design
+tags: [design]
+# image: city-2.jpg
+---
+<br/>
+
+## 9 Java logging problems and how to avoid them
+
+Great article summarizing the classic logging problems. Not only JAVA.
+
+"9 Java logging problems and how to avoid them" by Eugen Paraschiv
+[[pdf]({{ site.github.url }}/resources/9JavaLoggingProblems.pdf){:target="_blank"}]
+[[web](https://stackify.com/9-logging-sins-java/){:target="_blank"}]

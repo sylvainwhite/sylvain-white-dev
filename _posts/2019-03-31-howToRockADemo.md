@@ -71,7 +71,7 @@ Visual Studio
 * Sign in to accounts and websites
 * Comment and uncomment code into demo ready state
 
-**Files and resoruces**
+**Files and resources**
 * Pre-create or start required cloud resources
 * Set API Keys and URLs for cloud resources in code
 * Ensure required files and directories are in place
