@@ -29,3 +29,12 @@ The signs you work for a factory and not for a software company caring about wha
 "12 Signs you're working in a Feature Factory" by John Cutler
 [[pdf]({{ site.github.url }}/resources/12SignsYoureWorkingInAFeatureFactory.pdf){:target="_blank"}]
 [[web](https://hackernoon.com/12-signs-youre-working-in-a-feature-factory-44a5b938d6a2){:target="_blank"}]
+
+## Summary of the Lean Startup
+
+Personal summary of the "Lean Startup" by Eric Ries, Crown Business ed., 2011.
+
+From Wikipedia:
+> Lean startup is a methodology for developing businesses and products, which aims to shorten product development cycles and rapidly discover if a proposed business model is viable
+
+[[pdf]({{ site.github.url }}/resources/SummaryLeanStartup-protected.pdf){:target="_blank"}]
