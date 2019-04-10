@@ -9,6 +9,7 @@ google-ID: ''
 menu:
 - {name: 'UI tips and tricks', folder: 'pages', file: 'uiTipsAndTricks.html'}
 - {name: 'Management', folder: 'pages', file: 'management.html'}
+- {name: 'Languages', folder: 'pages', file: 'languages.html'}
 - {name: 'Documentation', folder: 'pages', file: 'documentation.html'}
 
 # Available social icons are powered by Font Awesome, so you can use any icon that they offer
