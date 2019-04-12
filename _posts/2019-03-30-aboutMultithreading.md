@@ -2,8 +2,8 @@
 layout: post
 title: "About multithreading with shared data"
 author: "Sylvain White"
-categories: design
-tags: [design,multithreading]
+categories: architecture
+tags: [architecture, multi-threading]
 # image: city-2.jpg
 ---
 <br/>
