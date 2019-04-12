@@ -2,8 +2,8 @@
 layout: post
 title: "On logging"
 author: "Sylvain White"
-categories: design
-tags: [design]
+categories: architecture
+tags: [architecture]
 # image: city-2.jpg
 ---
 <br/>
