@@ -1,6 +1,10 @@
 ---
-layout: misc
-title: UI tips and tricks
+layout: post
+title: "UI tips and tricks"
+author: "Sylvain White"
+categories: ui
+tags: [ui]
+# image: city-2.jpg
 ---
 <br/>
 
