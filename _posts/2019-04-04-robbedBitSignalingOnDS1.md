@@ -2,8 +2,8 @@
 layout: post
 title: "Robbed bit signaling on DS1 interfaces"
 author: "Sylvain White"
-categories: protocol
-tags: [protocol]
+categories: protocols
+tags: [protocols]
 # image: city-2.jpg
 ---
 <br/>
