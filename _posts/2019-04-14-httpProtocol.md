@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "HTTP protocols"
+title: "HTTP protocol"
 author: "Sylvain White"
 categories: protocols
 tags: [protocols]
