@@ -3,7 +3,7 @@ layout: post
 title: "How to rock a demo"
 author: "Sylvain White"
 categories: tools
-tags: [design]
+tags: [tools]
 # image: city-2.jpg
 ---
 <br/>

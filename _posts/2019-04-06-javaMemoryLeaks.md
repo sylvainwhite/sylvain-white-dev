@@ -2,8 +2,8 @@
 layout: post
 title: "Java Memory Leaks"
 author: "Sylvain White"
-categories: language
-tags: [language]
+categories: languages
+tags: [languages]
 # image: city-2.jpg
 ---
 <br/>
