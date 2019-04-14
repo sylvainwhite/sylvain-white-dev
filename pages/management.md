@@ -53,4 +53,14 @@ One image worth thousand words. What have we, programmers, been doing all those 
 
 ![Chaos report]({{ site.github.url }}/resources/chaos_report_statistics.png "Chaos report")
 
-[[From 'Successful Projects--What We Really Know'](http://www.planningplanet.com/blog/successful-projects-what-we-really-know){:target="_blank"}]
+[From 'Successful Projects--What We Really Know'](http://www.planningplanet.com/blog/successful-projects-what-we-really-know){:target="_blank"}
+
+<br/>
+
+## Optimal team size
+
+Here is rule of thumb that I've have been promoting for years. A team should have 6-8 people. Ten is already too much.
+
+> Bezos believes that no matter how large your company gets, individual teams shouldn’t be larger than what two pizzas can feed.
+
+[From 'Why the two pizza team rule is the name of the game at Calcey'](https://www.calcey.com/blog/why-the-two-pizza-team-rule-is-the-name-game-at-calcey/){:target="_blank"}
