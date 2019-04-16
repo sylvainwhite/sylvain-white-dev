@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Robbed bit signaling on DS1 interfaces"
+title: "Robbed bit signaling"
 author: "Sylvain White"
 categories: protocols
 tags: [protocols]
