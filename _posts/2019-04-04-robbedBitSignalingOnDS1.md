@@ -12,5 +12,5 @@ tags: [protocols]
 
 Really? Who uses this low level protocol today? Nostalgia.
 I've been using this document a lot to configure Dialogic boards.
-Annex C of ANSIT1.403-199.
+Annex C of ANSIT1.403-1995.
 [[pdf]({{ site.github.url }}/resources/robbedBitSignalingOnDS1Interfaces.pdf){:target="_blank"}]
