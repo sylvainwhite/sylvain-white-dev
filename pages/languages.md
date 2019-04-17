@@ -22,3 +22,11 @@ Brandon Morelli to unveil the mystery! [[web](https://codeburst.io/javascript-th
 
 This is a document I wrote to summarize a ES6 pluralsight javascript course
 [[pdf]({{ site.github.url }}/resources/es6JavascriptCourseSummary.pdf){:target="_blank"}]
+
+<br/>
+
+## Javascript memory leaks? Yes. It can happen
+
+How to track and fix javascript memory leaks by Sebastian Peyrott
+
+[4 Types of Memory Leaks in JavaScript and How to Get Rid Of Them](https://auth0.com/blog/four-types-of-leaks-in-your-javascript-code-and-how-to-get-rid-of-them/){:target="_blank"}
