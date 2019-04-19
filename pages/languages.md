@@ -37,3 +37,9 @@ This is a document I wrote to summarize a ES6 pluralsight javascript course
 How to track and fix javascript memory leaks by Sebastian Peyrott
 
 [4 Types of Memory Leaks in JavaScript and How to Get Rid Of Them](https://auth0.com/blog/four-types-of-leaks-in-your-javascript-code-and-how-to-get-rid-of-them/){:target="_blank"}
+
+<br/>
+
+## Why we shouldn't comment out code
+
+From blog 'Deleting code' by Nat Batchelder [[web]](https://nedbatchelder.com/text/deleting-code.html){:target="_blank"} [[pdf]({{ site.github.url }}/resources/deletingCode.pdf){:target="_blank"}]
