@@ -2,26 +2,26 @@
 layout: post
 title: "How to rock a demo"
 author: "Sylvain White"
-categories: tools
-tags: [tools]
+categories: misc
+tags: [misc]
 # image: city-2.jpg
 ---
 <br/>
 
 ## Excellent talk from Susan Ibach - Confoo Montreal 2019
- 
-# Presentation
-Copy of the slide deck [[pdf password protected]({{ site.github.url }}/resources/howToRockADemo-protected.pdf){:target="_blank"}] 
 
-# Visibility
+Copy of the slide deck [[pdf]({{ site.github.url }}/resources/howToRockADemo-protected.pdf){:target="_blank"}] 
+
+---------------------------------
+## Visibility
 Make sure the audience can see the code on your screen
 
-## Colour contrast resources
+### Colour contrast resources
 
 * W3C guidelines [Colors with Good Contrast](https://www.w3.org/WAI/perspective-videos/contrast/){:target="_blank"}
 * [Colour contrast analyzer](https://webaim.org/resources/contrastchecker/){:target="_blank"}
 
-## Change font and colour settings in your code editor
+### Change font and colour settings in your code editor
 * [Command Window](https://www.wikihow.com/Customize-the-Font-in-Windows-Command-Prompt){:target="_blank"}
 * [Visual Studio Code themes](https://code.visualstudio.com/docs/getstarted/themes){:target="_blank"}
 * To change font size and family in Visual Studio Code from the menu select **File | Preferences | Settings**
@@ -31,6 +31,7 @@ Make sure the audience can see the code on your screen
 
 ## Clean up your desktop
 * To temporarily hide the desktop icons in Windows, right click on the desktop View - Desktop icons
+
 ## Zoom
 Visual Studio Code
 * Zen mode \<CTRL+K>,\<Z>
@@ -49,21 +50,20 @@ Visual Studio
 * \<CTRL+4> for live zoom
 * \<ESC> to exit
 
-# Don't waste time making typing mistakes
+## Don't waste time making typing mistakes
 
-## Code Snippets
+### Code Snippets
 * [Visual Studio](https://docs.microsoft.com/en-us/visualstudio/ide/code-snippets?view=vs-2017){:target="_blank"}
 * [Visual Studio Code](https://code.visualstudio.com/docs/editor/userdefinedsnippets){:target="_blank"}
 
-## Comment/Uncommenting code
+### Comment/Uncommenting code
 * \<CTRL+K>\<U> to uncomment code in Visual Studio and Visual Studio Code
 * \<CTRL+K>\<C> to comment code in Visual Studio and Visual Studio Code
 
-
-# Checklists:
+## Checklists
 * *SampleChecklist.doc* this is the checklist I use before I deliver my talk on sentiment analysis
 
-## Pre-demo checklist items
+### Pre-demo checklist items
 
 **Accounts and applications**
 * Launch applications
@@ -88,7 +88,7 @@ Visual Studio
 * Required cables for projector
 * Microphone
 
-## Post demo checklist items
+### Post demo checklist items
 
 * Delete or stop cloud services
 * Delete files and diretories created by demo
