@@ -27,8 +27,7 @@ Brandon Morelli to unveil the mystery! [[web](https://codeburst.io/javascript-th
 
 ## ES6 - Javascript course summary
 
-This is a document I wrote to summarize a ES6 pluralsight javascript course
-[[pdf]({{ site.github.url }}/resources/es6JavascriptCourseSummary.pdf){:target="_blank"}]
+This is a document [[pdf]({{ site.github.url }}/resources/es6JavascriptCourseSummary.pdf){:target="_blank"}] I wrote to summarize the excellent ES6 pluralsight javascript course [[web](https://www.pluralsight.com/courses/javascript-fundamentals-es6){:target="_blank"}]
 
 <br/>
 
