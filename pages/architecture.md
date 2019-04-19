@@ -16,9 +16,7 @@ I hate multithreading with shared data. I've spent weeks (and one poor friend sp
 
 > **Peter Hintjens** (AMQP, ZeroMQ designer & developer): “It's a rare book that deserves burning, but most books on concurrent programming do”
 
-> **Martin Odersky** (Developer of the Java compiler, Designer of Scala language): “If you're considering shared data and locks, it is helpful to recall the words of Harry Callahan, played by Clint Eastwood in the 1971 movie Dirty Harry: ‘I know what you're thinking. Did he fire six shots or only five? Well, to tell you the truth, in all this excitement I kind of lost track myself.But being as this is a .44 Magnum, the most powerful handgun in the world, and would blow your head clean off, you've got to ask yourself one question: Do I feel lucky? Well, do ya, punk?’”
-        
-[Dirty Harry - clip](https://www.youtube.com/watch?v=8Xjr2hnOHiM){:target="_blank"}
+> **Martin Odersky** (Developer of the Java compiler, Designer of Scala language): “If you're considering shared data and locks, it is helpful to recall the words of Harry Callahan, played by Clint Eastwood in the 1971 movie Dirty Harry: ‘I know what you're thinking. Did he fire six shots or only five? Well, to tell you the truth, in all this excitement I kind of lost track myself.But being as this is a .44 Magnum, the most powerful handgun in the world, and would blow your head clean off, you've got to ask yourself one question: Do I feel lucky? Well, do ya, punk?’” [Dirty Harry - clip](https://youtu.be/8Xjr2hnOHiM?t=93){:target="_blank"}
 
 ------------------------------------------------------
 
@@ -55,16 +53,14 @@ A multi-threaded program, given the same set of inputs, may well do something di
 
 Personal summary of MVC architecture [[pdf]({{ site.github.url }}/resources/summaryMvcArchitecture.pdf){:target="_blank"}] based on:
 
-[[Thanos Karpouzis](https://android.jlelse.eu/android-architecture-2f12e1c7d4db){:target="_blank"}]
-[[Sergei Tachenov](http://www.tachenov.name/2016/09/30/208/){:target="_blank"}]
+* [Android Architecture by Thanos Karpouzis](https://android.jlelse.eu/android-architecture-2f12e1c7d4db){:target="_blank"}
+* [MVC, MVP and MVVM: The Ideas by Sergei Tachenov](http://www.tachenov.name/2016/09/30/208/){:target="_blank"}
 
 <br/>
 
 ## Spread toolkit - Does good software live forever?
 
-> The Spread toolkit provides a high performance messaging service that is resilient to faults across local and wide area networks [[web](http://www.spread.org/index.html){:target="_blank"}]
-
-[[Spread toolkit performance](http://www.cnds.jhu.edu/pub/papers/cnds-2004-1.pdf){:target="_blank"}]
+The Spread toolkit provides a high performance messaging service that is resilient to faults across local and wide area networks [[web](http://www.spread.org/index.html){:target="_blank"}] [[performance](http://www.cnds.jhu.edu/pub/papers/cnds-2004-1.pdf){:target="_blank"}]
 
 <br/>
 
