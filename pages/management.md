@@ -53,7 +53,7 @@ One image worth thousand words. What have we, programmers, been doing all those 
 
 ![Chaos report]({{ site.github.url }}/resources/chaos_report_statistics.png "Chaos report")
 
-[From 'Successful Projects--What We Really Know'](http://www.planningplanet.com/blog/successful-projects-what-we-really-know){:target="_blank"}
+From [Successful Projects--What We Really Know](http://www.planningplanet.com/blog/successful-projects-what-we-really-know){:target="_blank"}
 
 <br/>
 
@@ -63,4 +63,32 @@ Here is rule of thumb that I've have been promoting for years. A team should hav
 
 > Bezos believes that no matter how large your company gets, individual teams shouldn’t be larger than what two pizzas can feed.
 
-[From 'Why the two pizza team rule is the name of the game at Calcey'](https://www.calcey.com/blog/why-the-two-pizza-team-rule-is-the-name-game-at-calcey/){:target="_blank"}
+From [Why the two pizza team rule is the name of the game at Calcey](https://www.calcey.com/blog/why-the-two-pizza-team-rule-is-the-name-game-at-calcey/){:target="_blank"}
+
+<br/>
+
+## How to spot a failing project
+
+Excerpt from the nice article **How to spot a failing project** by Rick Cook [[pdf]({{ site.github.url }}/resources/howToSpotAFailingProject.pdf){:target="_blank"}] [[web](https://www.cio.com/article/2438424/how-to-spot-a-failing-project.html){:target="_blank"}]
+
+The most important early warning signs are intangibles. 
+
+* Lack of Interest<br/>
+    The need for interest applies to the customers as well as the team.
+* Poor communication<br/>
+    If the stakeholders, from team members to users, aren't talking to each other, you've got a problem.
+* Lack of velocity<br/>
+    That usually translates into a lot of small deliverables at frequent intervals. 
+* "No-Bad-News" Environment<br/>
+    You have to provide an environment where bad news is accepted.
+
+<br/>
+
+## About micro-payments
+
+Maybe a bit outdated but I agree with William Shields in **Stackoverflow, Advertising and the Ethics of a Free Lunch** [[web](http://www.cforcoding.com/2009/10/stackoverflow-advertising-and-ethics-of.html){:target="_blank"}]
+
+Micro-payments or very small amount to pay for something doesn't work because...
+
+> This strategy doesn't work, because the act of buying anything, even if the price is very small, creates what Nick Szabo calls mental transaction costs, the energy required to decide whether something is worth buying or not, regardless of price.
+
