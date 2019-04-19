@@ -42,3 +42,11 @@ How to track and fix javascript memory leaks by Sebastian Peyrott
 ## Why we shouldn't comment out code
 
 From blog 'Deleting code' by Nat Batchelder [[web]](https://nedbatchelder.com/text/deleting-code.html){:target="_blank"} [[pdf]({{ site.github.url }}/resources/deletingCode.pdf){:target="_blank"}]
+
+<br/>
+
+## Two good blogs
+
+* **Tutorialspoint** [[web]](https://www.tutorialspoint.com/){:target="_blank"} delivers Simply Easy Learning with clear, crisp, and to-the-point content on a wide range of technical and non-technical subjects without any preconditions and impediments.
+
+* **Sitepoint** [[web]](https://www.sitepoint.com/){:target="_blank} Melbourne-based website, and publisher of books, courses and articles for web developers
