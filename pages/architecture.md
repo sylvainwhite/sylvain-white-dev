@@ -65,3 +65,31 @@ Personal summary of MVC architecture [[pdf]({{ site.github.url }}/resources/summ
 > The Spread toolkit provides a high performance messaging service that is resilient to faults across local and wide area networks [[web](http://www.spread.org/index.html){:target="_blank"}]
 
 [[Spread toolkit performance](http://www.cnds.jhu.edu/pub/papers/cnds-2004-1.pdf){:target="_blank"}]
+
+<br/>
+
+## How To Build Utterly Reliable Systems
+
+From blog by Pieter Hintjens [[web]](http://imatix.wikidot.com/articles:how-to-build-utterly-reliable-systems){:target="_blank"} [[pdf]({{ site.github.url }}/resources/utterlyReliableSystems.pdf){:target="_blank"}]
+
+Here are some excerpts that strike me the most:
+
+**Pieces need to fit people** Ultimately, architecture is about fitting the problem to people. If a problem fits neatly to one developer or one small team, it has a good size. If a problem can only be solved by collaborating teams, it's badly sized.
+
+**Interfaces define the fracture points** It's best to slice at the point where the interface is simplest. The interface will become a contract between individual developers, or teams. The simplest contract is the best one.
+
+**Every problem can be deconstructed** If an architect cannot break a large problem into pieces, he or she is not competent. Sometimes lateral thinking is needed. But we have never seen large problems that could not be divided up.
+
+**The architecture is a contract** It must be clear enough to create boundaries, between teams and layers, that cannot and never need to be crossed except through agreed interfaces.
+
+**Decouple the change process** The architecture should package change into clean boxes so that the overall system can bes both stable and dynamic.
+
+**One page architecture** One of my rules is: the architecture of any system, no matter how big, can fit onto one page. And I don't mean, using a 3pt typeface.
+
+Practically, it means:
+
+* Divide and Conquer
+* Formalize the Interfaces
+* Identify and Eliminate Risk
+* Eliminate Dependencies
+* Ensure Full Testability
