@@ -92,3 +92,12 @@ Micro-payments or very small amount to pay for something doesn't work because...
 
 > This strategy doesn't work, because the act of buying anything, even if the price is very small, creates what Nick Szabo calls mental transaction costs, the energy required to decide whether something is worth buying or not, regardless of price.
 
+<br/>
+
+## Think Better: An Innovator's Guide to Productive Thinking
+
+Personal summary [[pdf]({{ site.github.url }}/resources/summaryThinkBetter-protected.pdf){:target="_blank"}] of "Think Better: An Innovator's Guide to Productive Thinking"
+by Tim Hurson, McGraw Hill, 2008
+
+From Amazon web site:
+> The principles you'll find in Think Better are straight-forward: separate your thinking into creative thinking and critical thinking; stay with the question; strive for the **third third** by generating lots and lots of ideas; and look for unexpected connection
