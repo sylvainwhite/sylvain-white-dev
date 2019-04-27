@@ -78,7 +78,7 @@ Here are some excerpts that strike me the most:
 
 **The architecture is a contract** It must be clear enough to create boundaries, between teams and layers, that cannot and never need to be crossed except through agreed interfaces.
 
-**Decouple the change process** The architecture should package change into clean boxes so that the overall system can bes both stable and dynamic.
+**Decouple the change process** The architecture should package change into clean boxes so that the overall system can be both stable and dynamic.
 
 **One page architecture** One of my rules is: the architecture of any system, no matter how big, can fit onto one page. And I don't mean, using a 3pt typeface.
 
@@ -89,3 +89,9 @@ Practically, it means:
 * Identify and Eliminate Risk
 * Eliminate Dependencies
 * Ensure Full Testability
+
+<br/>
+
+## From STUPID to SOLID Code!
+
+The theory of SOLID principles was introduced by Robert C. Martin in his 2000 paper Design Principles and Design Patterns. Here is a neat article by William Durand explaining it in a funny way [[web]](https://williamdurand.fr/2013/07/30/from-stupid-to-solid-code/){:target="_blank"}
