@@ -94,4 +94,14 @@ Practically, it means:
 
 ## From STUPID to SOLID Code!
 
-The theory of SOLID principles was introduced by Robert C. Martin in his 2000 paper Design Principles and Design Patterns. Here is a neat article by William Durand explaining it in a funny way [[web]](https://williamdurand.fr/2013/07/30/from-stupid-to-solid-code/){:target="_blank"}
+The theory of SOLID principles was introduced by Robert C. Martin in his 2000 paper Design Principles and Design Patterns. 
+
+SOLID is an acronym that stands for five basic principles of OO design:
+
+* Single Responsibility Principle
+* Open/Closed Principle
+* Liskov Substitution Principle
+* Interface Segregation Principle
+* Dependency Inversion Principle
+
+Here is a neat article by William Durand explaining it in a funny way [[web]](https://williamdurand.fr/2013/07/30/from-stupid-to-solid-code/){:target="_blank"}
