@@ -101,3 +101,9 @@ by Tim Hurson, McGraw Hill, 2008
 
 From Amazon web site:
 > The principles you'll find in Think Better are straight-forward: separate your thinking into creative thinking and critical thinking; stay with the question; strive for the **third third** by generating lots and lots of ideas; and look for unexpected connection
+
+<br/>
+
+## 12 Things Successful People Do Differently
+
+Good summary of common sense advices [[web]](http://www.marcandangel.com/2012/01/22/12-things-successful-people-do-differently/){:target="_blank"} 
