@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Spiped"
+title: "Secure network pipe"
 author: "Sylvain White"
 categories: tools
 tags: [tools]
