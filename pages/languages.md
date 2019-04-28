@@ -18,10 +18,13 @@ Personal summary of the classic "The C Programming Language" by Brian W. Kernigh
 
 <br/>
 
-## Javascript: The keyword 'This' for beginners
+## Javascript: The keyword 'This'
 
-The keyword 'This' is always tricky. Here is an excellent article by
-Brandon Morelli to unveil the mystery! [[web](https://codeburst.io/javascript-the-keyword-this-for-beginners-fb5238d99f85){:target="_blank"}]
+The keyword 'This' is always tricky. Here are two very good articles by to unveil the mystery! 
+* [The Keyword "this" for Beginners by Brandon Morelli](https://codeburst.io/javascript-the-keyword-this-for-beginners-fb5238d99f85){:target="_blank"}
+* [Understanding the "this" keyword in JavaScript by Nick](http://unschooled.org/2012/03/understanding-javascript-this/){:target="_blank"}
+
+
 
 <br/>
 
@@ -50,3 +53,13 @@ From blog 'Deleting code' by Nat Batchelder [[web]](https://nedbatchelder.com/te
 * **Tutorialspoint** [[web]](https://www.tutorialspoint.com/){:target="_blank"} delivers Simply Easy Learning with clear, crisp, and to-the-point content on a wide range of technical and non-technical subjects without any preconditions and impediments.
 
 * **Sitepoint** [[web]](https://www.sitepoint.com/){:target="_blank} Melbourne-based website, and publisher of books, courses and articles for web developers
+
+<br/>
+
+## Miscellaneous elements to consider in software architecture
+
+* Use GMT to avoid daylight saving issues
+* Make sure the software is easy to update, to rollback and don't forget caching!
+* If a server goes down and then up, clients should reconnect automatically
+
+
