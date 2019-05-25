@@ -18,6 +18,8 @@ I hate multithreading with shared data. I've spent weeks (and one poor friend sp
 
 > **Martin Odersky** (Developer of the Java compiler, Designer of Scala language): “If you're considering shared data and locks, it is helpful to recall the words of Harry Callahan, played by Clint Eastwood in the 1971 movie Dirty Harry: ‘I know what you're thinking. Did he fire six shots or only five? Well, to tell you the truth, in all this excitement I kind of lost track myself.But being as this is a .44 Magnum, the most powerful handgun in the world, and would blow your head clean off, you've got to ask yourself one question: Do I feel lucky? Well, do ya, punk?’” [Dirty Harry - clip](https://youtu.be/8Xjr2hnOHiM?t=93){:target="_blank"}
 
+> **David Knuth** : “Let me put it this way: During the past 50 years, I’ve written well over a thousand programs, many of which have substantial size. I can’t think of even five of those programs that would have been enhanced noticeably by parallelism or multithreading.” [web](http://www.informit.com/articles/article.aspx?p=1193856){:target="_blank"}
+
 ------------------------------------------------------
 
 ### Why multithreading is evil and how to leverage multicore if you don’t do multithreading?
