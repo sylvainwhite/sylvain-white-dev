@@ -24,8 +24,6 @@ The keyword 'This' is always tricky. Here are two very good articles by to unvei
 * [The Keyword "this" for Beginners by Brandon Morelli](https://codeburst.io/javascript-the-keyword-this-for-beginners-fb5238d99f85){:target="_blank"}
 * [Understanding the "this" keyword in JavaScript by Nick](http://unschooled.org/2012/03/understanding-javascript-this/){:target="_blank"}
 
-
-
 <br/>
 
 ## ES6 - Javascript course summary
@@ -54,12 +52,5 @@ From blog 'Deleting code' by Nat Batchelder [[web]](https://nedbatchelder.com/te
 
 * **Sitepoint** [[web]](https://www.sitepoint.com/){:target="_blank} Melbourne-based website, and publisher of books, courses and articles for web developers
 
-<br/>
-
-## Miscellaneous elements to consider in software architecture
-
-* Use GMT to avoid daylight saving issues
-* Make sure the software is easy to update, to rollback and don't forget caching!
-* If a server goes down and then up, clients should reconnect automatically
 
 

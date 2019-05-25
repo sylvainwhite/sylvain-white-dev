@@ -107,3 +107,11 @@ SOLID is an acronym that stands for five basic principles of OO design:
 * Dependency Inversion Principle
 
 Here is a neat article by William Durand explaining it in a funny way [[web]](https://williamdurand.fr/2013/07/30/from-stupid-to-solid-code/){:target="_blank"}
+
+<br/>
+
+## Miscellaneous elements to consider in software architecture
+
+* Use GMT to avoid daylight saving issues
+* Make sure the software is easy to update, to rollback and don't forget caching!
+* If a server goes down and then up, clients should reconnect automatically
