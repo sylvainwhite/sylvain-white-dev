@@ -118,3 +118,9 @@ From 'A culture of fear' by Allen Holub, Software Development Times, April, 2006
 
 > Several formal studies have demonstrated conclusively that short cycle times and regular releases of the software into the hands of real users is one of the wo “best practices” that measurably reduce development time and increase quality. (The other
 is regular design reviews.) Since I've done test-driven development, I've not only seen my development times cut at least in half, but also have found programming to be a much more enjoyable activity.
+
+<br/>
+
+## Marketing for Geeks
+
+Very good analysis by Eric Sink of the book 'The 22 Immutable Laws of Marketing'  [[web]](https://ericsink.com/Immutable_Laws.pdf){:target="_blank"} 
