@@ -10,7 +10,7 @@ tags: [misc]
 
 ## Controlling file permissions with umask
 
-From 'Controlling file permissions with umask'on website 'linuxzoo' [[web](https://linuxzoo.net/page/sec_umask.html){:target="_blank"}]
+From 'Controlling file permissions with umask' on website 'linuxzoo' [[web](https://linuxzoo.net/page/sec_umask.html){:target="_blank"}]
 [[pdf]({{ site.github.url }}/resources/controllingUmask.pdf){:target="_blank"}]
 
 * Default permissions are assigned by the linux system whenever you create a new file or directory, and these are governed by the umask setting
