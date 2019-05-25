@@ -123,4 +123,7 @@ is regular design reviews.) Since I've done test-driven development, I've not on
 
 ## Marketing for Geeks
 
-Very good analysis by Eric Sink of the book 'The 22 Immutable Laws of Marketing'  [[web]](https://ericsink.com/Immutable_Laws.pdf){:target="_blank"} 
+Very good analysis by Eric Sink of the book 'The 22 Immutable Laws of Marketing'  
+[[web]](https://ericsink.com/Immutable_Laws.pdf){:target="_blank"} 
+
+> The book is one of my favorites. [...] For each of the 22 laws, I will summarize the main point and draw a connection to the software industry. 
