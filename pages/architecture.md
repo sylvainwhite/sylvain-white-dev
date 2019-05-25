@@ -12,13 +12,14 @@ tags: [architecture]
  
 I hate multithreading with shared data. I've spent weeks (and one poor friend spent months!) to fix weird and complex bugs with multithreading. I believe in some software gods who defend this statement: 
 
-> **Douglas CrockFord** (The JavaScript god): “In systems programming threads are a necessary evil. In application programming they’re just evil.”
+> **Douglas CrockFord** (The JavaScript god): “In systems programming threads are a necessary evil. In application programming they’re just evil.” [[web](http://borys.musielak.eu/douglas-crockford-on-threads){:target="_blank"}]
 
-> **Peter Hintjens** (AMQP, ZeroMQ designer & developer): “It's a rare book that deserves burning, but most books on concurrent programming do”
+> **Peter Hintjens** (AMQP, ZeroMQ designer & developer): “It's a rare book that deserves burning, but most books on concurrent programming do” [[web](https://www.oreilly.com/library/view/zeromq/9781449334437/ch02s06.html){:target="_blank"}]
 
-> **Martin Odersky** (Developer of the Java compiler, Designer of Scala language): “If you're considering shared data and locks, it is helpful to recall the words of Harry Callahan, played by Clint Eastwood in the 1971 movie Dirty Harry: ‘I know what you're thinking. Did he fire six shots or only five? Well, to tell you the truth, in all this excitement I kind of lost track myself.But being as this is a .44 Magnum, the most powerful handgun in the world, and would blow your head clean off, you've got to ask yourself one question: Do I feel lucky? Well, do ya, punk?’” [Dirty Harry - clip](https://youtu.be/8Xjr2hnOHiM?t=93){:target="_blank"}
+> **Martin Odersky** (Developer of the Java compiler, Designer of Scala language): “If you're considering shared data and locks, it is helpful to recall the words of Harry Callahan, played by Clint Eastwood in the 1971 movie Dirty Harry: ‘I know what you're thinking. Did he fire six shots or only five? Well, to tell you the truth, in all this excitement I kind of lost track myself.But being as this is a .44 Magnum, the most powerful handgun in the world, and would blow your head clean off, you've got to ask yourself one question: Do I feel lucky? Well, do ya, punk?’” [[web](https://www.artima.com/pins1ed/actors-and-concurrency.html){:target="_blank"}]
+[[Dirty Harry - clip](https://youtu.be/8Xjr2hnOHiM?t=93){:target="_blank"}]
 
-> **David Knuth** : “Let me put it this way: During the past 50 years, I’ve written well over a thousand programs, many of which have substantial size. I can’t think of even five of those programs that would have been enhanced noticeably by parallelism or multithreading.” [web](http://www.informit.com/articles/article.aspx?p=1193856){:target="_blank"}
+> **David Knuth** : “Let me put it this way: During the past 50 years, I’ve written well over a thousand programs, many of which have substantial size. I can’t think of even five of those programs that would have been enhanced noticeably by parallelism or multithreading.” [[web](http://www.informit.com/articles/article.aspx?p=1193856){:target="_blank"}]
 
 ------------------------------------------------------
 
