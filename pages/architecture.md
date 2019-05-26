@@ -116,3 +116,9 @@ Here is a neat article by William Durand explaining it in a funny way [[web]](ht
 * Use GMT to avoid daylight saving issues
 * Make sure the software is easy to update, to rollback and don't forget caching!
 * If a server goes down and then up, clients should reconnect automatically
+
+<br/>
+
+## A brief introduction to REST
+
+* See this [post]({{ site.github.url }}/protocols/restPrinciples.html){:target="_blank"}
