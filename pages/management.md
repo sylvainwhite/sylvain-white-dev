@@ -84,16 +84,6 @@ The most important early warning signs are intangibles.
 
 <br/>
 
-## About micro-payments
-
-Maybe a bit outdated but I agree with William Shields in **Stackoverflow, Advertising and the Ethics of a Free Lunch** [[web](http://www.cforcoding.com/2009/10/stackoverflow-advertising-and-ethics-of.html){:target="_blank"}]
-
-Micro-payments or very small amount to pay for something doesn't work because...
-
-> This strategy doesn't work, because the act of buying anything, even if the price is very small, creates what Nick Szabo calls mental transaction costs, the energy required to decide whether something is worth buying or not, regardless of price.
-
-<br/>
-
 ## Think Better: An Innovator's Guide to Productive Thinking
 
 Personal summary [[pdf]({{ site.github.url }}/resources/summaryThinkBetter-protected.pdf){:target="_blank"}] of "Think Better: An Innovator's Guide to Productive Thinking"
@@ -120,14 +110,3 @@ From 'A culture of fear' by Allen Holub, Software Development Times, April, 2006
 * Why Agile works in reality
 > Several formal studies have demonstrated conclusively that short cycle times and regular releases of the software into the hands of real users is one of the wo “best practices” that measurably reduce development time and increase quality. (The other
 is regular design reviews.) Since I've done test-driven development, I've not only seen my development times cut at least in half, but also have found programming to be a much more enjoyable activity.
-
-<br/>
-
-## Marketing for Geeks
-
-Very good analysis by Eric Sink of the book 'The 22 Immutable Laws of Marketing'  
-[[web]](https://ericsink.com/Immutable_Laws.pdf){:target="_blank"} 
-
-> **Eric Sink**: The book is one of my favorites. [...] For each of the 22 laws, I will summarize the main point and draw a connection to the software industry. 
-
-Pdf version with highlighted quotes I found most interesting [[pdf]({{ site.github.url }}/resources/marketingForGeeks.pdf){:target="_blank"}]
