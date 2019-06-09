@@ -1,9 +1,9 @@
 ---
-layout: post
+layout: misc
 title: "UI tips and tricks"
 author: "Sylvain White"
-categories: ui
-tags: [ui]
+categories: marketing
+tags: [marketing]
 # image: city-2.jpg
 ---
 <br/>
@@ -32,3 +32,10 @@ based planning for UI design:
 >... for any serious application, the rewards of activity based planning are even greater. When you’re designing a program from scratch, you already have a vision of what activities your users are going to be doing. Figuring out this vision is not hard at all, it takes almost no effort at all to do some brainstorming with coworkers, write down a list of potential activities, and then decide which ones you want to focus on. But forcing yourself to list these activities on paper will help your overall design enormously.
 
 [The complete post](https://www.joelonsoftware.com/2000/05/09/the-process-of-designing-a-product/){:target="_blank"}
+
+<br/>
+
+## C.R.A.P. design principles
+
+At last, not another TLA (Three Letter Acronym) but a FLA! Nice basic principles to UI design.
+[[web]](https://saylordotorg.github.io/text_business-information-systems-design-an-app-for-that/s07-01-c-r-a-p-principles-of-graphic-.html){:target="_blank"}
