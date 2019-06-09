@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Use more VMs on your laptop"
+title: "Use more VMs on laptop"
 author: "Sylvain White"
 categories: misc
 tags: [misc]
