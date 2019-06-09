@@ -52,5 +52,8 @@ From blog 'Deleting code' by Nat Batchelder [[web]](https://nedbatchelder.com/te
 
 * **Sitepoint** [[web]](https://www.sitepoint.com/){:target="_blank} Melbourne-based website, and publisher of books, courses and articles for web developers
 
+## Lisp?
 
+> "SQL, Lisp, and Haskell are the only programming languages that I've seen where one spends more time thinking than typing." <br>\- Philip Greenspun
 
+Hmmmm... I am thinking of learning Lisp. Really.

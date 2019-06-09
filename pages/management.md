@@ -109,4 +109,22 @@ From 'A culture of fear' by Allen Holub, Software Development Times, April, 2006
 
 * Why Agile works in reality
 > Several formal studies have demonstrated conclusively that short cycle times and regular releases of the software into the hands of real users is one of the wo “best practices” that measurably reduce development time and increase quality. (The other
-is regular design reviews.) Since I've done test-driven development, I've not only seen my development times cut at least in half, but also have found programming to be a much more enjoyable activity.
+is regular design reviews.)
+
+<br/>
+
+## About performance metrics
+
+From Joel Spolsky's post [The Econ 101 Management Method](https://www.joelonsoftware.com/2006/08/09/the-econ-101-management-method/){:target="_blank"}
+
+> Robert Austin, in his book Measuring and Managing Performance in Organizations, says there are two phases when you introduce new performance metrics. At first, you actually get what you wanted, because nobody has figured out how to cheat. In the second phase, you actually get something worse, as everyone figures out the trick to maximizing the thing that you’re measuring, even at the cost of ruining the company.
+
+<br/>
+
+## Neutralize the bozos
+
+From Joel Spolsky's post [Getting Things Done When You’re Only a Grunt](https://www.joelonsoftware.com/2001/12/25/getting-things-done-when-youre-only-a-grunt/){:target="_blank"}
+
+> Even the best teams can have a bozo or two. The frustrating part about having bad programmers on your team is when their bad code breaks your good code, or good programmers have to spend time cleaning up after the bad programmers.
+
+> As a grunt, your goal is damage-minimization, a.k.a. containment. At some point, one of these geniuses will spend two weeks writing a bit of code that is so unbelievably bad that it can never work. You’re tempted to spend the fifteen minutes that it takes to rewrite the thing correctly from scratch. Resist the temptation. You’ve got a perfect opportunity to neutralize this moron for several months. Just keep reporting bugs against their code. They will have no choice but to keep slogging away at it for months until you can’t find any more bugs. **Those are months in which they can’t do any damage anywhere else.**

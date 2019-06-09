@@ -122,3 +122,9 @@ Here is a neat article by William Durand explaining it in a funny way [[web]](ht
 ## A brief introduction to REST
 
 * See this [post]({{ site.github.url }}/protocols/restPrinciples.html){:target="_blank"}
+
+<br/>
+
+## Broker versus Brokerless architecture: a comparison
+
+Short and super clear comparison between both approaches. [[web]](http://zeromq.org/whitepapers:brokerless){:target="_blank"}
