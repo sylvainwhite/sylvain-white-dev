@@ -20,7 +20,7 @@ tags: [marketing]
 
 Written by Jonathan Snook - pdf version of SMACCS I annotated [[pdf]({{ site.github.url }}/resources/smacss-2012-08-21-annotated.pdf){:target="_blank"}]
 
-[More SMACCS on the web](https://smacss.com/){:target="_blank"}
+[More SMACCS on the web](http://smacss.com/){:target="_blank"}
 
 <br/>
 
@@ -37,5 +37,6 @@ based planning for UI design:
 
 ## C.R.A.P. design principles
 
-At last, not another TLA (Three Letter Acronym) but a FLA! Nice basic principles to UI design.
+At last, not another TLA (Three Letter Acronym) but a FLA!<br/>
+Nice basic principles to UI design
 [[web]](https://saylordotorg.github.io/text_business-information-systems-design-an-app-for-that/s07-01-c-r-a-p-principles-of-graphic-.html){:target="_blank"}

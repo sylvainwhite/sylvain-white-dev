@@ -127,4 +127,4 @@ Here is a neat article by William Durand explaining it in a funny way [[web]](ht
 
 ## Broker versus Brokerless architecture: a comparison
 
-Short and super clear comparison between both approaches. [[web]](http://zeromq.org/whitepapers:brokerless){:target="_blank"}
+Short and super clear comparison between both approaches [[web]](http://zeromq.org/whitepapers:brokerless){:target="_blank"}
