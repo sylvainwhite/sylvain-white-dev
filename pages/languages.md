@@ -52,8 +52,21 @@ From blog 'Deleting code' by Nat Batchelder [[web]](https://nedbatchelder.com/te
 
 * **Sitepoint** [[web]](https://www.sitepoint.com/){:target="_blank} Melbourne-based website, and publisher of books, courses and articles for web developers
 
+<br/>
+
 ## Lisp?
 
 > "SQL, Lisp, and Haskell are the only programming languages that I've seen where one spends more time thinking than typing." <br>\- Philip Greenspun
 
 Hmmmm... I am thinking of learning Lisp. Really.
+
+<br/>
+
+## What are the cultural differences between Unix and Windows programmers?
+
+From blog 'Biculturalism' by Joel Spolsky [[web]](https://www.joelonsoftware.com/2003/12/14/biculturalism/){:target="_blank"} 
+
+> There are many details and subtleties, but for the most part it comes down to one thing: Unix culture values code which is useful to other programmers, while Windows culture values code which is useful to non-programmers.
+<br/>...
+
+> When Unix was created and when it formed its cultural values, there were no end users. Computers were expensive, CPU time was expensive, and learning about computers meant learning how to program. It’s no wonder that the culture which emerged valued things which are useful to other programmers. By contrast, Windows was created with one goal only: to sell as many copies as conceivable at a profit.
