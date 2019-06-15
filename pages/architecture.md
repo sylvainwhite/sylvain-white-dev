@@ -23,11 +23,13 @@ I hate multithreading with shared data. I've spent weeks (and one poor friend sp
 
 ------------------------------------------------------
 
-### Why multithreading is evil and how to leverage multicore if you don’t do multithreading?
+### Why multithreading is evil for development?
 
 [The problem with threads](https://www2.eecs.berkeley.edu/Pubs/TechRpts/2006/EECS-2006-1.pdf){:target="_blank"}
 
 [The Painful State of the Art - in Multithreading magic](http://zeromq.org/blog:multithreading-magic){:target="_blank"}
+
+> A technical article from Microsoft titled "Solving 11 Likely Problems In Your Multithreaded Code" demonstrates how painful the state of the art is. [...] The article says, "correctly engineered concurrent code must live by an extra set of rules when compared to its sequential counterpart." This is putting it mildly. The developer enters a minefield of processor code reordering, data atomicity, and worse. Let's look at what those "extra rules" are. Note the rafts of new terminology the poor developer has to learn.
 
 ------------------------------------------------------
 
@@ -58,12 +60,6 @@ Personal summary of MVC architecture [[pdf]({{ site.github.url }}/resources/summ
 
 * [Android Architecture by Thanos Karpouzis](https://android.jlelse.eu/android-architecture-2f12e1c7d4db){:target="_blank"}
 * [MVC, MVP and MVVM: The Ideas by Sergei Tachenov](http://www.tachenov.name/2016/09/30/208/){:target="_blank"}
-
-<br/>
-
-## Spread toolkit - Does good software live forever?
-
-The Spread toolkit provides a high performance messaging service that is resilient to faults across local and wide area networks [[web](http://www.spread.org/index.html){:target="_blank"}] [[performance](http://www.cnds.jhu.edu/pub/papers/cnds-2004-1.pdf){:target="_blank"}]
 
 <br/>
 
@@ -111,7 +107,7 @@ Here is a neat article by William Durand explaining it in a funny way [[web]](ht
 
 <br/>
 
-## Miscellaneous elements to consider in software architecture
+## Various elements to consider in software architecture
 
 * Use GMT to avoid daylight saving issues
 * Make sure the software is easy to update, to rollback and don't forget caching!
@@ -119,12 +115,32 @@ Here is a neat article by William Durand explaining it in a funny way [[web]](ht
 
 <br/>
 
-## A brief introduction to REST
-
-* See this [post]({{ site.github.url }}/protocols/restPrinciples.html){:target="_blank"}
-
-<br/>
-
 ## Broker versus Brokerless architecture: a comparison
 
 Short and super clear comparison between both approaches [[web]](http://zeromq.org/whitepapers:brokerless){:target="_blank"}
+
+<br/>
+
+## Semantic versionning
+
+Summary from [[web]](https://semver.org/){:target="_blank"}.
+ Given a version number **MAJOR.MINOR.PATCH**, increment the:
+
+* **MAJOR** version when you make incompatible API changes
+* **MINOR** version when you add functionality in a backwards-compatible manner
+* **PATCH** version when you make backwards-compatible bug fixes
+
+<br/>
+
+## How do you structure your apps?
+
+There is no recipe to build a good architecture but here are few good
+advices to build one. See slides 'How do you structure your apps?' [[pdf]({{ site.github.url }}/resources/howDoYouStructureYourApps.pdf){:target="_blank"}] by Kat Zien
+
+<br/>
+
+## See also posts on architecture
+
+{% for post in site.tags["architecture"] %}
+  <a href="{{ site.github.url }}{{ post.url }}">{{ post.title }}</a>
+{% endfor %}
