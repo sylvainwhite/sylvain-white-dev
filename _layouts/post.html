@@ -36,13 +36,14 @@ layout: default
   </article>
 
   {% if page.categories contains "misc" %}
+  <!-- Don't show any 'related posts' here since miscellaneous means they are not related...-->
   {% else %}
     <div class="related">
       <div>{{ site.data.settings.related_posts }}</div>
       {% assign listed_posts_urls = page.url | split: ' ' %}
       <ul class="related-posts">
         {% for tag in page.tags %}
-          {% for mypost in site.tags[tag] limit:3 %}
+          {% for mypost in site.tags[tag] limit:2 %}
             {% if listed_posts_urls contains mypost.url %}
             {% else %}
               <li>
