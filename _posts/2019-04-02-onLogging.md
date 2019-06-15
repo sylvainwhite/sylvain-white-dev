@@ -16,6 +16,8 @@ Great article summarizing the classic logging problems. Not only JAVA.
 [[pdf]({{ site.github.url }}/resources/9JavaLoggingProblems.pdf){:target="_blank"}]
 [[web](https://stackify.com/9-logging-sins-java/){:target="_blank"}]
 
+<br/>
+
 ## Tips when logging in JSON
 
 Why JSON format is better than raw text
