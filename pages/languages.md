@@ -40,6 +40,14 @@ How to track and fix javascript memory leaks by Sebastian Peyrott
 
 <br/>
 
+## Java Memory Leaks: Tools, Fixes, and More - DZone
+
+Beware of Java memory leaks!
+
+[[web](https://dzone.com/articles/how-to-find-and-fix-memory-leaks-in-your-java-appl){:target="_blank"}]
+[[pdf]({{ site.github.url }}/resources/javaMemoryLeaks.pdf){:target="_blank"}]
+<br/>
+
 ## Why we shouldn't comment out code
 
 From blog 'Deleting code' by Nat Batchelder [[web]](https://nedbatchelder.com/text/deleting-code.html){:target="_blank"} [[pdf]({{ site.github.url }}/resources/deletingCode.pdf){:target="_blank"}]
