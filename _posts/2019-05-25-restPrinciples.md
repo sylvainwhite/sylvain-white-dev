@@ -3,7 +3,7 @@ layout: post
 title: "REST principles"
 author: "Sylvain White"
 categories: protocols
-tags: [protocols]
+tags: [protocols,architecture]
 # image: city-2.jpg
 ---
 <br/>
