@@ -50,7 +50,7 @@ Beware of Java memory leaks!
 
 ## Why we shouldn't comment out code
 
-From blog 'Deleting code' by Nat Batchelder [[web]](https://nedbatchelder.com/text/deleting-code.html){:target="_blank"} [[pdf]({{ site.github.url }}/resources/deletingCode.pdf){:target="_blank"}]
+From the blog 'Deleting code' by Nat Batchelder [[web]](https://nedbatchelder.com/text/deleting-code.html){:target="_blank"} [[pdf]({{ site.github.url }}/resources/deletingCode.pdf){:target="_blank"}]
 
 <br/>
 
@@ -72,7 +72,7 @@ Hmmmm... I am thinking of learning Lisp. Really.
 
 ## What are the cultural differences between Unix and Windows programmers?
 
-From blog 'Biculturalism' by Joel Spolsky [[web]](https://www.joelonsoftware.com/2003/12/14/biculturalism/){:target="_blank"} 
+From the blog 'Biculturalism' by Joel Spolsky [[web]](https://www.joelonsoftware.com/2003/12/14/biculturalism/){:target="_blank"} 
 
 > There are many details and subtleties, but for the most part it comes down to one thing: Unix culture values code which is useful to other programmers, while Windows culture values code which is useful to non-programmers.
 <br/>...
