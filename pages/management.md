@@ -51,7 +51,7 @@ From Wikipedia:
 
 One image worth thousand words. What have we, programmers, been doing all those years?
 
-![Chaos report]({{ site.github.url }}/resources/chaos_report_statistics.png "Chaos report")
+![Chaos report]({{ site.github.url }}/resources/chaosReportStatistics.png "Chaos report")
 
 From [Successful Projects--What We Really Know](http://www.planningplanet.com/blog/successful-projects-what-we-really-know){:target="_blank"}
 
