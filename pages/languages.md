@@ -54,7 +54,7 @@ From the blog 'Deleting code' by Nat Batchelder [[web]](https://nedbatchelder.co
 
 <br/>
 
-## Two good blogs
+## Two good sites
 
 * **Tutorialspoint** [[web]](https://www.tutorialspoint.com/){:target="_blank"} delivers Simply Easy Learning with clear, crisp, and to-the-point content on a wide range of technical and non-technical subjects without any preconditions and impediments.
 
