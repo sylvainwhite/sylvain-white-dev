@@ -63,7 +63,7 @@ The solution is to memorize some key phrases, and practice saying them, so that 
 
 - “I’m sorry, it’s my fault.”
 - “I’m sorry, I can’t accept your money. The meal’s on me.”
-- “That’s terrible, please tell me what happened so I can make sure it never happens again
+- “That’s terrible, please tell me what happened so I can make sure it never happens again"
 
 **#6 Practice puppetry**
 
