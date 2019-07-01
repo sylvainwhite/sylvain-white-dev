@@ -8,14 +8,6 @@ title: Languages
 
     Bjarne Stroustrup
 
-
-<br/>
-
-## Summary of 'The C Programming Language' by Kernighan & Ritchie
-
-Personal summary of the classic "The C Programming Language" by Brian W. Kernighan & Dennis M. Ritchie, Prentice Hall ed., 1988. Because I read it thoroughly many times. It is more nostalgia than anything else. Note the book was typeset with (pic|tbl|eqn|troff -ms) on a DEC VAX 8550. It says it all.
-[[pdf]({{ site.github.url }}/resources/cLanguageKRSummary.pdf){:target="_blank"}]
-
 <br/>
 
 ## Javascript: The keyword 'This'
@@ -40,12 +32,28 @@ How to track and fix javascript memory leaks by Sebastian Peyrott
 
 <br/>
 
+## The Weird History of JavaScript
+
+A very clean summary on youtube of the Javascript history famously made in 10 days... 
+
+[The Weird History of JavaScript](https://www.youtube.com/watch?v=Sh6lK57Cuk4){:target="_blank"}
+
+<br/>
+
+## Summary of 'The C Programming Language' by Kernighan & Ritchie
+
+Personal summary of the classic "The C Programming Language" by Brian W. Kernighan & Dennis M. Ritchie, Prentice Hall ed., 1988. Because I read it thoroughly many times. It is more nostalgia than anything else. Note the book was typeset with (pic|tbl|eqn|troff -ms) on a DEC VAX 8550. It says it all.
+[[pdf]({{ site.github.url }}/resources/cLanguageKRSummary.pdf){:target="_blank"}]
+
+<br/>
+
 ## Java Memory Leaks: Tools, Fixes, and More - DZone
 
 Beware of Java memory leaks!
 
 [[web](https://dzone.com/articles/how-to-find-and-fix-memory-leaks-in-your-java-appl){:target="_blank"}]
 [[pdf]({{ site.github.url }}/resources/javaMemoryLeaks.pdf){:target="_blank"}]
+
 <br/>
 
 ## Why we shouldn't comment out code
