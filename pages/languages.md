@@ -91,4 +91,4 @@ From the blog 'Biculturalism' by Joel Spolsky [[web]](https://www.joelonsoftware
 
 ## About functional programming
 
-Rather long but very clear paper on functional programming 'Functional Programming For The Rest of Us' by Slava Akhmechet [[web]]hhttps://www.defmacro.org/2006/06/19/fp.html){:target="_blank"} [[pdf]({{ site.github.url }}/resources/functionalProgramming.pdf){:target="_blank"}]
+Rather long but very clear introduction paper on functional programming 'Functional Programming For The Rest of Us' by Slava Akhmechet [[web](https://www.defmacro.org/2006/06/19/fp.html){:target="_blank"}] [[pdf]({{ site.github.url }}/resources/functionalProgramming.pdf){:target="_blank"}]
