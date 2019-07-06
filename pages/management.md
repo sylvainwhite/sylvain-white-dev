@@ -128,3 +128,11 @@ From Joel Spolsky's post [Getting Things Done When You’re Only a Grunt](https:
 > Even the best teams can have a bozo or two. The frustrating part about having bad programmers on your team is when their bad code breaks your good code, or good programmers have to spend time cleaning up after the bad programmers.
 
 > As a grunt, your goal is damage-minimization, a.k.a. containment. At some point, one of these geniuses will spend two weeks writing a bit of code that is so unbelievably bad that it can never work. You’re tempted to spend the fifteen minutes that it takes to rewrite the thing correctly from scratch. Resist the temptation. You’ve got a perfect opportunity to neutralize this moron for several months. Just keep reporting bugs against their code. They will have no choice but to keep slogging away at it for months until you can’t find any more bugs. **Those are months in which they can’t do any damage anywhere else.**
+
+<br/>
+
+## ‘Imagine: How Creativity Works’
+
+An excellent summary of the book 'Imagine: How Creativity Works by Jonah Lehrer' written by Aaron from the website 'New Books in Brief'
+
+[web](http://newbooksinbrief.com/2012/04/29/12-a-summary-of-imagine-how-creativity-works-by-jonah-lehrer/){:target="_blank"} [pdf]({{ site.github.url }}/resources/summaryOfImagine.pdf){:target="_blank"}
