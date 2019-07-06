@@ -86,3 +86,9 @@ From the blog 'Biculturalism' by Joel Spolsky [[web]](https://www.joelonsoftware
 <br/>...
 
 > When Unix was created and when it formed its cultural values, there were no end users. Computers were expensive, CPU time was expensive, and learning about computers meant learning how to program. It’s no wonder that the culture which emerged valued things which are useful to other programmers. By contrast, Windows was created with one goal only: to sell as many copies as conceivable at a profit.
+
+<br/>
+
+## About functional programming
+
+Rather long but very clear paper on functional programming 'Functional Programming For The Rest of Us' by Slava Akhmechet [[web]]hhttps://www.defmacro.org/2006/06/19/fp.html){:target="_blank"} [[pdf]({{ site.github.url }}/resources/functionalProgramming.pdf){:target="_blank"}]
