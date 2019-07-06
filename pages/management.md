@@ -135,4 +135,5 @@ From Joel Spolsky's post [Getting Things Done When You’re Only a Grunt](https:
 
 An excellent summary of the book 'Imagine: How Creativity Works by Jonah Lehrer' written by Aaron from the website 'New Books in Brief'
 
-[web](http://newbooksinbrief.com/2012/04/29/12-a-summary-of-imagine-how-creativity-works-by-jonah-lehrer/){:target="_blank"} [pdf]({{ site.github.url }}/resources/summaryOfImagine.pdf){:target="_blank"}
+[[web](http://newbooksinbrief.com/2012/04/29/12-a-summary-of-imagine-how-creativity-works-by-jonah-lehrer/){:target="_blank"}]
+[[pdf]({{ site.github.url }}/resources/summaryOfImagine.pdf){:target="_blank"}]
