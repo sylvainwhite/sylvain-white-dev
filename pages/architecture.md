@@ -52,6 +52,13 @@ A multi-threaded program, given the same set of inputs, may well do something di
 
 ------------------------------------------------------
 
+### But I must debug a multithreaded program. Help me!
+
+[Intel® Inpsector](https://software.intel.com/en-us/inspector){:target="_blank"}
+
+For C, C++ programs (on Windows or Linux), I would try 'Intel® Inpsector' to help debugging  and then use 'Intel® Threading Building Blocks' [[web](https://software.intel.com/en-us/intel-tbb){:target="_blank"}] to refactor if necessary. May the force be with you.
+
+------------------------------------------------------
 <br/>
 
 ## Summary of Model-View-Controller architecture
