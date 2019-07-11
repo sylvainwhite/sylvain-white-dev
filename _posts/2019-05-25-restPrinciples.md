@@ -19,7 +19,10 @@ tags: [protocols,architecture]
 
 <br/>
 
-* Relation between REST methods and CRUD (from Todd Fredrich [[web](https://www.restapitutorial.com/lessons/httpmethods.html){:target="_blank"}])
+## Relation between REST methods and CRUD operations 
+
+* A summary table with REST methods and CRUD operations 
+(CREATE, READ, UPDATE, DELETE) from Todd Fredrich [[web](https://www.restapitutorial.com/lessons/httpmethods.html){:target="_blank"}]
 
 | HTTP Methods | CRUD           | Entire Collection | Specific item |
 |--------------|----------------|-------------------|---------------|
@@ -28,3 +31,13 @@ tags: [protocols,architecture]
 | PUT          | UPDATE/REPLACE | 405 (Method Not Allowed), unless you want to update/replace every resource in the entire collection. |200 (OK) or 204 (No Content). 404 (Not Found), if ID not found or invalid.|
 | PATCH        | UPDATE/MODIFY  | 405 (Method Not Allowed), unless you want to modify the collection itself. | 200 (OK) or 204 (No Content). 404 (Not Found), if ID not found or invalid.|
 | DELETE       | DELETE         |  405 (Method Not Allowed), unless you want to delete the whole collection—not often desirable.| 200 (OK). 404 (Not Found), if ID not found or invalid.|
+
+<br/>
+
+## Web API - Crafting Interfaces that Developers Love
+
+Excellent document on how to create a REST API with concrete world examples.
+
+"Web API Design - Crafting interfaces that developers love" by Brian Mulloy
+[[pdf]({{ site.github.url }}/resources/webApiDesign.pdf){:target="_blank"}]
+[[web](https://pages.apigee.com/rs/apigee/images/api-design-ebook-2012-03.pdf){:target="_blank"}]
