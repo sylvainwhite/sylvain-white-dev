@@ -114,14 +114,6 @@ Here is a neat article by William Durand explaining it in a funny way [[web]](ht
 
 <br/>
 
-## Various elements to consider in software architecture
-
-* Use GMT to avoid daylight saving issues
-* Make sure the software is easy to update, to rollback and don't forget caching!
-* If a server goes down and then up, clients should reconnect automatically
-
-<br/>
-
 ## Broker versus Brokerless architecture: a comparison
 
 Short and super clear comparison between both approaches [[web]](http://zeromq.org/whitepapers:brokerless){:target="_blank"}
@@ -151,3 +143,11 @@ advices to build one. See slides 'How do you structure your apps?' [[pdf]({{ sit
 {% for post in site.tags["architecture"] %}
   <a href="{{ site.github.url }}{{ post.url }}">{{ post.title }}</a>
 {% endfor %}
+
+<br/>
+
+## Various items to consider in software architecture
+
+* Use GMT to avoid daylight saving issues
+* Make sure the software is easy to update, to rollback and don't forget caching!
+* If a server goes down and then up, clients should reconnect automatically
