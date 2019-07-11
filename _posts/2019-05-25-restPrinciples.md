@@ -24,13 +24,13 @@ tags: [protocols,architecture]
 * A summary table with REST methods and CRUD operations 
 (CREATE, READ, UPDATE, DELETE) from Todd Fredrich [[web](https://www.restapitutorial.com/lessons/httpmethods.html){:target="_blank"}]
 
-| HTTP Methods | CRUD           | Entire Collection | Specific item |
-|--------------|----------------|-------------------|---------------|
-| POST         | CREATE         | 201 (Created), 'Location' header with link to /customers/{id} containing new ID. | 404 (Not Found), 409 (Conflict) if resource already exists.|
-| GET          | READ           | 200 (OK), list of customers. Use pagination, sorting and filtering to navigate big lists. | 200 (OK), single customer. 404 (Not Found), if ID not found or invalid.|
-| PUT          | UPDATE/REPLACE | 405 (Method Not Allowed), unless you want to update/replace every resource in the entire collection. |200 (OK) or 204 (No Content). 404 (Not Found), if ID not found or invalid.|
-| PATCH        | UPDATE/MODIFY  | 405 (Method Not Allowed), unless you want to modify the collection itself. | 200 (OK) or 204 (No Content). 404 (Not Found), if ID not found or invalid.|
-| DELETE       | DELETE         |  405 (Method Not Allowed), unless you want to delete the whole collection—not often desirable.| 200 (OK). 404 (Not Found), if ID not found or invalid.|
+| HTTP&nbsp;methods | CRUD | Entire&nbsp;collection | Specific&nbsp;item |
+|-------------------|------|------------------------|--------------------|
+| POST           | CREATE         | 201 (Created), 'Location' header with link to /customers/{id} containing new ID. | 404 (Not Found), 409 (Conflict) if resource already exists.|
+| GET            | READ           | 200 (OK), list of customers. Use pagination, sorting and filtering to navigate big lists. | 200 (OK), single customer. 404 (Not Found), if ID not found or invalid.|
+| PUT            | UPDATE/REPLACE | 405 (Method Not Allowed), unless you want to update/replace every resource in the entire collection. |200 (OK) or 204 (No Content). 404 (Not Found), if ID not found or invalid.|
+| PATCH          | UPDATE/MODIFY  | 405 (Method Not Allowed), unless you want to modify the collection itself. | 200 (OK) or 204 (No Content). 404 (Not Found), if ID not found or invalid.|
+| DELETE         | DELETE         |  405 (Method Not Allowed), unless you want to delete the whole collection—not often desirable.| 200 (OK). 404 (Not Found), if ID not found or invalid.|
 
 <br/>
 
