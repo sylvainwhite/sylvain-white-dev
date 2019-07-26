@@ -10,7 +10,7 @@ tags: [misc]
 
 ## Chicken & Egg Problems
 
-A fabulous anecdote about Windows 95 and its backward compatibility from Joel Spolsky blog [Strategy Letter II: Chicken and Egg Problems](https://developer.mozilla.org/en-US/docs/Web/HTTP/CORS){:target="_blank"}
+A fabulous anecdote about Windows 95 and its backward compatibility from Joel Spolsky blog [Strategy Letter II: Chicken and Egg Problems](https://www.joelonsoftware.com/2000/05/24/strategy-letter-ii-chicken-and-egg-problems/){:target="_blank"}
 
 > So. If you’re in the platform creation business, you are probably going to suffer from what is commonly known as the chicken and egg problem. Nobody is going to buy your platform until there’s good software that runs on it, and nobody is going to write software until you have a big installed base
 
