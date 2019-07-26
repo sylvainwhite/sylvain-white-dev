@@ -2,8 +2,8 @@
 layout: post
 title: "Chicken & Egg Problems"
 author: "Sylvain White"
-categories: protocols
-tags: [protocols]
+categories: misc
+tags: [misc]
 # image: city-2.jpg
 ---
 <br/>
