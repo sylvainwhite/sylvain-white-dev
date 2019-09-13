@@ -10,36 +10,6 @@ title: Languages
 
 <br/>
 
-## Javascript: The keyword 'This'
-
-The keyword 'This' is always tricky. Here are two very good articles by to unveil the mystery! 
-* [The Keyword "this" for Beginners by Brandon Morelli](https://codeburst.io/javascript-the-keyword-this-for-beginners-fb5238d99f85){:target="_blank"}
-* [Understanding the "this" keyword in JavaScript by Nick](http://unschooled.org/2012/03/understanding-javascript-this/){:target="_blank"}
-
-<br/>
-
-## ES6 - Javascript course summary
-
-This is a document [[pdf]({{ site.github.url }}/resources/es6JavascriptCourseSummary.pdf){:target="_blank"}] I wrote to summarize the excellent ES6 pluralsight javascript course [[web](https://www.pluralsight.com/courses/javascript-fundamentals-es6){:target="_blank"}]
-
-<br/>
-
-## Javascript memory leaks? Yes. It can happen
-
-How to track and fix javascript memory leaks by Sebastian Peyrott
-
-[4 Types of Memory Leaks in JavaScript and How to Get Rid Of Them](https://auth0.com/blog/four-types-of-leaks-in-your-javascript-code-and-how-to-get-rid-of-them/){:target="_blank"}
-
-<br/>
-
-## The Weird History of JavaScript
-
-A very clean summary on youtube of the Javascript history famously made in 10 days... 
-
-[The Weird History of JavaScript](https://www.youtube.com/watch?v=Sh6lK57Cuk4){:target="_blank"}
-
-<br/>
-
 ## Summary of 'The C Programming Language' by Kernighan & Ritchie
 
 Personal summary of the classic "The C Programming Language" by Brian W. Kernighan & Dennis M. Ritchie, Prentice Hall ed., 1988. Because I read it thoroughly many times. It is more nostalgia than anything else. Note the book was typeset with (pic|tbl|eqn|troff -ms) on a DEC VAX 8550. It says it all.

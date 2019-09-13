@@ -9,9 +9,9 @@ google-ID: ''
 menu:
 - {name: 'Architecture', folder: 'pages', file: 'architecture.html'}
 - {name: 'Languages', folder: 'pages', file: 'languages.html'}
+- {name: 'Javascript', folder: 'pages', file: 'javascript.html'}
 - {name: 'Management', folder: 'pages', file: 'management.html'}
 - {name: 'UI tips and tricks', folder: 'pages', file: 'uiTipsAndTricks.html'}
-- {name: 'Protocols', folder: 'pages', file: 'protocols.html'}
 - {name: 'TODO list', folder: 'pages', file: 'technicalToDoList.html'}
 
 # Available social icons are powered by Font Awesome, so you can use any icon that they offer
