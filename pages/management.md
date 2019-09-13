@@ -4,14 +4,6 @@ title: Management
 ---
 <br/>
 
-## Management - all I believe in
-
-Thanks to a former colleague.
-
-[Tips and tricks for managing]({{ site.github.url }}/resources/tipsAndTricksForManaging-protected.pdf){:target="_blank"}
-
-<br/>
-
 ## Interpersonal communication 
 
 A classic paper on interpersonal communication.
@@ -137,3 +129,11 @@ An excellent summary of the book 'Imagine: How Creativity Works by Jonah Lehrer'
 
 [[web](http://newbooksinbrief.com/2012/04/29/12-a-summary-of-imagine-how-creativity-works-by-jonah-lehrer/){:target="_blank"}]
 [[pdf]({{ site.github.url }}/resources/summaryOfImagine.pdf){:target="_blank"}]
+
+<br/>
+
+## Management - all I believe in
+
+Thanks to a former colleague.
+
+[Tips and tricks for managing]({{ site.github.url }}/resources/tipsAndTricksForManaging-protected.pdf){:target="_blank"}
