@@ -10,7 +10,7 @@ tags: [architecture]
 
 ## About multithreading with shared data
  
-I hate multithreading with shared data. I've spent weeks (and one poor friend spent months!) to fix weird and complex bugs with multithreading. I believe in some software gods who defend this statement: 
+I hate multithreading with shared data. I've spent weeks (and one poor friend spent months!) to fix weird and complex bugs with multithreading. I believe in some software pundits who defend this statement: 
 
 > **Douglas CrockFord** (The JavaScript god): “In systems programming threads are a necessary evil. In application programming they’re just evil.” [[web](http://borys.musielak.eu/douglas-crockford-on-threads){:target="_blank"}]
 
@@ -44,19 +44,25 @@ A multi-threaded program, given the same set of inputs, may well do something di
 
 ------------------------------------------------------
 
-### Multithreading with ZeroMQ
+### But I must program a multithreaded application
+
+Here a some suggestions:
 
 [ZeroMQ manual](http://zeromq.org/intro:read-the-manual){:target="_blank"}
 
 > ZeroMQ is perhaps the nicest way ever to write multithreaded (MT) applications. Whereas ZeroMQ sockets require some readjustment if you are used to traditional sockets, ZeroMQ multithreading will take everything you know about writing MT applications, throw it into a heap in the garden, pour gasoline over it, and set it alight. It's a rare book that deserves burning, but most books on concurrent programming do. To make utterly perfect MT programs (and I mean that literally), we don't need mutexes, locks, or any other form of inter-thread communication except messages sent across ZeroMQ sockets.
 
-------------------------------------------------------
+[OpenMP](http://zeromq.org/intro:read-the-manual){:target="_blank"}
 
-### But I must debug a multithreaded program. Help me!
+> OpenMP uses a portable, scalable model that gives programmers a simple and flexible interface for developing parallel applications for platforms ranging from the standard desktop computer to the supercomputer.An application built with the hybrid model of parallel programming can run on a computer cluster using both OpenMP and Message Passing Interface (MPI), such that OpenMP is used for parallelism within a (multi-core) node while MPI is used for parallelism between nodes
 
-[Intel® Inpsector](https://software.intel.com/en-us/inspector){:target="_blank"}
+[Intel® Threading Building Blocks](https://software.intel.com/en-us/intel-tbb){:target="_blank"}
 
-For C, C++ programs (on Windows or Linux), I would try 'Intel® Inpsector' to help debugging  and then use 'Intel® Threading Building Blocks' [[web](https://software.intel.com/en-us/intel-tbb){:target="_blank"}] to refactor if necessary. May the force be with you.
+> Threading Building Blocks (TBB) is a C++ template library developed by Intel for parallel programming on multi-core processors. Using TBB, a computation is broken down into tasks that can run in parallel. The library manages and schedules threads to execute these tasks
+
+[Intel® Inspector](https://software.intel.com/en-us/inspector){:target="_blank"}
+
+> Intel Inspector (successor of Intel Thread Checker) is a memory and thread checking and debugging tool to increase the reliability, security, and accuracy of C/C++ applications
 
 ------------------------------------------------------
 <br/>
