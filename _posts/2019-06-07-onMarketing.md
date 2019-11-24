@@ -76,3 +76,12 @@ The no-questions-asked 90-day money back guarantee was one of the best decisions
 **#8 (Bonus!) Give customer service people a career path**
 
 The last important lesson we learned here at Fog Creek is that you need very highly qualified people talking to customers.
+
+<br/>
+
+## On selling software to corporate customers
+
+From Paul Graham blog ['The other half of artists ship'](http://www.paulgraham.com/artistsship.html){:target="_blank"} 
+
+>  Joel Spolsky recently spoke at Y Combinator about selling software to corporate customers. He said that in most companies software costing up to about $1000 could be bought by individual managers without any additional approvals. Above that threshold, software purchases generally had to be approved by a committee. But babysitting this process was so expensive for software vendors that it didn't make sense to charge less than $50,000. Which means if you're making something you might otherwise have charged $5000 for, you have to sell it for $50,000 instead.
+
