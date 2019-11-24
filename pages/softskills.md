@@ -9,24 +9,19 @@ tags: [soft skills]
 
 ## Interpersonal communication 
 
-A classic paper on interpersonal communication.
-
-[Barriers ans Gateways to Communication]({{ site.github.url }}/resources/barriersAndGatewaysToCommunication.pdf){:target="_blank"} by Carl R. Rogers and F. J. Roethlisberger
+A classic paper on interpersonal communication: [Barriers and Gateways to Communication]({{ site.github.url }}/resources/barriersAndGatewaysToCommunication.pdf){:target="_blank"} by Carl R. Rogers and F. J. Roethlisberger
 
 <br/>
 
 ## Managing software developers, it is like...
 
-Watch this commercial to find out.
-
-[EDS Commercial](https://www.youtube.com/watch?v=Pk7yqlTMvp8){:target="_blank"}
+Watch this commercial to find out: [EDS Commercial](https://www.youtube.com/watch?v=Pk7yqlTMvp8){:target="_blank"}
 
 <br/>
 
 ## Think Better: Guide to Productive Thinking
 
-Personal summary [pdf]({{ site.github.url }}/resources/summaryThinkBetter-protected.pdf){:target="_blank"} of "Think Better: An Innovator's Guide to Productive Thinking"
-by Tim Hurson, McGraw Hill, 2008
+Personal summary of 'Think Better: An Innovator's Guide to Productive Thinking' [[pdf]({{ site.github.url }}/resources/summaryThinkBetter-protected.pdf){:target="_blank"}] by Tim Hurson, McGraw Hill, 2008
 
 From Amazon web site:
 > The principles you'll find in Think Better are straight-forward: separate your thinking into creative thinking and critical thinking; stay with the question; strive for the **third third** by generating lots and lots of ideas; and look for unexpected connection
@@ -35,20 +30,19 @@ From Amazon web site:
 
 ## 12 Things Successful People Do Differently
 
-Good summary of common sense advices [web]](http://www.marcandangel.com/2012/01/22/12-things-successful-people-do-differently/){:target="_blank"} 
+Good summary of common sense advices: [12 Things Successful People Do Differently](http://www.marcandangel.com/2012/01/22/12-things-successful-people-do-differently/){:target="_blank"} 
 
 <br/>
 
 ## Imagine: How Creativity Works
 
-An excellent summary of the book 'Imagine: How Creativity Works by Jonah Lehrer' written by Aaron from the website 'New Books in Brief' [web](http://newbooksinbrief.com/2012/04/29/12-a-summary-of-imagine-how-creativity-works-by-jonah-lehrer/){:target="_blank"}
-[pdf]({{ site.github.url }}/resources/summaryOfImagine.pdf){:target="_blank"}
+An excellent summary of the book 'Imagine: How Creativity Works by Jonah Lehrer' written by Aaron from the website 'New Books in Brief' [[web](http://newbooksinbrief.com/2012/04/29/12-a-summary-of-imagine-how-creativity-works-by-jonah-lehrer/){:target="_blank"}] [[pdf]({{ site.github.url }}/resources/summaryOfImagine.pdf){:target="_blank"}]
 
 <br/>
 
 ## Brain Rules
 
-12 Principles for Surviving and Thriving at Work, Home, and School by John Medina [web](http://www.brainrules.net/pdf/mediakit.pdf){:target="_blank"} 
+ [12 Principles for Surviving and Thriving at Work, Home, and School](http://www.brainrules.net/pdf/mediakit.pdf){:target="_blank"} by John Medina 
 
 Few very practical tricks on presentation:
 
