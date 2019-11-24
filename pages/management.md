@@ -2,23 +2,6 @@
 layout: misc
 title: Management
 ---
-<br/>
-
-## Interpersonal communication 
-
-A classic paper on interpersonal communication.
-
-[Barriers ans Gateways to Communication]({{ site.github.url }}/resources/barriersAndGatewaysToCommunication.pdf){:target="_blank"} by Carl R. Rogers and F. J. Roethlisberger
-
-<br/>
-
-## Managing software developers, it is like...
-
-Watch this commercial to find out.
-
-[EDS Commercial](https://www.youtube.com/watch?v=Pk7yqlTMvp8){:target="_blank"}
-
-<br/>
 
 ## Does your work worth something?
 
@@ -72,22 +55,6 @@ The most important early warning signs are intangibles.
 
 <br/>
 
-## Think Better: Guide to Productive Thinking
-
-Personal summary [pdf]({{ site.github.url }}/resources/summaryThinkBetter-protected.pdf){:target="_blank"} of "Think Better: An Innovator's Guide to Productive Thinking"
-by Tim Hurson, McGraw Hill, 2008
-
-From Amazon web site:
-> The principles you'll find in Think Better are straight-forward: separate your thinking into creative thinking and critical thinking; stay with the question; strive for the **third third** by generating lots and lots of ideas; and look for unexpected connection
-
-<br/>
-
-## 12 Things Successful People Do Differently
-
-Good summary of common sense advices [web]](http://www.marcandangel.com/2012/01/22/12-things-successful-people-do-differently/){:target="_blank"} 
-
-<br/>
-
 ## The beginning of Agile
 
 From 'A culture of fear' by Allen Holub, Software Development Times, April, 2006 [web](https://archive.org/details/sdtimes148/page/n23){:target="_blank"}. Two insightful quotes:
@@ -116,13 +83,6 @@ From Joel Spolsky's post [Getting Things Done When You’re Only a Grunt](https:
 > Even the best teams can have a bozo or two. The frustrating part about having bad programmers on your team is when their bad code breaks your good code, or good programmers have to spend time cleaning up after the bad programmers.
 
 > As a grunt, your goal is damage-minimization, a.k.a. containment. At some point, one of these geniuses will spend two weeks writing a bit of code that is so unbelievably bad that it can never work. You’re tempted to spend the fifteen minutes that it takes to rewrite the thing correctly from scratch. Resist the temptation. You’ve got a perfect opportunity to neutralize this moron for several months. Just keep reporting bugs against their code. They will have no choice but to keep slogging away at it for months until you can’t find any more bugs. **Those are months in which they can’t do any damage anywhere else.**
-
-<br/>
-
-## Imagine: How Creativity Works
-
-An excellent summary of the book 'Imagine: How Creativity Works by Jonah Lehrer' written by Aaron from the website 'New Books in Brief' [web](http://newbooksinbrief.com/2012/04/29/12-a-summary-of-imagine-how-creativity-works-by-jonah-lehrer/){:target="_blank"}
-[pdf]({{ site.github.url }}/resources/summaryOfImagine.pdf){:target="_blank"}
 
 <br/>
 
@@ -177,26 +137,17 @@ Book by Micheal E. Gerber [web](https://www.samuelthomasdavies.com/book-summarie
 
 The two principles I've noticed:
 
-* An excellent operating system is mor important the the company's product
+* An excellent operating system is more important the the company's product
 * Discipline, standards and procedures are the calling cards of a successful company
 
 <br/>
 
-## Brain Rules
+## Every check has a cost
 
-12 Principles for Surviving and Thriving at Work, Home, and School by John Medina [web](http://www.brainrules.net/pdf/mediakit.pdf){:target="_blank"} 
+From Paul Graham blog ['The other half of artists ship'](http://www.paulgraham.com/artistsship.html){:target="_blank"} 
 
-Few very practical tricks on presentation:
+> Every check has a cost. For example, consider the case of making suppliers verify their solvency. Surely that's mere prudence? But in fact it could have substantial costs. There's obviously the direct cost in time of the people on both sides who supply and check proofs of the supplier's solvency. But the real costs are the ones you never hear about: the company that would be the best supplier, but doesn't bid because they can't spare the effort to get verified. Or the company that would be the best supplier, but falls just short of the threshold for solvency—which will of course have been set on the high side, since there is no apparent cost of increasing it.
 
-* When you're giving a presentation, capture th audience' interest as soon as you can. You want your audience focus.
+> **Whenever someone in an organization proposes to add a new check, they should have to explain not just the benefit but the cost**. No matter how bad a job they did of analyzing it, this meta-check would at least remind everyone there had to be a cost, and send them looking for it.
 
-* Provide information in 10-minute chunks and use entertaining hooks between those chunks. 
-
-* People learn better when they can refer to familair examples. To be more memorable, engage your listeners' substantively.
-
-Tricks on long term memory:
-
-* Think about hte information within the first hour or so after you learn it
-* Immediately speak to other people about it in great detail
-* Have a good night's sleep and rehearse the information again afterward
 
