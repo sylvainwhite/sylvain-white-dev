@@ -150,4 +150,23 @@ From Paul Graham blog ['The other half of artists ship'](http://www.paulgraham.c
 
 > **Whenever someone in an organization proposes to add a new check, they should have to explain not just the benefit but the cost**. No matter how bad a job they did of analyzing it, this meta-check would at least remind everyone there had to be a cost, and send them looking for it.
 
+<br/>
 
+## The Heart of Change
+
+From 'Executive books summary' [web](https://pdfs.semanticscholar.org/7eec/41cb1c0e5d717cebb2f0ea9d9721b5d7fae3.pdf){:target="_blank"} [pdf]({{ site.github.url }}/resources/theHeartOfChange.pdf){:target="_blank"}
+
+1. Create a sense of urgency so that people start telling each other “Let’s go, we need to change things!”
+2. Pull together a guiding team powerful enough to guide a big change.
+3. Create clear, simple, uplifting visions and sets of strategies.
+4. Communicate the vision through simple, heartfelt messages sent through multiple channels so that people begin to buy into the change.
+5. Empower people by removing obstacles to the  vision.
+6. Create short-term wins that provide momentum.
+7. Maintain momentum so that wave after wave of change is possible.
+8. Make change stick by nurturing a new culture.
+
+Tell a story to create a sense of urgency
+
+> One company brought the need for change to executive attention with a compelling demonstration. The company bought and ordered gloves for its factories through a decentralized process. As a result, the company bought 424 different types of gloves. To make matters worse, each factory negotiated its own glove purchases. Some factories paid $5 per pair
+while another paid $17 per pair for exactly the same glove!
+To spur action, a manager collected one pair of all 424 types of gloves, attached the price, and placed them on the board room conference table. The vice-presidents were shocked by what they saw and immediately took action to change the company’s procurement practices.
