@@ -152,9 +152,9 @@ From Paul Graham blog ['The other half of artists ship'](http://www.paulgraham.c
 
 <br/>
 
-## The Heart of Change
+## The Heart of Change 
 
-From 'Executive books summary' [web](https://pdfs.semanticscholar.org/7eec/41cb1c0e5d717cebb2f0ea9d9721b5d7fae3.pdf){:target="_blank"} [pdf]({{ site.github.url }}/resources/theHeartOfChange.pdf){:target="_blank"}
+Book by John Kotter and Dan Cohen. From 'Executive books summary' [web](https://pdfs.semanticscholar.org/7eec/41cb1c0e5d717cebb2f0ea9d9721b5d7fae3.pdf){:target="_blank"} [pdf]({{ site.github.url }}/resources/theHeartOfChange.pdf){:target="_blank"}
 
 1. Create a sense of urgency so that people start telling each other “Let’s go, we need to change things!”
 2. Pull together a guiding team powerful enough to guide a big change.
@@ -170,3 +170,34 @@ Tell a story to create a sense of urgency
 > One company brought the need for change to executive attention with a compelling demonstration. The company bought and ordered gloves for its factories through a decentralized process. As a result, the company bought 424 different types of gloves. To make matters worse, each factory negotiated its own glove purchases. Some factories paid $5 per pair
 while another paid $17 per pair for exactly the same glove!
 To spur action, a manager collected one pair of all 424 types of gloves, attached the price, and placed them on the board room conference table. The vice-presidents were shocked by what they saw and immediately took action to change the company’s procurement practices.
+
+<br/>
+
+## How to start a startup
+
+From Paul Graham blog ['How to start a startup'](http://www.paulgraham.com/start.html){:target="_blank"}. Excerpts from this blog:
+
+ You should get a MBA ?
+
+ > If you work your way down the Forbes 400 making an x next to the name of each person with an MBA, you'll learn something important about business school. After Warren Buffett, you don't hit another MBA till number 22, Phil Knight, the CEO of Nike. There are only 5 MBAs in the top 50. What you notice in the Forbes 400 are a lot of people with technical backgrounds. Bill Gates, Steve Jobs, Larry Ellison, Michael Dell, Jeff Bezos, Gordon Moore. The rulers of the technology business tend to come from technology, not business. So if you want to invest two years in something that will help you succeed in business, the evidence suggests you'd do better to learn how to hack than get an MBA
+
+What should you do for you customers ?
+
+ > I learned something valuable from that. It's worth trying very, very hard to make technology easy to use. Hackers are so used to computers that they have no idea how horrifying software seems to normal people.
+ [...] If you want ideas for startups, one of the most valuable things you could do is find a middle-sized non-technology company and spend a couple weeks just watching what they do with computers.
+mers.
+
+Who should be you customers ?
+
+ > Start by writing software for smaller companies, because it's easier to sell to them. It's worth so much to sell stuff to big companies that the people selling them the crap they currently use spend a lot of time and money to do it. And while you can outhack Oracle with one frontal lobe tied behind your back, you can't outsell an Oracle salesman. So if you want to win through better technology, aim at smaller customers
+
+Why you should have a great customer support ?
+
+> I was great at customer support though. Imagine talking to a customer support person who not only knew everything about the product, but would apologize abjectly if there was a bug, and then fix it immediately, while you were on the phone with them. Customers loved us. And we loved them, because when you're growing slow by word of mouth, your first batch of users are the ones who were smart enough to find you by themselves. There is nothing more valuable, in the early stages of a startup, than smart users. If you listen to them, they'll tell you exactly how to make a winning product. And not only will they give you this advice for free, they'll pay you.
+
+Should you grow fast ?
+
+> But in fact we were doing exactly the right thing. Once you get big (in users or employees) it gets hard to change your product. That year was effectively a laboratory for improving our software.
+[...] To make something users love, you have to understand them. And the bigger you are, the harder that is. So I say "get big slow." The slower you burn through your funding, the more time you have to learn.
+
+
