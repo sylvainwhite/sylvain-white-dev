@@ -54,7 +54,7 @@ Few very practical tricks on presentation:
 
 Tricks on long term memory:
 
-* Think about hte information within the first hour or so after you learn it
+* Think about the information within the first hour or so after you learn it
 * Immediately speak to other people about it in great detail
 * Have a good night's sleep and rehearse the information again afterward
 
