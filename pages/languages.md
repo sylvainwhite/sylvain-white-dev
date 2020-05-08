@@ -32,14 +32,6 @@ From the blog 'Deleting code' by Nat Batchelder [[web]](https://nedbatchelder.co
 
 <br/>
 
-## Two good sites
-
-* **Tutorialspoint** [[web]](https://www.tutorialspoint.com/){:target="_blank"} delivers Simply Easy Learning with clear, crisp, and to-the-point content on a wide range of technical and non-technical subjects without any preconditions and impediments.
-
-* **Sitepoint** [[web]](https://www.sitepoint.com/){:target="_blank} Melbourne-based website, and publisher of books, courses and articles for web developers
-
-<br/>
-
 ## Lisp?
 
 > "SQL, Lisp, and Haskell are the only programming languages that I've seen where one spends more time thinking than typing." <br>\- Philip Greenspun
