@@ -60,10 +60,6 @@ Here a some suggestions:
 
 > Threading Building Blocks (TBB) is a C++ template library developed by Intel for parallel programming on multi-core processors. Using TBB, a computation is broken down into tasks that can run in parallel. The library manages and schedules threads to execute these tasks
 
-[Intel® Inspector](https://software.intel.com/en-us/inspector){:target="_blank"}
-
-> Intel Inspector (successor of Intel Thread Checker) is a memory and thread checking and debugging tool to increase the reliability, security, and accuracy of C/C++ applications
-
 ------------------------------------------------------
 <br/>
 
@@ -123,17 +119,6 @@ Here is a neat article by William Durand explaining it in a funny way [[web]](ht
 ## Broker versus Brokerless architecture: a comparison
 
 Short and super clear comparison between both approaches [[web]](http://zeromq.org/whitepapers:brokerless){:target="_blank"}
-
-<br/>
-
-## Semantic versionning
-
-Summary from [[web]](https://semver.org/){:target="_blank"}.
- Given a version number **MAJOR.MINOR.PATCH**, increment the:
-
-* **MAJOR** version when you make incompatible API changes
-* **MINOR** version when you add functionality in a backwards-compatible manner
-* **PATCH** version when you make backwards-compatible bug fixes
 
 <br/>
 
