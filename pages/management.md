@@ -63,7 +63,7 @@ From 'A culture of fear' by Allen Holub, Software Development Times, April, 2006
 > ObjectMentor’s Robert Martin, in his keynote, asked if anyone had ever had to work on a piece of code so hideously complicated that it took forever to get even a simple change to work? Everybody raised their hands. He then asked, “So, why did you write it that way?” which engendered a nervous laugh from most of the crowd.
 
 * Why Agile works in reality
-> Several formal studies have demonstrated conclusively that short cycle times and regular releases of the software into the hands of real users is one of the wo “best practices” that measurably reduce development time and increase quality. (The other
+> Several formal studies have demonstrated conclusively that short cycle times and regular releases of the software into the hands of real users is one of the two “best practices” that measurably reduce development time and increase quality. (The other
 is regular design reviews.)
 
 <br/>
