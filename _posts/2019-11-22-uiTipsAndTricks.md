@@ -49,3 +49,10 @@ Advices to follow when desiging a web page
 [[web]](https://www.singlegrain.com/blog-posts/conversions/101-on-eye-tracking-how-your-eyes-move-on-a-website-infographic/){:target="_blank"}
 
 ![]({{ site.github.url }}/resources/howEyeMoveOnWebpage.png "How Your Eyes Move on a Website Infographic?")
+
+<br/>
+
+## 7 Gestalt principles of visual perception
+
+Why It's Essential for Good Design
+[[web]](https://www.usertesting.com/blog/gestalt-principles/){:target="_blank"}
