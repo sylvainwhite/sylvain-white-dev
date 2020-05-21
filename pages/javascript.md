@@ -33,7 +33,6 @@ A very clean summary on youtube of the Javascript history famously made in 10 da
 
 <br/>
 
-
 ## Javascript promises
 
 Here is code that shows the behavior of Promises in different
@@ -316,8 +315,20 @@ References:
 
 ```js
 // -Three ways to create Object in JavaScript
-var a = {firstName: "Elvis", lastName: "Presley", songs: {"blues": "It's now or never", "rock": "Blue suede shoes"}}; // literal
-var b = new Object({firstName: "Elvis", lastName: "Presley", songs: {"blues": "It's now or never", "rock": "Blue suede shoes"}}); // equivalent to literal
+var a = { firstName: "Elvis",
+          lastName: "Presley", 
+          songs: {  "blues": "It's now or never", 
+                    "rock": "Blue suede shoes"
+          }
+        }; // literal
+
+var b = new Object({ firstName: "Elvis", 
+                     lastName: "Presley", 
+                     songs: { "blues": "It's now or never", 
+                              "rock": "Blue suede shoes"
+                     }
+                    }); // equivalent to literal
+
 var c = Object.create(a); // create a shallow copy of object a
 
 console.log("1: " + a.lastName);
@@ -372,7 +383,8 @@ console.log("----------------");
 console.log("11: " + Object.getPrototypeOf(a).constructor.name);
 console.log("12: " + Object.getPrototypeOf(d).constructor.name);
 
-// We can create a new object from an existing object or from the prototype since prototype is an object itself
+// We can create a new object from an existing object or from the prototype
+// since prototype is an object itself
 var e = Object.create(d); // from an existing object
 var f = Object.create(Person.prototype); // from the prototype
 e.firstName = "Ingrid";
@@ -388,7 +400,8 @@ console.log("17: " + f.code);
 // -So, firstName and lastName are undefined
 console.log("18: " + f.introduce());
 
-// -Prototypes are chained (prototype has prototype that has prototype etc... up to Object.prototype)
+// -Prototypes are chained (prototype has prototype that has prototype etc.
+// up to Object.prototype)
 // -With Person, we have a simple example of chaining of 2 prototypes
 
 console.log("----------------");
@@ -437,7 +450,8 @@ console.log("25: " + h.subject);
 console.log("26: " + h.introduce());
 
 // -Inheritance - the Crockford way (note there are other inheritance patterns)
-// -Build an object, create a copy and modify it. It is differential inheritance by opposition to the classic inheritance
+// -Build an object, create a copy and modify it. It is differential inheritance 
+// by opposition to the classic inheritance
 var person = {
     init: function(firstName, lastName) {
       this.firstName = firstName;
@@ -467,4 +481,4 @@ console.log("27: " + t.teach());
 
 Run it with repl.it
 
-<iframe height="400px" width="100%" src="https://repl.it/repls/AnnualBlissfulDifference?lite=true" scrolling="no" frameborder="no" allowtransparency="true" allowfullscreen="true" sandbox="allow-forms allow-pointer-lock allow-popups allow-same-origin allow-scripts allow-modals"></iframe>
+<iframe height="400px" width="100%" src="https://repl.it/repls/DarkredAffectionateAgents?lite=true" scrolling="no" frameborder="no" allowtransparency="true" allowfullscreen="true" sandbox="allow-forms allow-pointer-lock allow-popups allow-same-origin allow-scripts allow-modals"></iframe>
