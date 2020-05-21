@@ -301,6 +301,8 @@ Run it with repl.it
 
 <iframe height="400px" width="100%" src="https://repl.it/repls/EcstaticClosedWordprocessor?lite=true" scrolling="no" frameborder="no" allowtransparency="true" allowfullscreen="true" sandbox="allow-forms allow-pointer-lock allow-popups allow-same-origin allow-scripts allow-modals"></iframe>
 
+<br/>
+
 ## Explanation of JavaScript prototype property
 
 **Warning**: Rather old but still valuable. Doesn't include ES6 syntax 
