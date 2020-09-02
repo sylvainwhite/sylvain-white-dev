@@ -55,7 +55,7 @@ The most important early warning signs are intangibles.
 
 <br/>
 
-## The beginning of Agile
+## About Agile
 
 From 'A culture of fear' by Allen Holub, Software Development Times, April, 2006 [web](https://archive.org/details/sdtimes148/page/n23){:target="_blank"}. Two insightful quotes:
 
@@ -65,6 +65,13 @@ From 'A culture of fear' by Allen Holub, Software Development Times, April, 2006
 * Why Agile works in reality
 > Several formal studies have demonstrated conclusively that short cycle times and regular releases of the software into the hands of real users is one of the two “best practices” that measurably reduce development time and increase quality. (The other
 is regular design reviews.)
+
+From 'Spreading the Agile Practice' by David Rubinstein, Software Development Times, Octobre 15, 2007 [web](https://archive.org/details/sdtimes184/page/n39/mode/2up){:target="_blank"}. Two quotes:
+
+> People don't pay for the quality. You say quality, people think QA and QA
+has no money. Switch out quality with 'delivery speed' and people start buying it
+
+> Get rid of email (for communication). It is a disaster.
 
 <br/>
 
