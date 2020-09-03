@@ -207,4 +207,23 @@ Should you grow fast ?
 > But in fact we were doing exactly the right thing. Once you get big (in users or employees) it gets hard to change your product. That year was effectively a laboratory for improving our software.
 [...] To make something users love, you have to understand them. And the bigger you are, the harder that is. So I say "get big slow." The slower you burn through your funding, the more time you have to learn.
 
+<br/>
 
+## The Mythical Man-Month
+
+Some takeaways from the classic book ([web](https://en.wikipedia.org/wiki/The_Mythical_Man-Month){:target="_blank"})
+
+#### About communication
+
+Communication is the most critical component of complex programming projects.
+
+#### About project delays
+
+Sometimes, projects fall behind schedule and miss key deadlines. This usually isn't
+due to some major disaster, but it is caused instead by little slips here and
+there.
+
+#### About software complexity
+
+While hardware designers address the challenges of the physical universe,
+software designers must deal with 'arbitrary complexity' of human culture.
