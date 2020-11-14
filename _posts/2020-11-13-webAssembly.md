@@ -26,7 +26,7 @@ Excellent paper from Milica Mihajlija
 * Examples of Javascript engines executing wasm: V8, SpiderMonkey, JavaScriptCore, Chakra
 
 4. Web Assembly interacts with JavaScript in the browser 
-* Examples in C, C++, Rust [[web](hhttps://www.tutorialspoint.com/webassembly/webassembly_examples.htm){:target="_blank"}] 
+* Examples in C, C++, Rust [[web](https://www.tutorialspoint.com/webassembly/webassembly_examples.htm){:target="_blank"}] 
 * Example with more details in C++ [[web](https://www.freecodecamp.org/news/get-started-with-webassembly-using-only-14-lines-of-javascript-b37b6aaca1e4/){:target="_blank"}] 
 
 5. Web Assembly interacts with JavaScript both ways: 
