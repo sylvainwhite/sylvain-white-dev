@@ -1,5 +1,5 @@
 ---
-layout: misc
+layout: post
 title: "Rules of productivity"
 author: "Sylvain White"
 categories: ui

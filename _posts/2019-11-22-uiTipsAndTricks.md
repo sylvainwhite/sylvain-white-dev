@@ -1,5 +1,5 @@
 ---
-layout: misc
+layout: post
 title: "UI tips and tricks"
 author: "Sylvain White"
 categories: ui

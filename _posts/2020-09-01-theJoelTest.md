@@ -1,5 +1,5 @@
 ---
-layout: misc
+layout: post
 title: "The Joel Test"
 author: "Sylvain White"
 categories: misc
