@@ -211,7 +211,7 @@ Should you grow fast ?
 
 ## Book: The Mythical Man-Month
 
-Some takeaways from the classic book ([web](https://en.wikipedia.org/wiki/The_Mythical_Man-Month){:target="_blank"})
+Some takeaways from the classic book [[web](https://en.wikipedia.org/wiki/The_Mythical_Man-Month){:target="_blank"}]
 
 #### About communication
 
