@@ -8,12 +8,12 @@ title: Management
 The signs you work for a factory and not for a software company caring about what they deliver.
 
 "12 Signs you're working in a Feature Factory" by John Cutler
-[pdf]({{ site.github.url }}/resources/12SignsYoureWorkingInAFeatureFactory.pdf){:target="_blank"}
-[web](https://hackernoon.com/12-signs-youre-working-in-a-feature-factory-44a5b938d6a2){:target="_blank"}
+[[pdf]({{ site.github.url }}/resources/12SignsYoureWorkingInAFeatureFactory.pdf){:target="_blank"}]
+[[web](https://hackernoon.com/12-signs-youre-working-in-a-feature-factory-44a5b938d6a2){:target="_blank"}]
 
 <br/>
 
-## Summary of the Lean Startup
+## Summary of the book Lean Startup
 
 Personal summary [pdf]({{ site.github.url }}/resources/summaryLeanStartup-protected.pdf){:target="_blank"} of the "Lean Startup" by Eric Ries, Crown Business ed., 2011.
 
@@ -40,7 +40,7 @@ Here is rule of thumb that I've have been promoting for years. A team should hav
 
 ## How to spot a failing project
 
-Excerpt from the nice article **How to spot a failing project** by Rick Cook [pdf]({{ site.github.url }}/resources/howToSpotAFailingProject.pdf){:target="_blank"} [web](https://www.cio.com/article/2438424/how-to-spot-a-failing-project.html){:target="_blank"}
+Excerpt from the nice article **How to spot a failing project** by Rick Cook [[pdf]({{ site.github.url }}/resources/howToSpotAFailingProject.pdf){:target="_blank"}] [[web](https://www.cio.com/article/2438424/how-to-spot-a-failing-project.html){:target="_blank"}]
 
 The most important early warning signs are intangibles. 
 
@@ -57,7 +57,7 @@ The most important early warning signs are intangibles.
 
 ## About Agile
 
-From 'A culture of fear' by Allen Holub, Software Development Times, April, 2006 [web](https://archive.org/details/sdtimes148/page/n23){:target="_blank"}. Two insightful quotes:
+From 'A culture of fear' by Allen Holub, Software Development Times, April, 2006 [[web](https://archive.org/details/sdtimes148/page/n23){:target="_blank"}]. Two insightful quotes:
 
 * On hideously complicated software
 > ObjectMentor’s Robert Martin, in his keynote, asked if anyone had ever had to work on a piece of code so hideously complicated that it took forever to get even a simple change to work? Everybody raised their hands. He then asked, “So, why did you write it that way?” which engendered a nervous laugh from most of the crowd.
@@ -128,7 +128,7 @@ The corollaries:
 
 ## The Five Dysfunctions of a Team
 
-From getAbstract summary [web](https://johncollinscareerdevelopmentplan.weebly.com/uploads/2/4/4/0/24401899/the-five-dysfunctions-of-a-team-lencioni-en-38141.pdf){:target="_blank"} [pdf]({{ site.github.url }}/resources/fiveDysfunctionsOfATeam.pdf){:target="_blank"}
+From getAbstract summary [[web](https://johncollinscareerdevelopmentplan.weebly.com/uploads/2/4/4/0/24401899/the-five-dysfunctions-of-a-team-lencioni-en-38141.pdf){:target="_blank"}] [[pdf]({{ site.github.url }}/resources/fiveDysfunctionsOfATeam.pdf){:target="_blank"}]
 
 * The first pitfall is a lack of trust.
 * The second pitfall is a fear of confrontation.
@@ -138,9 +138,9 @@ From getAbstract summary [web](https://johncollinscareerdevelopmentplan.weebly.c
 
 <br/>
 
-## The E-Myth Revisited
+## Book: The E-Myth Revisited
 
-Book by Micheal E. Gerber [web](https://www.samuelthomasdavies.com/book-summaries/business/the-e-myth-revisited/){:target="_blank"} 
+Book by Micheal E. Gerber [[web](https://www.samuelthomasdavies.com/book-summaries/business/the-e-myth-revisited/){:target="_blank"}]
 
 The two principles I've noticed:
 
@@ -159,9 +159,9 @@ From Paul Graham blog ['The other half of artists ship'](http://www.paulgraham.c
 
 <br/>
 
-## The Heart of Change 
+## Book: The Heart of Change 
 
-Book by John Kotter and Dan Cohen. From 'Executive books summary' [web](https://pdfs.semanticscholar.org/7eec/41cb1c0e5d717cebb2f0ea9d9721b5d7fae3.pdf){:target="_blank"} [pdf]({{ site.github.url }}/resources/theHeartOfChange.pdf){:target="_blank"}
+Book by John Kotter and Dan Cohen. From 'Executive books summary' [[web](https://pdfs.semanticscholar.org/7eec/41cb1c0e5d717cebb2f0ea9d9721b5d7fae3.pdf){:target="_blank"}] [[pdf]({{ site.github.url }}/resources/theHeartOfChange.pdf){:target="_blank"}]
 
 1. Create a sense of urgency so that people start telling each other “Let’s go, we need to change things!”
 2. Pull together a guiding team powerful enough to guide a big change.
@@ -209,7 +209,7 @@ Should you grow fast ?
 
 <br/>
 
-## The Mythical Man-Month
+## Book: The Mythical Man-Month
 
 Some takeaways from the classic book ([web](https://en.wikipedia.org/wiki/The_Mythical_Man-Month){:target="_blank"})
 
@@ -227,3 +227,48 @@ there.
 
 While hardware designers address the challenges of the physical universe,
 software designers must deal with 'arbitrary complexity' of human culture.
+
+<br/>
+
+## Book: In Search of Excellence
+
+Lessons from America's Best-Run Companies. Book written by Thomas J. Peters and Robert H. Waterman
+[[pdf]({{ site.github.url }}/resources/inSearchOfExcellenceBookSummary-protected.pdf){:target="_blank"}]
+Here are some excerpts from getAbstract summary:
+
+> [Good management principles] make a place for what might be considered that “messy human stuff.” These companies understand that people aren’t always rational, and that feelings motivate employees and customers. In fact, the eight principles of good management in excellent companies are all about people.
+
+#### Take-Aways
+
+* McKinsey’s 7-S Framework (see pdf for explanation)
+* People aren’t always rational. Emphasize the importance of that “messy human stuff.”
+* Create “a bias for action” by allowing a vast network of informal, open communications.
+* Customer needs, not cost or technology, generally drive excellent companies.
+* Support autonomy and entrepreneurship. Tolerate and encourage failure.
+* Respect the individual; offer a high degree of training to your employees.
+* Excellent companies are value-driven and have a “well-defined set of guiding beliefs.”
+* Stay lean, and keep your rules and procedures as simple as possible.
+* “Stick to the knitting”: stay focused on your core business.
+* Allow maximum individual freedom while setting a firm central direction.
+
+
+<br/>
+
+## Book: The Innovator's Dilemma
+
+When new technologies cause great firms to fail. Book written by Clayton M. Christensen [[web](https://en.wikipedia.org/wiki/The_Innovator%27s_Dilemma){:target="_blank"}]
+<br/>Here are some excerpts from getAbstract summary:
+
+> Paradoxically, great companies do not fail because they do bad things. They fail because
+they keep doing better at the things that made them great. They fail because they listen
+to their crucial customers; invest in the highest return opportunities; improve product
+quality; study market trends and strive to surpass the competition. The paradox of
+failure, the innovator’s dilemma, is that there is a point at which the right things are
+dead wrong
+
+> Engineers at established companies often discover and develop disruptive innovations,
+but their firms’ customers generally have no need for the changed products. Typically, the
+least profitable customers are first to embrace a disruptive technology. Thus, established
+firms that heed their key customers probably cannot make a case for investing in
+disruptive technologies. These firms do not do the wrong thing; they do the right thing
+—and go the wrong way.
