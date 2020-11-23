@@ -22,7 +22,7 @@ Excellent paper from Milica Mihajlija
 2. Many high level languages have compilers to generate the Web Assembly binary code (.wasm file)
 * Examples of languages generating wasm: C, C++, Rust, Go, Python, Java, PHP
 
-3. The binary code (.wasm file) is excuted by the Javascript engine in the browser
+3. The binary code (.wasm file) is executed by the Javascript engine in the browser
 * Examples of Javascript engines executing wasm: V8, SpiderMonkey, JavaScriptCore, Chakra
 
 4. Web Assembly interacts with JavaScript in the browser 
