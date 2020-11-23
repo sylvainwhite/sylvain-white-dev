@@ -272,3 +272,10 @@ least profitable customers are first to embrace a disruptive technology. Thus, e
 firms that heed their key customers probably cannot make a case for investing in
 disruptive technologies. These firms do not do the wrong thing; they do the right thing
 —and go the wrong way.
+
+<br/>
+
+## Study on outsourcing
+
+"A comparative study of important risk factors involved in offshore and domestic outsourcing" by Robbie T. Nakatsu and Charalambos L. Iacovou. Why outsourcing is so difficult. I've seen very few cases where it worth it. Even if programmers are paid 25% the salary of those in Canada or US. 
+[[pdf]({{ site.github.url }}/resources/comparisonStudyOutsourcing-protected.pdf){:target="_blank"}]
