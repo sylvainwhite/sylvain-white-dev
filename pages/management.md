@@ -236,7 +236,7 @@ Lessons from America's Best-Run Companies. Book written by Thomas J. Peters and 
 [[pdf]({{ site.github.url }}/resources/inSearchOfExcellenceBookSummary-protected.pdf){:target="_blank"}]
 Here are some excerpts from getAbstract summary:
 
-> [Good management principles] make a place for what might be considered that “messy human stuff.” These companies understand that people aren’t always rational, and that feelings motivate employees and customers. In fact, the eight principles of good management in excellent companies are all about people.
+> [Good management principles] make a place for what might be considered that “messy human stuff”. These companies understand that people aren’t always rational, and that feelings motivate employees and customers. In fact, the eight principles of good management in excellent companies are all about people.
 
 #### Take-Aways
 
