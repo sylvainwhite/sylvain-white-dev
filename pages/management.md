@@ -215,17 +215,17 @@ Some takeaways from the classic book [[web](https://en.wikipedia.org/wiki/The_My
 
 #### About communication
 
-Communication is the most critical component of complex programming projects.
+> Communication is the most critical component of complex programming projects.
 
 #### About project delays
 
-Sometimes, projects fall behind schedule and miss key deadlines. This usually isn't
+> Sometimes, projects fall behind schedule and miss key deadlines. This usually isn't
 due to some major disaster, but it is caused instead by little slips here and
 there.
 
 #### About software complexity
 
-While hardware designers address the challenges of the physical universe,
+> While hardware designers address the challenges of the physical universe,
 software designers must deal with 'arbitrary complexity' of human culture.
 
 <br/>
