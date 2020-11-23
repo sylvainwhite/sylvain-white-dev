@@ -241,7 +241,7 @@ Here are some excerpts from getAbstract summary:
 #### Take-Aways
 
 * McKinsey’s 7-S Framework (see pdf for explanation)
-* People aren’t always rational. Emphasize the importance of that “messy human stuff.”
+* People aren’t always rational. Emphasize the importance of that “messy human stuff”.
 * Create “a bias for action” by allowing a vast network of informal, open communications.
 * Customer needs, not cost or technology, generally drive excellent companies.
 * Support autonomy and entrepreneurship. Tolerate and encourage failure.
