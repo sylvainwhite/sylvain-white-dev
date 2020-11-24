@@ -54,3 +54,13 @@ From the blog 'Biculturalism' by Joel Spolsky [[web]](https://www.joelonsoftware
 ## About functional programming
 
 Rather long but very clear introduction paper on functional programming 'Functional Programming For The Rest of Us' by Slava Akhmechet [[web](https://www.defmacro.org/2006/06/19/fp.html){:target="_blank"}] [[pdf]({{ site.github.url }}/resources/functionalProgramming.pdf){:target="_blank"}]
+
+<br/>
+
+## JAVA: Execution in the Kingdoms of Nouns
+
+A classic rant by Steve Yegge that resonates since 2006! It was kind of fixed
+in Java 8 which includes lambda expression. It is still very verbose compared to other scripting languages. I think the essence of this beautifully written rant  [[web](http://steve-yegge.blogspot.com/2006/03/execution-in-kingdom-of-nouns.html){:target="_blank"}] is:
+
+> I've really come around to what Perl folks were telling me 8 or 9 years ago: "Dude, not everything is an object." It's odd, though, that Java4 appears to be the only mainstream object-oriented language that exhibits radically noun-centric behavior. You'll almost never find an AbstractProxyMediator, a NotificationStrategyFactory, or any of their ilk in Python or Ruby. Why do you find them everywhere in Java? It's a sure bet that the difference is in the verbs. Python, Ruby, JavaScript, Perl, and of course all Functional languages allow you to declare and pass around functions as distinct entities without wrapping them in a class.
+
