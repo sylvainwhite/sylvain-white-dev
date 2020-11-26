@@ -17,6 +17,50 @@ This is a document [[pdf]({{ site.github.url }}/resources/es6JavascriptCourseSum
 
 <br/>
 
+## Javascript - jargon
+
+Few notes to clear up some concepts of the JavaScript ecosystem
+
+#### Module systems
+* CommonJS is the specification to implement a module system in JavaScript
+    * It was initially designed to be used in server-side JavaScript not in browsers
+    * It has been implemented but not completely in Node.js
+* There are other module systems e.g. AMD, UMD
+* EcmaScript Module (ESM) is the new standard to replace old module systems 
+
+#### Module systems syntax
+* CommonJS syntax uses 'require' function and 'module.exports'
+    * The 'require' function is synchronous in Node.js
+* ESM syntax uses 'import' and 'export' statements
+    * The 'import' statement can be either synchronous or asynchornous
+
+#### Module systems in browsers
+* Browserify and Webpack enable CommonJS modules to be used in browsers
+* ESM is now available in almost all browsers [[web](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/import){:target="_blank"}] 
+* System.js
+    * It is a universal module loader that can import modules in many formats (CommonJS, UMD, AMD, ES6)
+    * It can be used in Node.js or in browsers
+
+#### Transpiler and polyfill
+* Transpiling converts newer syntax (ES6 or even newer) for older browsers
+* Polyfilling adds the missing methods, properties etc to older browsers
+* Babel is a transpiler that converts ES6 code for older browsers
+
+#### Bundler systems
+* Bundlers are tools to put all JavaScript modules into a single file to run in browsers
+* Bunlder is required: 
+    * To support module system for older browsers
+    * To load modules in dependency order for you
+    * To load assets in dependency order e.g. images, css files, etc.
+* Bundling process might include:
+    * transpiling
+    * polyfilling
+    * minifying (reducing the size of the source code to make http request more efficient)
+    * obfuscating (making source code difficult for humans to understand)
+* Popular bunlders are: Webpack, FuseBox, Parcel, Browserify, Rollup
+
+<br/>
+
 ## Javascript memory leaks? Yes. It can happen
 
 How to track and fix javascript memory leaks by Sebastian Peyrott
