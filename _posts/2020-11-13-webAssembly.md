@@ -12,7 +12,7 @@ tags: [architecture]
 ## Web Assembly: How and why
 
 Excellent paper from Milica Mihajlija
-[[web](https://blog.logrocket.com/webassembly-how-and-why-559b7f96cd71//){:target="_blank"}] 
+[[web](https://blog.logrocket.com/webassembly-how-and-why-559b7f96cd71/){:target="_blank"}] 
 <br/>Here are my takeaways:
 
 1. Web Assembly is textual language easily transformed into binary code that is delivered to the browser
