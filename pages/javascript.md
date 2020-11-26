@@ -17,22 +17,35 @@ This is a document [[pdf]({{ site.github.url }}/resources/es6JavascriptCourseSum
 
 <br/>
 
-## Javascript - jargon
+## Javascript jargon
 
 Few notes to clear up some concepts of the JavaScript ecosystem
 
+#### Versions
+
+* EcmaScript (ES) is the standard specifications of the JavaScript language
+* ES1: 1997 - EcmaScript 1 is the first version
+* ES2: 1998
+* ES3: 1999
+* ES4: Abandoned
+* ES5: 2009
+* ES6: 2015 - also known as ES2015
+
 #### Module systems
-* CommonJS is the specification to implement a module system in JavaScript
+* There were no module system in EcmaScript before ES6
+* Developers created the CommonJS module system specifications 
     * It was initially designed to be used in server-side JavaScript not in browsers
-    * It has been implemented but not completely in Node.js
+    * It has been implemented in Node.js but not completely
 * There are other module systems e.g. AMD, UMD
-* EcmaScript Module (ESM) is the new standard to replace old module systems 
+* EcmaScript Module (ESM)
+    * Standard system module introduced in ES6
+    * It is the new standard to replace all module systems
 
 #### Module systems syntax
 * CommonJS syntax uses 'require' function and 'module.exports'
     * The 'require' function is synchronous in Node.js
 * ESM syntax uses 'import' and 'export' statements
-    * The 'import' statement can be either synchronous or asynchornous
+    * The 'import' statement can be either synchronous or asynchronous
 
 #### Module systems in browsers
 * Browserify and Webpack enable CommonJS modules to be used in browsers
@@ -339,11 +352,6 @@ test15().then((msg) => {
     log("p15 ---then() without 'return' returns a resolved promise: " + msg);
 });
 ```
-
-Run it with repl.it
-
-<iframe height="400px" width="100%" src="https://repl.it/repls/EcstaticClosedWordprocessor?lite=true" scrolling="no" frameborder="no" allowtransparency="true" allowfullscreen="true" sandbox="allow-forms allow-pointer-lock allow-popups allow-same-origin allow-scripts allow-modals"></iframe>
-
 <br/>
 
 ## Explanation of JavaScript prototype property
@@ -522,7 +530,3 @@ t.setSubject("physics");
 console.log("----------------");
 console.log("27: " + t.teach());
 ```
-
-Run it with repl.it
-
-<iframe height="400px" width="100%" src="https://repl.it/repls/DarkredAffectionateAgents?lite=true" scrolling="no" frameborder="no" allowtransparency="true" allowfullscreen="true" sandbox="allow-forms allow-pointer-lock allow-popups allow-same-origin allow-scripts allow-modals"></iframe>
