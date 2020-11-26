@@ -2,8 +2,8 @@
 layout: post
 title: "Rules of productivity"
 author: "Sylvain White"
-categories: ui
-tags: [ui]
+categories: misc
+tags: [misc]
 # image: city-2.jpg
 ---
 <br/>

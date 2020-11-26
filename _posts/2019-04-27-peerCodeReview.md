@@ -2,8 +2,8 @@
 layout: post
 title: "Peer code review"
 author: "Sylvain White"
-categories: design
-tags: [design]
+categories: misc
+tags: [misc]
 # image: city-2.jpg
 ---
 
