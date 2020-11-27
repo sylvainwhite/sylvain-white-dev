@@ -11,9 +11,9 @@ tags: [design]
 
 ## Functional Specifications 
 
-This is my personal summary of a serie of 4 papers by Joel Spolsky: Painless Functional Specifications [[web](https://www.joelonsoftware.com/2000/10/02/painless-functional-specifications-part-1-why-bother/){:target="_blank"}] 
+This is my personal summary of a serie of 4 papers by Joel Spolsky: Painless Functional Specifications 
 
-### Part 1: Why bother?
+### Part 1: Why bother? [[web](https://www.joelonsoftware.com/2000/10/02/painless-functional-specifications-part-1-why-bother/){:target="_blank"}] 
 
 > The most important function of a spec is to design the program. Even if you are working on code all by yourself, and you write a spec solely for your own benefit, **the act of writing the spec — describing how the program works in minute detail — will force you to actually design the program**.
 
@@ -24,7 +24,7 @@ This is my personal summary of a serie of 4 papers by Joel Spolsky: Painless Fun
     * To communicate: to programmers, QA , marketing, tech writers etc.
     * To make schedule: no schedule without specs
 
-### Part 2: What’s a Spec?
+### Part 2: What’s a Spec? [[web](https://www.joelonsoftware.com/2000/10/03/painless-functional-specifications-part-2-whats-a-spec/){:target="_blank"}] 
 
 > A functional specification describes how a product will work entirely from the user’s perspective. It doesn’t care how the thing is implemented. It talks about features. It specifies screens, menus, dialogs, and so on.
 
@@ -34,13 +34,13 @@ Not sure I agree with him but...
 
 He goes on what should and should not be part of the specs.
 
-### Part 3: But… How?
+### Part 3: But… How? [[web](https://www.joelonsoftware.com/2000/10/04/painless-functional-specifications-part-3-but-how/){:target="_blank"}] 
 
 In this part, Joel gives his advices on:
 * who should write the specs
 * how to run a software team
 
-### Part 4: Tips
+### Part 4: Tips [[web](https://www.joelonsoftware.com/2000/10/15/painless-functional-specifications-part-4-tips/){:target="_blank"}] 
 
 Reading specs is often boring so Joel recommands...
 
