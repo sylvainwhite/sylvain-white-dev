@@ -17,7 +17,7 @@ tags: [protocols, architecture]
 * Protobuf generates source to generate/parse a stream of bytes based on description in IDL
 * Protobuf is better than JSON in some cases [[web](https://codeclimate.com/blog/choose-protocol-buffers/){:target="_blank"}]
 * Protobuf vs JSON performance comparison [[web](https://auth0.com/blog/beating-json-performance-with-protobuf/){:target="_blank"}]
-* Simple client/server code sending gRPC and JSON requests to a REST server [web](https://medium.com/swlh/supercharge-your-rest-apis-with-protobuf-b38d3d7a28d3){:target="_blank"}]
+* Sample code: client/server sending gRPC and JSON requests to a REST server [[web](https://medium.com/swlh/supercharge-your-rest-apis-with-protobuf-b38d3d7a28d3){:target="_blank"}]
 
 <br/>
 
