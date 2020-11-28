@@ -32,7 +32,7 @@ Few notes to clear up some concepts of the JavaScript ecosystem
 * ES6: 2015 - also known as ES2015
 
 #### Module systems
-* There were no module system in EcmaScript before ES6
+* There was no module system in EcmaScript before ES6
 * Developers created the CommonJS module system specifications 
     * It was initially designed to be used in server-side JavaScript not in browsers
     * It has been implemented in Node.js but not completely
