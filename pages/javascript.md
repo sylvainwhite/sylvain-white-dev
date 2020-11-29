@@ -5,7 +5,7 @@ title: Javascript
 
 ## Javascript: The keyword 'This'
 
-The keyword 'This' is always tricky. Here are two very good articles by to unveil the mystery! 
+The keyword 'This' is always tricky. Here are two very good articles to unveil the mystery! 
 * [The Keyword "this" for Beginners by Brandon Morelli](https://codeburst.io/javascript-the-keyword-this-for-beginners-fb5238d99f85){:target="_blank"}
 * [Understanding the "this" keyword in JavaScript by Nick](http://unschooled.org/2012/03/understanding-javascript-this/){:target="_blank"}
 
