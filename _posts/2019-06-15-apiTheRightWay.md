@@ -23,7 +23,7 @@ In his blog, he wrote a nice summary of the talk 'API evolution the right way' b
 2. Record History Rigorously
     * Maintain a Changelog
     * Choose a Version Scheme
-Write an Upgrade Guide
+    * Write an Upgrade Guide
 3. Change Slowly and Loudly
     * Add Parameters Compatibility
     * Change Behavior Gradually
