@@ -66,7 +66,7 @@ From 'A culture of fear' by Allen Holub, Software Development Times, April, 2006
 > Several formal studies have demonstrated conclusively that short cycle times and regular releases of the software into the hands of real users is one of the two “best practices” that measurably reduce development time and increase quality. (The other
 is regular design reviews.)
 
-From 'Spreading the Agile Practice' by David Rubinstein, Software Development Times, Octobre 15, 2007 [web](https://archive.org/details/sdtimes184/page/n39/mode/2up){:target="_blank"}. Two quotes:
+From 'Spreading the Agile Practice' by David Rubinstein, Software Development Times, October 15, 2007 [web](https://archive.org/details/sdtimes184/page/n39/mode/2up){:target="_blank"}. Two quotes:
 
 > People don't pay for the quality. You say quality, people think QA and QA
 has no money. Switch out quality with 'delivery speed' and people start buying it
@@ -130,11 +130,12 @@ The corollaries:
 
 From getAbstract summary [[web](https://johncollinscareerdevelopmentplan.weebly.com/uploads/2/4/4/0/24401899/the-five-dysfunctions-of-a-team-lencioni-en-38141.pdf){:target="_blank"}] [[pdf]({{ site.github.url }}/resources/fiveDysfunctionsOfATeam.pdf){:target="_blank"}]
 
-* The first pitfall is a lack of trust.
-* The second pitfall is a fear of confrontation.
-* The third pitfall is an absence of commitment.
-* The fourth pitfall is absence of accountability.
-* The fifth pitfall is a failure to focus on goals.
+The pitfalls are:
+1. lack of trust
+2. fear of confrontation
+3. absence of commitment
+4. absence of accountability
+5. failure to focus on goals
 
 <br/>
 
@@ -192,7 +193,6 @@ What should you do for you customers ?
 
  > I learned something valuable from that. It's worth trying very, very hard to make technology easy to use. Hackers are so used to computers that they have no idea how horrifying software seems to normal people.
  [...] If you want ideas for startups, one of the most valuable things you could do is find a middle-sized non-technology company and spend a couple weeks just watching what they do with computers.
-mers.
 
 Who should be you customers ?
 
