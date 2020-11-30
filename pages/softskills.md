@@ -30,7 +30,7 @@ From Amazon web site:
 
 ## 12 Things Successful People Do Differently
 
-Good summary of common sense advices: [12 Things Successful People Do Differently](http://www.marcandangel.com/2012/01/22/12-things-successful-people-do-differently/){:target="_blank"} 
+Good summary of common sense advice: [12 Things Successful People Do Differently](http://www.marcandangel.com/2012/01/22/12-things-successful-people-do-differently/){:target="_blank"} 
 
 <br/>
 
@@ -46,11 +46,9 @@ An excellent summary of the book 'Imagine: How Creativity Works by Jonah Lehrer'
 
 Few very practical tricks on presentation:
 
-* When you're giving a presentation, capture th audience' interest as soon as you can. You want your audience focus.
-
-* Provide information in 10-minute chunks and use entertaining hooks between those chunks. 
-
-* People learn better when they can refer to familair examples. To be more memorable, engage your listeners' substantively.
+* When you're giving a presentation, capture th audience' interest as soon as you can. You want your audience focus
+* Provide information in 10-minute chunks and use entertaining hooks between those chunks
+* People learn better when they can refer to familiar examples. To be more memorable, engage your listeners' substantively
 
 Tricks on long term memory:
 
