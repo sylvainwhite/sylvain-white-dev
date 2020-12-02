@@ -62,5 +62,13 @@ Rather long but very clear introduction paper on functional programming 'Functio
 A classic rant by Steve Yegge that resonates since 2006! It was kind of fixed
 in Java 8 which includes lambda expression. It is still very verbose compared to other scripting languages. I think the essence of this beautifully written rant  [[web](http://steve-yegge.blogspot.com/2006/03/execution-in-kingdom-of-nouns.html){:target="_blank"}] is:
 
-> I've really come around to what Perl folks were telling me 8 or 9 years ago: "Dude, not everything is an object." It's odd, though, that Java4 appears to be the only mainstream object-oriented language that exhibits radically noun-centric behavior. You'll almost never find an AbstractProxyMediator, a NotificationStrategyFactory, or any of their ilk in Python or Ruby. Why do you find them everywhere in Java? It's a sure bet that the difference is in the verbs. Python, Ruby, JavaScript, Perl, and of course all Functional languages allow you to declare and pass around functions as distinct entities without wrapping them in a class.
+
+* Not everything is an object
+> I've really come around to what Perl folks were telling me 8 or 9 years ago: "Dude, not everything is an object." It's odd, though, that Java4 appears to be the only mainstream object-oriented language that exhibits radically noun-centric behavior. 
+
+* In some languages, it isn't the case
+> You'll almost never find an AbstractProxyMediator, a NotificationStrategyFactory, or any of their ilk in Python or Ruby. Why do you find them everywhere in Java? 
+
+* Solution: functional programming
+> It's a sure bet that the difference is in the verbs. Python, Ruby, JavaScript, Perl, and of course all Functional languages allow you to declare and pass around functions as distinct entities without wrapping them in a class.
 
