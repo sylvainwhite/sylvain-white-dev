@@ -27,17 +27,17 @@ From Joel Splosky's blog [[web](https://www.joelonsoftware.com/2003/10/08/the-ab
     * **ASCII** encodes 128 character codes in 7 bits:
         * 96 printable characters (including space and delete) 
         * 32 control characters (e.g. line feed)
-    * **ISO 8859-1** 256 character codes in 8 bits:
+    * **ISO 8859-1** encodes 256 character codes in 8 bits:
         * All ASCII character codes into the lower 7 bits of a byte
         * 128 additional character codes with the higher bit of a byte
 
-* Then came **Unicode** in 1991
+* Then comes **Unicode** in 1991
     * Unicode **goal** is to provide a universal way to encode the following:
         * All letters from all languages (e.g. german letter &#7838;) including ancient languages
         * All symbols (e.g math symbol &#8721;)
         * All dingbats (e.g. checkmark &#10004;)
         * All emojis (e.g. fox &#128054;)
-    * **First**, Unicode assigns an hexadecimal number to all letters, symbols, etc
+    * **Firstly**, Unicode assigns an hexadecimal number to all letters, symbols, etc
         * This hexidecimal number is called a 'code point' 
         * Valid code points are 0x0000 to 0x10FFFF
         * To mean a hexidecimal number is a code point, always use the prefix 'U+'
@@ -62,7 +62,7 @@ From Joel Splosky's blog [[web](https://www.joelonsoftware.com/2003/10/08/the-ab
             * glyph: graphic representation on the screen
             * Example: Various glyphs <span style="font-family:'Times New Roman'; font-size:2em;">T</span>, <span style="font-family:Courier; font-size:2em;">T</span>, <span style="font-family:'Times New Roman'; font-size:2em;">t</span> for the grapheme 't'
 
-    * **Second**, Unicode has different ways to encode code points
+    * **Secondly**, Unicode has different ways to encode code points
         * The Unicode encodings are: UTF-8, UTF-16 and UTF-32:
 
             | **Name** | **Number of bytes** | **Use** |
@@ -83,14 +83,16 @@ From Joel Splosky's blog [[web](https://www.joelonsoftware.com/2003/10/08/the-ab
             | 1110xxxx | Beginning of 3 byte character |
             | 11110xxx | Beginning of 4 byte character |
 
-            * UTF-8 doesn't have big/little endian since it is based on single byte
+            * UTF-8 doesn't have big/little endian since it is based on individual bytes
             * But UTF-16 has the big/little endian problem! See [[web](https://www.w3.org/International/questions/qa-byte-order-mark#){:target="_blank"}]
 
 <br/>
 #### Encoding and the web
 
-* HTML file: Chicken and egg problem
+* HTML file: Chicken and egg problem from Joel Spolsky's blog [[web](https://www.joelonsoftware.com/2003/10/08/the-absolute-minimum-every-software-developer-absolutely-positively-must-know-about-unicode-and-character-sets-no-excuses/){:target="_blank"}]
     > How can you read the HTML file until you know what encoding it’s in?
+
+   * It is not a large problem since almost all web pages use UTF-8. But still...
     
     > Luckily, almost every encoding in common use does the same thing with characters between 32 and 127, so 
     you can always get this far on the HTML page without starting to use funny letters:
