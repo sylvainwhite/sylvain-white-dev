@@ -23,7 +23,7 @@ From Joel Splosky's blog [[web](https://www.joelonsoftware.com/2003/10/08/the-ab
 
 <br/>
 #### To read any file, you must know how the bytes are encoded
-* Historically, we have these encondings:
+* Historically, we have these encodings:
     * **ASCII** encodes 128 character codes in 7 bits:
         * 96 printable characters (including space and delete) 
         * 32 control characters (e.g. line feed)
@@ -35,15 +35,15 @@ From Joel Splosky's blog [[web](https://www.joelonsoftware.com/2003/10/08/the-ab
     * Unicode **goal** is to provide a universal way to encode the following:
         * All letters from all languages (e.g. german letter &#7838;) including ancient languages
         * All symbols (e.g math symbol &#8721;)
-        * All dingbats (e.g. checkmark &#10004;)
+        * All dingbats (e.g. check mark &#10004;)
         * All emojis (e.g. fox &#128054;)
-    * **Firstly**, Unicode assigns an hexadecimal number to all letters, symbols, etc
-        * This hexidecimal number is called a 'code point' 
-        * Valid code points are 0x0000 to 0x10FFFF
-        * To mean a hexidecimal number is a code point, always use the prefix 'U+'
-            * For instance, the code point for letter 'a' is U+0062
-        * All code points are divided into sets called 'plane'
-            * There 17 planes:
+    * **Firstly**, Unicode assigns an hexadecimal value to all letters, symbols, etc
+        * This hexadecimal value is called a 'code point' 
+        * Valid code point values are 0x0000 to 0x10FFFF
+        * The prefix 'U+' means a hexadecimal value is a code point
+            * For instance, U+006A is the code point for the letter 'j'
+        * All code points are divided into sets called 'planes'
+            * Unicode has 17 planes:
 
             |**Plane** | **Range** | **Name** |
             |0	| U+0000 - U+FFFF | Basic Multilingual Plane |
@@ -54,15 +54,16 @@ From Joel Splosky's blog [[web](https://www.joelonsoftware.com/2003/10/08/the-ab
             |14	| U+E0000 - U+EFFFF | Supplement­ary Special-purpose Plane | 
             |15	| U+F0000 - U+FFFFF | Supplement­ary Private Use Area planes |
             |16	| U+100000 - U+10FFFF | Supplement­ary Private Use Area planes |
-        * Jargon not essantial to understand Unicode in my opinion. See [[web](https://flaviocopes.com/unicode/#code-units){:target="_blank"}]
+
+        * Jargon not essential to understand Unicode in my opinion. See [[web](https://flaviocopes.com/unicode/#code-units){:target="_blank"}]
 
             * astral (!) planes: planes 3 to 13
             * code units: the actual bit representation of a code point by encoding
-            * grapheme: symbol that reprensents a unit a writing
+            * grapheme: symbol that represents a unit a writing
             * glyph: graphic representation on the screen
             * Example: Various glyphs <span style="font-family:'Times New Roman'; font-size:2em;">T</span>, <span style="font-family:Courier; font-size:2em;">T</span>, <span style="font-family:'Times New Roman'; font-size:2em;">t</span> for the grapheme 't'
 
-    * **Secondly**, Unicode has different ways to encode code points
+    * **Secondly**, Unicode has different ways to encode code points into a stream of bytes
         * The Unicode encodings are: UTF-8, UTF-16 and UTF-32:
 
             | **Name** | **Number of bytes** | **Use** |
@@ -74,7 +75,7 @@ From Joel Splosky's blog [[web](https://www.joelonsoftware.com/2003/10/08/the-ab
             * UTF-8 is used by 95.9% of all the websites as of December 2nd 2020 [[web](https://w3techs.com/technologies/overview/character_encoding){:target="_blank"}]
             * UTF-8 was designed to be backward compatible with ASCII
                 * It means the first 128 characters of UTF-8 map exactly to ASCII
-                * It was essantial since ASCII was widespread when UTF-8 was introduced
+                * It was essential since ASCII was widespread when UTF-8 was introduced
             * To decode UTF-8, follow the marker bit patterns
 
             | **Bit pattern inside byte** | **Meaning** |
@@ -83,8 +84,8 @@ From Joel Splosky's blog [[web](https://www.joelonsoftware.com/2003/10/08/the-ab
             | 1110xxxx | Beginning of 3 byte character |
             | 11110xxx | Beginning of 4 byte character |
 
-            * UTF-8 doesn't have big/little endian since it is based on individual bytes
-            * But UTF-16 has the big/little endian problem! See [[web](https://www.w3.org/International/questions/qa-byte-order-mark#){:target="_blank"}]
+            * UTF-8 doesn't have big/little endian issue since it is based on individual bytes
+            * But UTF-16/UTF-32 have the big/little endian issue! See [[web](https://www.w3.org/International/questions/qa-byte-order-mark#){:target="_blank"}]
 
 <br/>
 #### Encoding and the web
@@ -92,7 +93,7 @@ From Joel Splosky's blog [[web](https://www.joelonsoftware.com/2003/10/08/the-ab
 * HTML file: Chicken and egg problem from Joel Spolsky's blog [[web](https://www.joelonsoftware.com/2003/10/08/the-absolute-minimum-every-software-developer-absolutely-positively-must-know-about-unicode-and-character-sets-no-excuses/){:target="_blank"}]
     > How can you read the HTML file until you know what encoding it’s in?
 
-   * It is not a large problem since almost all web pages use UTF-8. But still...
+   * It is not a big problem since almost all web pages use UTF-8. But still...
     
     > Luckily, almost every encoding in common use does the same thing with characters between 32 and 127, so 
     you can always get this far on the HTML page without starting to use funny letters:
