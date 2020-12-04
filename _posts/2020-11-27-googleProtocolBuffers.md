@@ -12,6 +12,7 @@ tags: [protocols, architecture]
 ## Google protocol buffers definition
 
 * Protocol Buffers (Protobuf) [[web](https://en.wikipedia.org/wiki/Protocol_Buffers){:target="_blank"}] is a method of serializing structured data
+* Serialization is the process of converting structured data into a stream of bytes
 * It is used by applications to communicate with each other over a wire or for storing data 
 * Protobuf includes a interface description language (IDL) that describes the structure of data 
 * Protobuf generates source to generate/parse a stream of bytes based on description in IDL
@@ -24,6 +25,10 @@ tags: [protocols, architecture]
 ## gRPC: gRPC Remote Procedure Call
 
 * In general, RPC is an interprocess communication technique to call a function in another process
+* It follows a client/server model
+* For instance, the client/server can be:
+    * two processes on the same network
+    * a browser and a web server
 * gRPC is based on Protobuf, HTTP/2 and IDL [[web](https://en.wikipedia.org/wiki/GRPC){:target="_blank"}]
 * Features include:
     * authentication
@@ -32,11 +37,11 @@ tags: [protocols, architecture]
     * blocking or nonblocking bindings
     * cancellation and timeouts
 
-* gRPC has four kinds of service method:
+* gRPC server might offer four kinds of service method to the client:
     * **Unary**: the client sends a single request and gets a single response back
     * **Server streaming**: the client sends a request and gets a stream to read a sequence of messages back. The client reads then stream until there are no more messages
-    * **Client streaming**: the client sends a sequence of messages to the stream. It waits for the server to read them and return its response. 
-    * **Bidirectional streaming**: Both the client and the server send a sequence of messages using a read-write stream. The two streams operate independently.
+    * **Client streaming**: the client sends a sequence of messages to the stream. It waits for the server to read them and return its response
+    * **Bidirectional streaming**: Both the client and the server send a sequence of messages using a read-write stream. The two streams operate independently
 
 * gRPC needs a proxy to translate request from browsers to the gRPC server [[web](https://grpc.io/blog/state-of-grpc-web/#the-grpc-web-spec){:target="_blank"}]
 * Notes on **Bidirectional streaming**
