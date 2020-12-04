@@ -10,7 +10,7 @@ title: Languages
 
 <br/>
 
-## Summary of 'The C Programming Language' by Kernighan & Ritchie
+## Book: The C Programming Language' by Kernighan & Ritchie
 
 Personal summary of the classic "The C Programming Language" by Brian W. Kernighan & Dennis M. Ritchie, Prentice Hall ed., 1988. Because I read it thoroughly many times. It is more nostalgia than anything else. Note the book was typeset with (pic|tbl|eqn|troff -ms) on a DEC VAX 8550. It says it all.
 [[pdf]({{ site.github.url }}/resources/cLanguageKRSummary.pdf){:target="_blank"}]
@@ -61,7 +61,6 @@ Rather long but very clear introduction paper on functional programming 'Functio
 
 A classic rant by Steve Yegge that resonates since 2006! It was kind of fixed
 in Java 8 which includes lambda expression. It is still very verbose compared to other scripting languages. I think the essence of this beautifully written rant  [[web](http://steve-yegge.blogspot.com/2006/03/execution-in-kingdom-of-nouns.html){:target="_blank"}] is:
-
 
 * Not everything is an object
 > I've really come around to what Perl folks were telling me 8 or 9 years ago: "Dude, not everything is an object." It's odd, though, that Java4 appears to be the only mainstream object-oriented language that exhibits radically noun-centric behavior. 

@@ -19,7 +19,7 @@ Watch this commercial to find out: [EDS Commercial](https://www.youtube.com/watc
 
 <br/>
 
-## Think Better: Guide to Productive Thinking
+## Book: Think Better - Guide to Productive Thinking
 
 Personal summary of 'Think Better: An Innovator's Guide to Productive Thinking' [[pdf]({{ site.github.url }}/resources/summaryThinkBetter-protected.pdf){:target="_blank"}] by Tim Hurson, McGraw Hill, 2008
 
@@ -34,23 +34,23 @@ Good summary of common sense advice: [12 Things Successful People Do Differently
 
 <br/>
 
-## Imagine: How Creativity Works
+## Book: Imagine - How Creativity Works
 
 An excellent summary of the book 'Imagine: How Creativity Works by Jonah Lehrer' written by Aaron from the website 'New Books in Brief' [[web](http://newbooksinbrief.com/2012/04/29/12-a-summary-of-imagine-how-creativity-works-by-jonah-lehrer/){:target="_blank"}] [[pdf]({{ site.github.url }}/resources/summaryOfImagine.pdf){:target="_blank"}]
 
 <br/>
 
-## Brain Rules
+## Book: Brain Rules
 
- [12 Principles for Surviving and Thriving at Work, Home, and School](http://www.brainrules.net/pdf/mediakit.pdf){:target="_blank"} by John Medina 
+ 'Brain rules: 12 Principles for Surviving and Thriving at Work, Home, and School' by John Medina. Here is a summary of those rules [[web](http://www.brainrules.net/pdf/mediakit.pdf){:target="_blank"}]  
 
-Few very practical tricks on presentation:
+Few practical tricks on presentation:
 
-* When you're giving a presentation, capture th audience' interest as soon as you can. You want your audience focus
+* When giving a presentation, capture th audience' interest as soon as you can. You want your audience focus
 * Provide information in 10-minute chunks and use entertaining hooks between those chunks
-* People learn better when they can refer to familiar examples. To be more memorable, engage your listeners' substantively
+* People learn better when they can refer to familiar examples. To be more memorable, engage your listeners
 
-Tricks on long term memory:
+Few tricks on long term memory:
 
 * Think about the information within the first hour or so after you learn it
 * Immediately speak to other people about it in great detail
