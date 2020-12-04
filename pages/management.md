@@ -109,7 +109,7 @@ Introduction:
 
 > If there’s one thing every junior consultant needs to have injected into their head with a heavy duty 2500 RPM DeWalt Drill, it’s this: Customers Don’t Know What They Want. **Stop Expecting Customers to Know What They Want. It’s just never going to happen. Get over it.**
 
-Sidenote: Steve Jobs said the same thing in a 1998 interview to Business week
+* Sidenote: Steve Jobs said the same thing in a 1998 interview to Business week
 
 > It's really hard to design products by focus group. A lot of times,
 **people don't know what they want before you show it to them**
