@@ -46,7 +46,7 @@ An excellent summary of the book 'Imagine: How Creativity Works by Jonah Lehrer'
 
 Few practical tricks on presentation:
 
-* When giving a presentation, capture th audience' interest as soon as you can. You want your audience focus
+* When giving a presentation, capture the audience' interest as soon as you can. You want your audience focus
 * Provide information in 10-minute chunks and use entertaining hooks between those chunks
 * People learn better when they can refer to familiar examples. To be more memorable, engage your listeners
 

@@ -112,7 +112,7 @@ Introduction:
 Sidenote: Steve Jobs said the same thing in a 1998 interview to Business week
 
 > It's really hard to design products by focus group. A lot of times,
-**people don't know what they want before show it to them**
+**people don't know what they want before you show it to them**
 
 The Iceberg secret:
 
