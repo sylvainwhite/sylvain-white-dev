@@ -13,7 +13,7 @@ The signs you work for a factory and not for a software company caring about wha
 
 <br/>
 
-## Summary of the book Lean Startup
+## Book: Lean Startup
 
 Personal summary [pdf]({{ site.github.url }}/resources/summaryLeanStartup-protected.pdf){:target="_blank"} of the "Lean Startup" by Eric Ries, Crown Business ed., 2011.
 
@@ -105,10 +105,14 @@ Thanks to a former colleague.
 
 From Joel Spolsky's post [The Iceberg Secret, Revealed](https://www.joelonsoftware.com/2002/02/13/the-iceberg-secret-revealed/){:target="_blank"}
 
-
 Introduction:
 
 > If there’s one thing every junior consultant needs to have injected into their head with a heavy duty 2500 RPM DeWalt Drill, it’s this: Customers Don’t Know What They Want. **Stop Expecting Customers to Know What They Want. It’s just never going to happen. Get over it.**
+
+Sidenote: Steve Jobs said the same thing in a 1998 interview to Business week
+
+> It's really hard to design products by focus group. A lot of times,
+**people don't know what they want before show it to them**
 
 The Iceberg secret:
 
@@ -126,7 +130,7 @@ The corollaries:
 
 <br/>
 
-## The Five Dysfunctions of a Team
+## Book: The Five Dysfunctions of a Team
 
 From getAbstract summary [[web](https://johncollinscareerdevelopmentplan.weebly.com/uploads/2/4/4/0/24401899/the-five-dysfunctions-of-a-team-lencioni-en-38141.pdf){:target="_blank"}] [[pdf]({{ site.github.url }}/resources/fiveDysfunctionsOfATeam.pdf){:target="_blank"}]
 
@@ -272,3 +276,13 @@ least profitable customers are first to embrace a disruptive technology. Thus, e
 firms that heed their key customers probably cannot make a case for investing in
 disruptive technologies. These firms do not do the wrong thing; they do the right thing
 —and go the wrong way.
+
+<br/>
+
+## Design: Don't add new feature lightly!
+
+Based on Joel Splosky's blog 'Great Design: What is Design?' [[web](https://www.joelonsoftware.com/2006/01/26/great-design-what-is-design-first-draft/){:target="_blank"}]
+
+> Every new feature is a tradeoff, between the people who could really use such a feature and the people who are just going to get overwhelmed by all the options.
+
+> By which I mean to say: even if you think your new feature is all good and can’t hurt because “people who don’t care can just ignore it,” **you’re forgetting that the people who allegedly don’t care are still forced to look at your feature and figure out if they need it.**
