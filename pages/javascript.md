@@ -530,3 +530,14 @@ t.setSubject("physics");
 console.log("----------------");
 console.log("27: " + t.teach());
 ```
+<br/>
+
+## Always use strict mode!
+
+* "use strict"; defines that JavaScript code should be executed in "strict mode"
+* The "use strict" directive was new in ECMAScript version 5
+* It is not a statement, but a literal expression
+* It is ignored by earlier versions of JavaScript
+* For instance, you can not use undeclared variables with strict mode
+* For all restrictions/behavior with strict mode, see [[web](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Strict_mode){:target="_blank"}]
+* All modern browsers support "use strict" 
