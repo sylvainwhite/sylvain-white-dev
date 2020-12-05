@@ -2,8 +2,8 @@
 layout: post
 title: "Deployment plan"
 author: "Sylvain White"
-categories: misc
-tags: [misc]
+categories: management
+tags: [management]
 # image: city-2.jpg
 ---
 <br/>

@@ -286,3 +286,11 @@ Based on Joel Splosky's blog 'Great Design: What is Design?' [[web](https://www.
 > Every new feature is a tradeoff, between the people who could really use such a feature and the people who are just going to get overwhelmed by all the options.
 
 > By which I mean to say: even if you think your new feature is all good and can’t hurt because “people who don’t care can just ignore it,” **you’re forgetting that the people who allegedly don’t care are still forced to look at your feature and figure out if they need it.**
+
+<br/>
+
+## See also posts on management
+
+{% for post in site.tags["management"] %}
+  <a href="{{ site.github.url }}{{ post.url }}">{{ post.title }}</a>
+{% endfor %}

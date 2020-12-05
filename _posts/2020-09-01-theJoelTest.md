@@ -3,7 +3,7 @@ layout: post
 title: "The Joel Test"
 author: "Sylvain White"
 categories: misc
-tags: [misc]
+tags: [misc, management]
 # image: city-2.jpg
 ---
 <br/>
