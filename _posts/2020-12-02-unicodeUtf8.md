@@ -11,7 +11,6 @@ tags: [misc]
 
 ## Unicode - UTF-8
 
-<br/>
 The following blog is based on:
 * Unifoundry.com: 'Unicode Tutorial' [[web](http://www.unifoundry.com/unicode-tutorial.html){:target="_blank"}]
 * w3schools.com: 'HTML Unicode (UTF-8) Reference' [[web](https://www.w3schools.com/charsets/ref_html_utf8.asp){:target="_blank"}]
