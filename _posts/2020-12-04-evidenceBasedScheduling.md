@@ -37,8 +37,8 @@ Core ideas of EBS:
 
 * **Simulate**: Use the Monte Carlo simulation to get ship dates
     * The simulation is based on:
-            * list of tasks along with their estimates
-            * velocity of each programmers
+        * list of tasks along with their estimates
+        * velocity of each programmers
     * It produces a chart of probability of shipping at any given date
     * Simulation example from Joel Spolsky's blog:
     ![]({{ site.github.url }}/resources/EBSsimulations.png "Monte Carlo simulations")
