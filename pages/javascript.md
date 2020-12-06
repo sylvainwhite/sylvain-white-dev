@@ -3,11 +3,17 @@ layout: misc
 title: Javascript
 ---
 
-## Javascript: The keyword 'This'
+## Javascript: The keyword 'this'
 
-The keyword 'This' is always tricky. Here are two very good articles to unveil the mystery! 
-* [The Keyword "this" for Beginners by Brandon Morelli](https://codeburst.io/javascript-the-keyword-this-for-beginners-fb5238d99f85){:target="_blank"}
-* [Understanding the "this" keyword in JavaScript by Nick](http://unschooled.org/2012/03/understanding-javascript-this/){:target="_blank"}
+The keyword 'this' is always tricky. Here are very good articles to unveil the mystery! 
+
+* [4 Ways Functions Mess With this](https://seanmonstar.com/post/707068021/4-ways-functions-mess-with-this){:target="_blank"} also in [[pdf]({{ site.github.url }}/resources/4WaysFunctionsMessWithThis.pdf){:target="_blank"}]
+
+Another article with basically the same content but with more details on call(), apply() and bind()
+* [The Keyword "this" for Beginners](https://codeburst.io/javascript-the-keyword-this-for-beginners-fb5238d99f85){:target="_blank"}
+
+Finally an article on 'this' with arrow functions (i.e. '=>')
+* [Arrow Functions for Beginners](https://codeburst.io/javascript-arrow-functions-for-beginners-926947fc0cdc){:target="_blank"}
 
 <br/>
 
