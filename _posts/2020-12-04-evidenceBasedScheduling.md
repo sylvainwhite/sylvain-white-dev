@@ -18,7 +18,7 @@ Core ideas of EBS:
 * **Schedule**: Break the project into a list of tasks
     * Tasks should be very small so they can be estimated in hours 
     * Nothing longer than 16 hours
-    * With small tasks, it will force you to actually design the program! See [Functional Specifications](/design/functionalSpecs.html){:target="_blank"}
+    * With small tasks, it will force you to actually design the program! See [Functional Specifications]({{ site.github.url }}/design/functionalSpecs.html){:target="_blank"}
     * Only the programmer doing the work can create the estimates
     * Don’t let managers badger developers into shorter estimates
 * **Track**: Keep track of how long you spend working on each task
