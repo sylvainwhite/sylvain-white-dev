@@ -3,7 +3,7 @@ layout: post
 title: "Craftsmanship"
 author: "Sylvain White"
 categories: misc
-tags: [misc]
+tags: [misc, quality]
 # image: city-2.jpg
 ---
 

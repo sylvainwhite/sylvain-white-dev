@@ -2,8 +2,8 @@
 layout: post
 title: "Perceived Software Quality"
 author: "Sylvain White"
-categories: management
-tags: [management]
+categories: quality
+tags: [management, quality]
 # image: city-2.jpg
 ---
 <br/>
