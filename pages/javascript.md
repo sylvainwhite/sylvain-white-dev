@@ -67,7 +67,7 @@ Few notes to clear up some concepts of the JavaScript ecosystem
 
 #### Bundler systems
 * Bundlers are tools to put all JavaScript modules into a single file to run in browsers
-* Bunlder is required: 
+* Bundler is required: 
     * To support module system for older browsers
     * To load modules in dependency order for you
     * To load assets in dependency order e.g. images, css files, etc.
