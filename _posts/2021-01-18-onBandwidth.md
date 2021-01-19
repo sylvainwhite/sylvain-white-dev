@@ -1,12 +1,14 @@
 ---
 layout: post
-title: "Bandwidth for web developers"
+title: "On Bandwidth"
 author: "Sylvain White"
 categories: misc
 tags: [misc]
 # image: city-2.jpg
 ---
 <br/>
+
+### On Bandwidth for web developers
 
 Few quotes from the document [An Engineer's Guide to Bandwidth]({{ site.github.url }}/resources/engineerGuideToBandwidth.pdf){:target="_blank"}
 
