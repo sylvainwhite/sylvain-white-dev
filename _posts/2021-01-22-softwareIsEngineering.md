@@ -16,6 +16,6 @@ A brillant talk that explains why software is 'real' engineering. The speaker gi
 
 His most interesting argument is about civil engineering comparing to software engineering. For instance, civil engineers follow requirements to design a bridge and use mathematics to prove it will stand. Then, they build the bridge. On the opposite, software engineers design a program and build it right away and then use tests to prove it works and follows the requirements.
 
-It was not always the case. Historically, civil engineers had no mathematics to prove a bridge would stand and even though they were building bridges. They had heuristics and built prototypes. Even today, engineers do build prototypes (or scaled models) and stress test them. And engineers are very happy when the models match what they have calculated! 
+It was not always the case. Historically, 'civil engineers' of the middle ages had no mathematics to prove a bridge would stand and even though they were building bridges. They had heuristics and built prototypes. Even today, civil engineers do build prototypes (or scaled models) and stress test them. And engineers are very happy when the models match what they have calculated! 
 
 The speaker doesn't say one day software engineers will us mathematics to prove their programs work. His argument is, that on the spectrum of all engineering disciplines, some use more mathematics and some use more prototyping.  
