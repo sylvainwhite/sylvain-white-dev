@@ -10,7 +10,7 @@ tags: [misc]
 
 ### Why software is engineering
 
-A brillant talk that explains why software is 'real' engineering. The speaker gives a definition of engineering and shows how it applies to the software. 
+A brillant talk that explains why software is 'real' engineering. The speaker gives a definition of engineering and shows how it applies to software. 
 
 [Software Art Thou: Glenn Vanderburg - Real Software Engineering](https://www.youtube.com/watch?v=RhdlBHHimeM&feature=youtu.be){:target="_blank"}
 
