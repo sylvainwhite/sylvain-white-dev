@@ -13,10 +13,16 @@ Based on [Head First - Design Patterns - A Brain-Friendly Guide](https://www.ama
 
 ### OO Principles
 
+* #### Basics
+    * Abstraction
+    * Encapsulation
+    * Inheritance
+    * Polymorphism
+
 * #### Favor composition over inheritance
+    * HAS-A relationship should be favored over IS-A relationship which is static
+    * Composition allows to change behavior at initialization or runtime
 
-> HAS-A relationship should be favored over IS-A relationship which is static. Composition allows to change behavior at initialization or runtime
-
-
-
-
+* #### Program to interfaces not implementations
+    * It doesn't mean necessarily Java interface
+    * It could be an abstract class e.g. 'Animal' and the implementations 'Cat' and 'Dog'
