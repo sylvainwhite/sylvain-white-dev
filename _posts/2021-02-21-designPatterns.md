@@ -11,7 +11,6 @@ tags: [architecture, misc]
 Based on [Head First - Design Patterns - A Brain-Friendly Guide](https://www.amazon.ca/Head-First-Design-Patterns-Brain-Friendly/dp/0596007124){:target="_blank"}
 
 <br/>
-<br/>
 
 ## Strategy
 
