@@ -366,10 +366,10 @@ test15().then((msg) => {
 
 References:
 1. Good explanation of prototype: 
-[http://dmitrysoshnikov.com/ecmascript/javascript-the-core/](http://dmitrysoshnikov.com/ecmascript/javascript-the-core/){:target="_blank"}
+[JavaScript. The Core. by Dmitry Soshnikov](http://dmitrysoshnikov.com/ecmascript/javascript-the-core/){:target="_blank"}
 
 2. \_\_proto\_\_ versus prototype: 
-[https://developer.mozilla.org/en/docs/Web/JavaScript/Reference/Global_Objects/Object/proto](https://developer.mozilla.org/en/docs/Web/JavaScript/Reference/Global_Objects/Object/proto){:target="_blank"}
+[MDN Web Docs](https://developer.mozilla.org/en/docs/Web/JavaScript/Reference/Global_Objects/Object/proto){:target="_blank"}
 
 ```js
 // -Three ways to create Object in JavaScript
