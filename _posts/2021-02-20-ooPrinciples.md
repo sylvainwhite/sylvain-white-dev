@@ -15,11 +15,7 @@ Based on [Head First - Design Patterns - A Brain-Friendly Guide](https://www.ama
 
 * #### Favor composition over inheritance
 
-> Not only does it let you encapsulate a family 
-of algorithms into own set of classes, but it
-als lets you change behavior at runtime. HAS-A
-relationship should be favor over IS-A which is
-static.
+> HAS-A relationship should be favored over IS-A relationship which is static. Composition allows to change behavior at initialization or runtime
 
 
 
