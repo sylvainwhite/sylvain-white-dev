@@ -9,6 +9,7 @@ tags: [architecture, misc]
 <br/>
 
 Based on [Head First - Design Patterns - A Brain-Friendly Guide](https://www.amazon.ca/Head-First-Design-Patterns-Brain-Friendly/dp/0596007124){:target="_blank"}
+
 <br/>
 
 ## Strategy
@@ -33,8 +34,3 @@ This pattern allows to:
 * [Client code](https://github.com/bethrobson/Head-First-Design-Patterns/blob/master/src/headfirst/designpatterns/strategy/Duck.java){:target="_blank"}
 
 * [All code](https://github.com/bethrobson/Head-First-Design-Patterns/blob/master/src/headfirst/designpatterns/strategy){:target="_blank"}
-
-
-
-
-
