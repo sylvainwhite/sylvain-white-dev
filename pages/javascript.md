@@ -3,7 +3,7 @@ layout: misc
 title: Javascript
 ---
 
-## Javascript: The keyword 'this'
+## The keyword 'this'
 
 The keyword 'this' is always tricky. Here are very good articles to unveil the mystery! 
 
