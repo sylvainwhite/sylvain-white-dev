@@ -26,3 +26,6 @@ Based on [Head First - Design Patterns - A Brain-Friendly Guide](https://www.ama
 * #### Program to interfaces not implementations
     * It doesn't mean necessarily Java interface
     * It could be an abstract class e.g. 'Animal' and the implementations 'Cat' and 'Dog'
+
+* #### Strive for loosely coupled design between objects that interact
+    * 'Loose coupling' means interacting objects have very little knowledge of each other
