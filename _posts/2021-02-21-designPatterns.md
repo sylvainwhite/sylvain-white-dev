@@ -64,3 +64,27 @@ implements an interface
 * [Client code](https://github.com/bethrobson/Head-First-Design-Patterns/blob/master/src/headfirst/designpatterns/observer/weather/WeatherData.java){:target="_blank"}
 
 * [All code](https://github.com/bethrobson/Head-First-Design-Patterns/tree/master/src/headfirst/designpatterns/observer/weather){:target="_blank"}
+
+<br/>
+
+## Decorator
+
+### Definition
+
+* The **Decorator** Pattern allows for the dynamic wrapping of objects in order to modify their existing responsabilities and behaviors
+ 
+### Advantages
+
+* Attach additional responsabilities to an object dynamically
+* Alternative when subclassing is impractical
+* Specific functionality should not reside high in the object hierarchy
+
+![]({{ site.github.url }}/resources/patternDecorator.png "Decorator Pattern")
+
+### Sample code 
+
+* [Client code](https://github.com/bethrobson/Head-First-Design-Patterns/blob/master/src/headfirst/designpatterns/decorator/starbuzz/StarbuzzCoffee.java){:target="_blank"}
+
+* [Decorator code](https://github.com/bethrobson/Head-First-Design-Patterns/blob/master/src/headfirst/designpatterns/decorator/starbuzz/Mocha.java){:target="_blank"}
+
+* [All code](https://github.com/bethrobson/Head-First-Design-Patterns/blob/master/src/headfirst/designpatterns/decorator/starbuzz){:target="_blank"}
