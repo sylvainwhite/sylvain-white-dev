@@ -71,7 +71,7 @@ implements an interface
 
 ### Definition
 
-* The **Decorator** Pattern allows for the dynamic wrapping of objects in order to modify their existing responsabilities and behaviors
+* The **Decorator** Pattern allows for the dynamic wrapping of objects in order to modify their existing responsibilities and behaviors
  
 ### Advantages
 
@@ -88,3 +88,29 @@ implements an interface
 * [Decorator code](https://github.com/bethrobson/Head-First-Design-Patterns/blob/master/src/headfirst/designpatterns/decorator/starbuzz/Mocha.java){:target="_blank"}
 
 * [All code](https://github.com/bethrobson/Head-First-Design-Patterns/blob/master/src/headfirst/designpatterns/decorator/starbuzz){:target="_blank"}
+
+
+<br/>
+
+## Factory
+
+### Definition
+
+* The **Factory** Pattern defines an interface for creating an object, but lets subclasses decide which class to instantiate
+ 
+### Advantages
+
+* Factory method lets a class defer object creation to subclass
+* Subclass may specify what objects should be created
+
+![]({{ site.github.url }}/resources/patternFactory.png "Factory Pattern")
+
+### Sample code 
+
+* [Client code](https://github.com/bethrobson/Head-First-Design-Patterns/blob/master/src/headfirst/designpatterns/factory/pizzafm/PizzaTestDrive.java){:target="_blank"}
+
+* [Factory method](https://github.com/bethrobson/Head-First-Design-Patterns/blob/master/src/headfirst/designpatterns/factory/pizzafm/PizzaStore.java){:target="_blank"}
+
+* [Factory method subclass](https://github.com/bethrobson/Head-First-Design-Patterns/blob/master/src/headfirst/designpatterns/factory/pizzafm/NYPizzaStore.java){:target="_blank"}
+
+ * [All code](https://github.com/bethrobson/Head-First-Design-Patterns/tree/master/src/headfirst/designpatterns/factory/pizzafm){:target="_blank"}
