@@ -29,3 +29,12 @@ Based on [Head First - Design Patterns - A Brain-Friendly Guide](https://www.ama
 
 * #### Strive for loosely coupled design between objects that interact
     * 'Loose coupling' means interacting objects have very little knowledge of each other
+
+* #### Classes should be open for extension but closed to modification
+
+    * Open for extension: 
+        * Can sub-class
+        * Easily used in composition
+    * Closed to modification:
+        * New behavior should not require to modifiy current class
+        * Current behavior should be complete/coherent as it is
