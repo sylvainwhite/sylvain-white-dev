@@ -38,3 +38,11 @@ Based on [Head First - Design Patterns - A Brain-Friendly Guide](https://www.ama
     * Closed to modification:
         * New behavior should not require to modifiy current class
         * Current behavior should be complete/coherent as it is
+
+* #### Dependency inversion principle
+
+    * High-level modules should not depend on low-level modules. Both should depend on abstractions 
+    * [A crystal clear explanation... finally!](https://medium.com/@kedren.villena/simplifying-dependency-inversion-principle-dip-59228122649a){:target="_blank"}
+    * [Why inverted ?](https://www.blinkingcaret.com/2016/01/27/inverts-dependency-inversion-principle/){:target="_blank"}
+        > Thus, the dependency structure of a well designed object oriented program is “inverted” with respect to the dependency structure that normally results from traditional procedural methods.
+ 
