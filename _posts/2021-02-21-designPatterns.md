@@ -114,3 +114,41 @@ implements an interface
 * [Factory method subclass](https://github.com/bethrobson/Head-First-Design-Patterns/blob/master/src/headfirst/designpatterns/factory/pizzafm/NYPizzaStore.java){:target="_blank"}
 
  * [All code](https://github.com/bethrobson/Head-First-Design-Patterns/tree/master/src/headfirst/designpatterns/factory/pizzafm){:target="_blank"}
+
+
+<br/>
+
+## Singleton
+
+### Definition
+
+* The **Singleton** Pattern ensures a class has only one instance, and provides a global point of access to it.
+ 
+### Advantages
+
+* The singleton controls access to a resource shared by the entire application
+* Since the singleton creates the object, it might change the instantiation process
+
+### Sample code. But not thread safe! 
+```java
+public class Singleton {
+    private static Singleton uniqueInstance;
+    // other useful instance variables here
+    
+    private Singleton() {}
+    public static Singleton getInstance() {
+        if (uniqueInstance == null) {
+            uniqueInstance = new Singleton();
+        }
+        return uniqueInstance;
+    }
+    // other useful methods here
+}
+```
+
+For more on threads and singleton: [Java Singleton Design Pattern](https://www.geeksforgeeks.org/java-singleton-design-pattern-practices-examples/){:target="_blank"}
+
+* [Client code](https://github.com/bethrobson/Head-First-Design-Patterns/blob/master/src/headfirst/designpatterns/singleton/classic/SingletonClient.java){:target="_blank"}
+
+ * [All code](https://github.com/bethrobson/Head-First-Design-Patterns/blob/master/src/headfirst/designpatterns/singleton/classic/){:target="_blank"}
+
