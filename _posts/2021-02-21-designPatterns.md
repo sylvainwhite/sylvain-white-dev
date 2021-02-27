@@ -122,7 +122,7 @@ implements an interface
 
 ### Definition
 
-* The **Singleton** Pattern ensures a class has only one instance, and provides a global point of access to it.
+* The **Singleton** Pattern ensures a class has only one instance, and provides a global point of access to it
  
 ### Advantages
 
@@ -152,3 +152,40 @@ For more on threads and singleton: [Java Singleton Design Pattern](https://www.g
 
  * [All code](https://github.com/bethrobson/Head-First-Design-Patterns/blob/master/src/headfirst/designpatterns/singleton/classic/){:target="_blank"}
 
+<br/>
+
+## Command
+
+### Definition
+
+* The **Command** Pattern encapsulates a request as an object, thereby letting you  parameterize other objects with different requests, queue or log requests, and support undoable operations.
+ 
+### Advantages
+
+* It decouples the classes that invoke the operation from the object that executes the operation
+* It allows you to create a sequence of commands by providing a queue system
+* New commands can be added awithout changing the existing code
+* Macro command (list of commands) is easy to implement
+* It can be used to define a rollback system in case of crash
+
+![]({{ site.github.url }}/resources/patternCommand.png "Command Pattern")
+
+### Sample code 
+
+* [Client code](https://github.com/bethrobson/Head-First-Design-Patterns/blob/master/src/headfirst/designpatterns/command/undo/RemoteLoader.java){:target="_blank"}
+
+* [Command interface](https://github.com/bethrobson/Head-First-Design-Patterns/blob/master/src/headfirst/designpatterns/command/undo/Command.java){:target="_blank"}
+
+* [Concrete command](https://github.com/bethrobson/Head-First-Design-Patterns/blob/master/src/headfirst/designpatterns/command/undo/LightOffCommand.java){:target="_blank"}
+
+**Check out the 'NoCommand' object** that is a 'null object' in remote control class
+
+* [Remote control class](https://github.com/bethrobson/Head-First-Design-Patterns/blob/master/src/headfirst/designpatterns/command/undo/RemoteControlWithUndo.java){:target="_blank"}
+
+* The NoCommand object is an example of a null object. A null object is useful
+when you don’t have a meaningful object to return, and yet you want to remove
+the responsibility for handling null from the client.
+
+* [NoCommand class](https://github.com/bethrobson/Head-First-Design-Patterns/blob/master/src/headfirst/designpatterns/command/undo/NoCommand.java){:target="_blank"}
+
+* [All code](https://github.com/bethrobson/Head-First-Design-Patterns/blob/master/src/headfirst/designpatterns/command/undo/){:target="_blank"}
