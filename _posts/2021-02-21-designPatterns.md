@@ -189,3 +189,27 @@ the responsibility for handling null from the client.
 * [NoCommand class](https://github.com/bethrobson/Head-First-Design-Patterns/blob/master/src/headfirst/designpatterns/command/undo/NoCommand.java){:target="_blank"}
 
 * [All code](https://github.com/bethrobson/Head-First-Design-Patterns/blob/master/src/headfirst/designpatterns/command/undo/){:target="_blank"}
+
+
+<br/>
+
+## Adapter
+
+### Definition
+
+* The **Adapter** Pattern converts the interface of a class into another interface the clients expect. Adapter lets classes work together that couldn’t otherwise because of incompatible interfaces
+ 
+### Advantages
+
+* Client is not complicated by having to use a different interface
+* Adapter converts one interface to another while facade pattern makes it simpler
+
+![]({{ site.github.url }}/resources/patternAdapter.png "Adapter Pattern")
+
+### Sample code 
+
+* [Client code](https://github.com/bethrobson/Head-First-Design-Patterns/blob/master/src/headfirst/designpatterns/adapter/ducks/DuckTestDrive.java){:target="_blank"}
+
+* [Adapter class](https://github.com/bethrobson/Head-First-Design-Patterns/blob/master/src/headfirst/designpatterns/adapter/ducks/TurkeyAdapter.java){:target="_blank"}
+
+* [All code](https://github.com/bethrobson/Head-First-Design-Patterns/blob/master/src/headfirst/designpatterns/adapter/ducks/){:target="_blank"}
