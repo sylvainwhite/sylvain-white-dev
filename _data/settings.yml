@@ -12,7 +12,6 @@ menu:
 - {name: 'Javascript', folder: 'pages', file: 'javascript.html'}
 - {name: 'Management', folder: 'pages', file: 'management.html'}
 - {name: 'Soft skills', folder: 'pages', file: 'softskills.html'}
-- {name: 'TODO list', folder: 'pages', file: 'technicalToDoList.html'}
 
 # Available social icons are powered by Font Awesome, so you can use any icon that they offer
 social:
