@@ -267,3 +267,30 @@ algorithm’s structure
 
 * [All code](https://github.com/bethrobson/Head-First-Design-Patterns/blob/master/src/headfirst/designpatterns/templatemethod/barista/){:target="_blank"}
 
+<br/>
+
+## Composite
+
+### Definition
+
+* The **Composite Method** allows you to compose objects into tree structures to represent part-whole hierarchies. Composite lets clients treat individual objects and compositions of objects uniformly.
+
+### Advantages
+
+* It allows to run behavior recursively over all components of an object tree
+* It makes easier to you to add new kinds of components
+
+![]({{ site.github.url }}/resources/patternComposite.png "Composite Pattern")
+
+### Sample code 
+
+* [Client code](https://github.com/bethrobson/Head-First-Design-Patterns/blob/master/src/headfirst/designpatterns/composite/menu/MenuTestDrive.java){:target="_blank"}
+
+* [Component class](https://github.com/bethrobson/Head-First-Design-Patterns/blob/master/src/headfirst/designpatterns/composite/menu/MenuComponent.java){:target="_blank"}
+
+* [Composite class](https://github.com/bethrobson/Head-First-Design-Patterns/blob/master/src/headfirst/designpatterns/composite/menu/Menu.java){:target="_blank"}
+
+* [Leaf class](https://github.com/bethrobson/Head-First-Design-Patterns/blob/master/src/headfirst/designpatterns/composite/menu/MenuItem.java){:target="_blank"}
+
+* [All code](https://github.com/bethrobson/Head-First-Design-Patterns/blob/master/src/headfirst/designpatterns/composite/menu/){:target="_blank"}
+
