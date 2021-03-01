@@ -58,4 +58,9 @@ Based on [Head First - Design Patterns - A Brain-Friendly Guide](https://www.ama
 
 ![]({{ site.github.url }}/resources/objectOrientedPrinciples1.png "Principle of Least Knowledge")
 
+* #### Single responsability
 
+    * A class should have only one reason to change i.e. one responsability
+    * More than one responsibility means more than one area of potential change
+    * The term cohesion is used as a measure of how closely a class supports a single responsibility
+    * High cohesion means the class is designed around a set of related functions
