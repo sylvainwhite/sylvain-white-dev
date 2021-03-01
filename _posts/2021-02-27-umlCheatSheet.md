@@ -10,7 +10,12 @@ tags: [architecture, misc]
 
 ## UML Cheat sheet
 
-Below is a very basic cheat sheet for class diagram from [Chris's coding blog](https://yetanotherchris.dev/cheatsheet/uml-cheat-sheet/){:target="_blank"}. For a more complete cheat sheet, see [UML Dzone Refcardz]({{ site.github.url }}/resources/umlDzoneRefcardz.pdf){:target="_blank"}.
+### References
+
+* Below is a very basic cheat sheet for class diagram from [Chris's coding blog](https://yetanotherchris.dev/cheatsheet/uml-cheat-sheet/){:target="_blank"}
+* For a more complete cheat sheet, see [UML Dzone Refcardz]({{ site.github.url }}/resources/umlDzoneRefcardz.pdf){:target="_blank"}.
+
+### Class diagram 
 
 * The class diagram is part of UML structural diagrams
 * It describes the static relationships between classes
