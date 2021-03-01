@@ -8,7 +8,11 @@ tags: [architecture, misc]
 ---
 <br/>
 
-Based on [Head First - Design Patterns - A Brain-Friendly Guide](https://www.amazon.ca/Head-First-Design-Patterns-Brain-Friendly/dp/0596007124){:target="_blank"}
+## References
+
+* Based on [Head First - Design Patterns - A Brain-Friendly Guide](https://www.amazon.ca/Head-First-Design-Patterns-Brain-Friendly/dp/0596007124){:target="_blank"}
+* All 23 patterns from the Gang Of Four are presented here
+* For a quick overview of all of them see [DZone Refcardz - Design Patterns]({{ site.github.url }}/resources/designPatternsDzoneRefcardz.pdf){:target="_blank"} 
 
 <br/>
 
@@ -213,3 +217,53 @@ the responsibility for handling null from the client.
 * [Adapter class](https://github.com/bethrobson/Head-First-Design-Patterns/blob/master/src/headfirst/designpatterns/adapter/ducks/TurkeyAdapter.java){:target="_blank"}
 
 * [All code](https://github.com/bethrobson/Head-First-Design-Patterns/blob/master/src/headfirst/designpatterns/adapter/ducks/){:target="_blank"}
+
+<br/>
+
+## Facade
+
+### Definition
+
+* The **Facade** Pattern provides a unified interface to a set of interfaces in a subsytem 
+ 
+### Advantages
+
+* Facade defines a higher-level interface that makes the subsystem easier to use
+* Facade insulates the subsystem from the client
+
+![]({{ site.github.url }}/resources/patternFacade.png "Facade Pattern")
+
+### Sample code 
+
+* [Client code](https://github.com/bethrobson/Head-First-Design-Patterns/blob/master/src/headfirst/designpatterns/facade/hometheater/HomeTheaterTestDrive.java){:target="_blank"}
+
+* [Facade class](https://github.com/bethrobson/Head-First-Design-Patterns/blob/master/src/headfirst/designpatterns/facade/hometheater/HomeTheaterFacade.java){:target="_blank"}
+
+* [All code](https://github.com/bethrobson/Head-First-Design-Patterns/blob/master/src/headfirst/designpatterns/facade/hometheater/){:target="_blank"}
+
+<br/>
+
+## Template Method
+
+### Definition
+
+* The **Template Method** defines the skeleton of an algorithm in a method deferring some steps to subclasses
+
+### Advantages
+
+* Subclasses can redefine certain steps of an algorithm without changing the
+algorithm’s structure 
+* Subclasses can define hooks to skip/modify steps of the algorithm
+ 
+![]({{ site.github.url }}/resources/patternTemplateMethod.png "Template Method Pattern")
+
+### Sample code 
+
+* [Client code](https://github.com/bethrobson/Head-First-Design-Patterns/blob/master/src/headfirst/designpatterns/templatemethod/barista/BeverageTestDrive.java){:target="_blank"}
+
+* [Template Method class](https://github.com/bethrobson/Head-First-Design-Patterns/blob/master/src/headfirst/designpatterns/templatemethod/barista/CaffeineBeverageWithHook.java){:target="_blank"}
+
+* [Concrete Template Method class](https://github.com/bethrobson/Head-First-Design-Patterns/blob/master/src/headfirst/designpatterns/templatemethod/barista/CoffeeWithHook.java){:target="_blank"}
+
+* [All code](https://github.com/bethrobson/Head-First-Design-Patterns/blob/master/src/headfirst/designpatterns/templatemethod/barista/){:target="_blank"}
+
