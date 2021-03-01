@@ -247,7 +247,7 @@ the responsibility for handling null from the client.
 
 ### Definition
 
-* The **Template Method** defines the skeleton of an algorithm in a method deferring some steps to subclasses
+* The **Template Method** Pattern defines the skeleton of an algorithm in a method deferring some steps to subclasses
 
 ### Advantages
 
@@ -273,7 +273,7 @@ algorithm’s structure
 
 ### Definition
 
-* The **Composite Method** allows you to compose objects into tree structures to represent part-whole hierarchies. Composite lets clients treat individual objects and compositions of objects uniformly.
+* The **Composite Method** Pattern allows you to compose objects into tree structures to represent part-whole hierarchies. Composite lets clients treat individual objects and compositions of objects uniformly.
 
 ### Advantages
 
@@ -294,3 +294,27 @@ algorithm’s structure
 
 * [All code](https://github.com/bethrobson/Head-First-Design-Patterns/blob/master/src/headfirst/designpatterns/composite/menu/){:target="_blank"}
 
+<br/>
+
+## State
+
+### Definition
+
+* The **State** Pattern allows an object to alter its behavior when its internal state changes. The object will appear to change its class.
+
+### Advantages
+
+* It removes the dependency on the if/else or switch/case conditional logic
+* It encapsulates different behavioral requirements unique to different state transitions
+
+![]({{ site.github.url }}/resources/patternState.png "State Pattern")
+
+### Sample code 
+
+* [Client code](https://github.com/bethrobson/Head-First-Design-Patterns/blob/master/src/headfirst/designpatterns/state/gumballstate/GumballMachineTestDrive.java){:target="_blank"}
+
+* [FSM class](https://github.com/bethrobson/Head-First-Design-Patterns/blob/master/src/headfirst/designpatterns/state/gumballstate/GumballMachine.java){:target="_blank"}
+
+* [State class](https://github.com/bethrobson/Head-First-Design-Patterns/blob/master/src/headfirst/designpatterns/state/gumballstate/HasQuarterState.java){:target="_blank"}
+
+* [All code](hhttps://github.com/bethrobson/Head-First-Design-Patterns/blob/master/src/headfirst/designpatterns/state/gumballstate/){:target="_blank"}
