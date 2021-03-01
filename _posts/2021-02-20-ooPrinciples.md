@@ -46,3 +46,16 @@ Based on [Head First - Design Patterns - A Brain-Friendly Guide](https://www.ama
     * [Why inverted ?](https://www.blinkingcaret.com/2016/01/27/inverts-dependency-inversion-principle/){:target="_blank"}
         > Thus, the dependency structure of a well designed object oriented program is “inverted” with respect to the dependency structure that normally results from traditional procedural methods.
  
+* #### Principle of Least Knowledge
+
+    * Talk only to your immediate friends
+        * It means an object should only invoke methods that belong to:
+            * The object itself
+            * Objects passed in as a parameter to the method
+            * Any object the method creates or instantiates
+            * Any components of the object
+        * Example:
+
+![]({{ site.github.url }}/resources/objectOrientedPrinciples1.png "Principle of Least Knowledge")
+
+
