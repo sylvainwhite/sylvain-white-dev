@@ -11,7 +11,7 @@ tags: [architecture, misc]
 ## References
 
 * Based on [Head First - Design Patterns - A Brain-Friendly Guide](https://www.amazon.ca/Head-First-Design-Patterns-Brain-Friendly/dp/0596007124){:target="_blank"}
-* All 23 patterns from the Gang Of Four are presented here
+* All 23 patterns from the Gang Of Four are **NOT** presented here
 * For a quick overview of all of them see [DZone Refcardz - Design Patterns]({{ site.github.url }}/resources/designPatternsDzoneRefcardz.pdf){:target="_blank"} 
 
 <br/>
