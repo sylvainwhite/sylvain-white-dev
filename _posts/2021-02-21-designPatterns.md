@@ -20,10 +20,7 @@ tags: [architecture, misc]
 
 ### Definition
 
-* The **Strategy** Pattern defines a family of algorithms,
-encapsulates each one, and makes them interchangeable.
-Strategy lets the algorithm vary independently from
-clients that use it
+* The **Strategy** Pattern defines a family of algorithms, encapsulates each one, and makes them interchangeable. Strategy lets the algorithm vary independently from clients that use it
 
 ### Advantages
 
@@ -45,10 +42,7 @@ This pattern allows to:
 
 ### Definition
 
-* The **Observer** Pattern defines a one-to-many
-dependency between objects so that when one
-object (subject) changes state, all of its dependents 
-(observers) are notified and updated automatically.
+* The **Observer** Pattern defines a one-to-many dependency between objects so that when one object (subject) changes state, all of its dependents (observers) are notified and updated automatically
 
 ### Advantages
 
@@ -162,7 +156,7 @@ For more on threads and singleton: [Java Singleton Design Pattern](https://www.g
 
 ### Definition
 
-* The **Command** Pattern encapsulates a request as an object, thereby letting you  parameterize other objects with different requests, queue or log requests, and support undoable operations.
+* The **Command** Pattern encapsulates a request as an object, thereby letting you  parameterize other objects with different requests, queue or log requests, and support undoable operations
  
 ### Advantages
 
@@ -273,7 +267,7 @@ algorithm’s structure
 
 ### Definition
 
-* The **Composite Method** Pattern allows you to compose objects into tree structures to represent part-whole hierarchies. Composite lets clients treat individual objects and compositions of objects uniformly.
+* The **Composite Method** Pattern allows you to compose objects into tree structures to represent part-whole hierarchies. Composite lets clients treat individual objects and compositions of objects uniformly
 
 ### Advantages
 
@@ -300,7 +294,7 @@ algorithm’s structure
 
 ### Definition
 
-* The **State** Pattern allows an object to alter its behavior when its internal state changes. The object will appear to change its class.
+* The **State** Pattern allows an object to alter its behavior when its internal state changes. The object will appear to change its class
 
 ### Advantages
 
@@ -317,4 +311,38 @@ algorithm’s structure
 
 * [State class](https://github.com/bethrobson/Head-First-Design-Patterns/blob/master/src/headfirst/designpatterns/state/gumballstate/HasQuarterState.java){:target="_blank"}
 
-* [All code](hhttps://github.com/bethrobson/Head-First-Design-Patterns/blob/master/src/headfirst/designpatterns/state/gumballstate/){:target="_blank"}
+* [All code](https://github.com/bethrobson/Head-First-Design-Patterns/blob/master/src/headfirst/designpatterns/state/gumballstate/){:target="_blank"}
+
+
+<br/>
+
+## Proxy
+
+### Definition
+
+* The **Proxy** Pattern provides a surrogate or placeholder for another object to control access to it
+
+### Advantages from [Refactoring Guru](https://refactoring.guru/design-patterns/proxy){:target="_blank"}
+
+* Virtual proxy: Instead of creating the object when the app launches, you can delay the object’s initialization to a time when it’s really needed
+
+* Security proxy: The proxy can pass the request to the service object only if the client’s credentials match some criteria
+
+* Remote proxy: The proxy passes the client request over the network, handling all of the nasty details of working with the network
+
+* Logging proxy: The proxy can log each request before passing it to the service
+
+ * Caching proxy: The proxy can implement caching for recurring requests that always yield the same results. The proxy may use the parameters of requests as the cache keys
+
+ * Smart reference proxy:The proxy can also track whether the client had modified the service object. Then the unchanged objects may be reused by other clients
+
+![]({{ site.github.url }}/resources/patternProxy.png "State Pattern")
+
+### Virtual Proxy - Sample code 
+
+* [Client code](https://github.com/bethrobson/Head-First-Design-Patterns/blob/master/src/headfirst/designpatterns/proxy/virtualproxy/ImageProxyTestDrive.java){:target="_blank"}
+
+* [Proxy class](https://github.com/bethrobson/Head-First-Design-Patterns/blob/master/src/headfirst/designpatterns/proxy/virtualproxy/ImageProxy.java){:target="_blank"}
+
+* [All code](https://github.com/bethrobson/Head-First-Design-Patterns/blob/master/src/headfirst/designpatterns/proxy/virtualproxy/){:target="_blank"}
+
