@@ -72,3 +72,15 @@ His basic idea: Tell a story!
 
 > So, maybe you won’t be qualified for the job, but it’s just a lot harder for me to dismiss you out of hand.
 
+<br/>
+
+## How to write a résumé 
+
+Excellent document on [how to write a résumé]({{ site.github.url }}/resources/howToWriteResume.pdf){:target="_blank"} from the web portal [HEC ma carrière](https://macarriere.hec.ca/home.htm){:target="_blank"} 
+
+Objectives:
+
+> 1. Connaître les qualités premières d’un bon CV et d’une bonne lettre de présentation
+2. Développer un contenu qui permet d’attirer l’attention des recruteurs
+3. Utiliser des stratégies de présentation efficaces, selon votre situation et vos objectifs, afin de maximiser
+vos chances d’obtenir une entrevue
