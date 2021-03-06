@@ -71,3 +71,16 @@ in Java 8 which includes lambda expression. It is still very verbose compared to
 * Solution: functional programming
 > It's a sure bet that the difference is in the verbs. Python, Ruby, JavaScript, Perl, and of course all Functional languages allow you to declare and pass around functions as distinct entities without wrapping them in a class.
 
+<br/>
+
+## Very short functions are a code smell
+
+[Very short functions are a code smell – an overview of the science on function length](https://softwarebyscience.com/very-short-functions-are-a-code-smell-an-overview-of-the-science-on-function-length/){:target="_blank"}
+
+From the conclusion of this paper:
+
+> Considering **that short functions tend to lead to longer debug times** and that very short functions tend **to have higher defect densities** (both in historical and modern datasets) the case for using very short functions becomes weak.
+
+> As we could see from the historical studies, the definition of ‘short’ has changed over time. Still, if we focus on our dataset analysis to post-2000 data and studies and look at functions 1-3 lines long (short enough to be classified short in any study), the evidence is lopsided: there are few reasons for using them, and many reasons for not using them. **As such, software developers should be wary of breaking their code into too small pieces, and actively avoid introducing very short (1-3 lines)** functions when given the choice. At the very least unnecessary single-line functions (ie. excluding getters, setters etc.) should be all but banned.
+
+The author is not as categoric for the optimal number of lines per function but he suggests something around 10 lines +/- 5 lines.
