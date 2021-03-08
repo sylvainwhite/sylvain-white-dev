@@ -1,9 +1,9 @@
 ---
 layout: post
-title: "TensorFlow on Google Cloud"
+title: "ML with TensorFlow"
 author: "Sylvain White"
-categories: ai
-tags: [ai, misc]
+categories: "machine learning"
+tags: ["machine learning", misc]
 # image: city-2.jpg
 ---
 <br/>
