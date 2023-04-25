@@ -289,6 +289,16 @@ Based on Joel Splosky's blog 'Great Design: What is Design?' [[web](https://www.
 
 <br/>
 
+## Want to be a super developer?
+
+Finally someone who understands a super developer improves your whole team. He is not a super hero working alone in his/her cubicle.
+"How to Become a 10x Dev: An Essential Guide" by @trueseniordev
+[[pdf]({{ site.github.url }}/resources/howToBecomeA10xDev.pdf){:target="_blank"}]
+[[web](https://hackernoon.com/how-to-become-a-10x-dev-an-essential-guide){:target="_blank"}]
+
+<br/>
+
+
 ## See also posts on management
 
 {% for post in site.tags["management"] %}
