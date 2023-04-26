@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Perfromance Matters"
+title: "Performance Matters"
 author: "Sylvain White"
 categories: misc
 tags: [misc]
