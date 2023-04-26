@@ -296,8 +296,11 @@ Finally someone who understands a super developer improves your whole team. He i
 [[pdf]({{ site.github.url }}/resources/howToBecomeA10xDev.pdf){:target="_blank"}]
 [[web](https://hackernoon.com/how-to-become-a-10x-dev-an-essential-guide){:target="_blank"}]
 
-<br/>
+> Software development is a team sport. Your individual performance doesn't matter as much as the performance of your whole team and company.
 
+> By improving how you work, you only ADD to your team's performance. By improving how everyone works, you MULTIPLY your team's performance
+
+<br/>
 
 ## See also posts on management
 
