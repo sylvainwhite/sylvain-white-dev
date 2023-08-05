@@ -2,9 +2,8 @@
 layout: misc
 title: "Architecture"
 author: "Sylvain White"
-categories: architecture
+categories: mainCategory
 tags: [architecture]
-# image: city-2.jpg
 ---
 <br/>
 
@@ -131,8 +130,12 @@ advices to build one. See slides 'How do you structure your apps?' [[pdf]({{ sit
 
 <br/>
 
-## See also posts on architecture
+<!-- ## See also posts on architecture
+
+{% for page in site.tags["architecture"] %}
+  - {{ page.title }}
+{% endfor %}
 
 {% for post in site.tags["architecture"] %}
   <a href="{{ site.github.url }}{{ post.url }}">{{ post.title }}</a>
-{% endfor %}
+{% endfor %} -->

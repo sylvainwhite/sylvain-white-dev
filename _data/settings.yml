@@ -7,11 +7,7 @@ disqus:
 google-ID: ''
 
 menu:
-- {name: 'Architecture', folder: 'pages', file: 'architecture.html'}
-- {name: 'Languages', folder: 'pages', file: 'languages.html'}
-- {name: 'Javascript', folder: 'pages', file: 'javascript.html'}
-- {name: 'Management', folder: 'pages', file: 'management.html'}
-- {name: 'Soft skills', folder: 'pages', file: 'softskills.html'}
+- {name: 'Software', folder: 'pages', file: 'software.html'}
 
 # Available social icons are powered by Font Awesome, so you can use any icon that they offer
 social:
@@ -19,11 +15,11 @@ social:
 
 # Customize site text
 pagination:
-  next_page: 'Newer'
-  previous_page: 'Older'
+  next_page: 'Suivantes'
+  previous_page: 'Précédentes'
 
-sharing_button_prompt: 'Feel free to share!'
+sharing_button_prompt: 'Partagez avec vos amis!'
 
-related_posts: '<br/><h2>Other related posts<h2>'
+related_posts: '<br/><h2>Autres rubriques associées<h2>'
 
-post_date_prefix: 'Written on'
+post_date_prefix: 'Rubrique écrite le'

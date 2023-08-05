@@ -2,9 +2,7 @@
 layout: misc
 title: "Soft skills"
 author: "Sylvain White"
-categories: soft skills
-tags: [soft skills]
-# image: city-2.jpg
+categories: mainCategory
 ---
 
 ## Interpersonal communication 

@@ -1,6 +1,9 @@
 ---
 layout: misc
-title: Javascript
+title: "Javascript"
+author: "Sylvain White"
+categories: mainCategory
+tags: [language]
 ---
 
 ## The keyword 'this'

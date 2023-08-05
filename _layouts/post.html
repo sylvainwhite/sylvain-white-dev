@@ -9,15 +9,24 @@ layout: default
 
   <span class="post-date">
     {{ site.data.settings.post_date_prefix }}
-    {% assign d = page.date | date: "%-d"  %}
-    {{ page.date | date: "%B" }}
-    {% case d %}
-      {% when '1' or '21' or '31' %}{{ d }}st
-      {% when '2' or '22' %}{{ d }}nd
-      {% when '3' or '23' %}{{ d }}rd
-      {% else %}{{ d }}th{% endcase %},
+    {{ page.date | date: "%-d" }}
+    {% assign m = page.date | date: "%-m"  %}
+    {% case m %}
+      {% when '1' %}janvier
+      {% when '2' %}février
+      {% when '3' %}mars
+      {% when '4' %}avril
+      {% when '5' %}mai
+      {% when '6' %}juin
+      {% when '7' %}juillet
+      {% when '8' %}août
+      {% when '9' %}septembre
+      {% when '10' %}octobre
+      {% when '11' %}novembre
+      {% when '12' %}décembre
+    {% endcase %}
     {{ page.date | date: "%Y" }}
-    by
+    par
     {% if page.author %}
       {{ page.author }}
     {% else %}

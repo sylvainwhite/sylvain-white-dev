@@ -1,6 +1,9 @@
 ---
 layout: misc
-title: Management
+title: "Management"
+author: "Sylvain White"
+categories: mainCategory
+tags: [management]
 ---
 
 ## Does your work worth something?
@@ -300,10 +303,4 @@ Finally someone who understands a super developer improves your whole team. He i
 
 > By improving how you work, you only ADD to your team's performance. By improving how everyone works, you MULTIPLY your team's performance
 
-<br/>
 
-## See also posts on management
-
-{% for post in site.tags["management"] %}
-  <a href="{{ site.github.url }}{{ post.url }}">{{ post.title }}</a>
-{% endfor %}

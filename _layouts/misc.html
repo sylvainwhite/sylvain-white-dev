@@ -11,4 +11,26 @@ layout: default
   {{ content }}
 </article>
 
+<div class="related">
+  {% assign currentTag = page.tags | first %}
+  {% assign addTitle = true %}
+  <ul class="related-posts">
+    {% for p in site.pages %}
+      {% if p.categories contains "subCategory" and p.tags contains currentTag and p.name != page.name %}
+        {% if addTitle == true %}
+          <br/>
+          <div>See also on the same subject</div>
+          {% assign addTitle = false %}
+        {% endif %}
+        {% assign file = p.name | replace: ".md", ".html" %}        
+        <h3>                           
+          <a href="{{ site.github.url }}/pages/{{ file }}">
+            <div>
+              {{ p.title }}
+            </div>
+          </a>
+        </h3>
+      {% endif %}
+    {% endfor %}
+  </ul>
 </div>

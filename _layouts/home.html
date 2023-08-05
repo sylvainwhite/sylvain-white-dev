@@ -9,7 +9,25 @@ title: Home
   <a href="{{ site.github.url }}{{ post.url }}">
     <div class="featured-posts" {% if post.image %}style="background-image:url({{ site.github.url }}/assets/img/{{ post.image }})"{% endif %}>
       <h2><span>{{ post.title }}</span></h2>
-      <small>{{ post.date | date: "%B %-d, %Y" }}</small>
+      <small>
+        {{ post.date | date: "%-d" }}
+        {% assign m = post.date | date: "%-m"  %}
+        {% case m %}
+          {% when '1' %}janvier
+          {% when '2' %}février
+          {% when '3' %}mars
+          {% when '4' %}avril
+          {% when '5' %}mai
+          {% when '6' %}juin
+          {% when '7' %}juillet
+          {% when '8' %}août
+          {% when '9' %}septembre
+          {% when '10' %}octobre
+          {% when '11' %}novembre
+          {% when '12' %}décembre
+        {% endcase %}
+        {{ post.date | date: "%Y" }}        
+      </small>
     </div>
   </a>
 </article>

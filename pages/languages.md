@@ -1,6 +1,9 @@
 ---
 layout: misc
-title: Languages
+title: "Languages"
+author: "Sylvain White"
+categories: mainCategory
+tags: [language]
 ---
 <br/>
 
