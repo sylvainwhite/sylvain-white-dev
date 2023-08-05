@@ -34,7 +34,7 @@ Toutes les informations ci-dessus sont tirées des sources (1) et (2) à moins d
   * Les murs de pierre conservent la chaleur et permettent la culture en espalier
   * Exemple: Pommiers qui sont sur le mur nord du verger
 
-<img src="/resources/jardinDuGouverneurPommiers.jpeg" width="400"/>
+![]({{ site.github.url }}/resources/JardinDuGouverneurPommiersWidth400px.jpeg "Pommiers")
 
 * Jardin ornemental
   * Jardin à la française: symétrique et géométrique
