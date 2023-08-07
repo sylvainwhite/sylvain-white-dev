@@ -4,7 +4,7 @@ title: "Jardins du Gouverneur"
 author: "Sylvain White"
 categories: misc
 tags: [misc]
-image: JardinDuGouverneur.png
+image: JardinDuGouverneur.jpg
 ---
 <br/>
 
