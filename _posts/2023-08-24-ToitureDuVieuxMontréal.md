@@ -4,15 +4,21 @@ title: "Toitures du Vieux-Montréal"
 author: "Sylvain White"
 categories: misc
 tags: [misc]
-image: ToituresDuVieuxMontreal.jpg
+image: ToitMaisonDeLaMinerve.jpg
 ---
+<p style="text-align: center;">Toit en tôle à la canadienne - Maison de la Minerve</p>
 <br/>
 
-# La maison à l’Enseigne-du-Patriote et la maison de la Minerve
+# La maison de la Minerve et la maison à l’Enseigne-du-Patriote
 
 * Ces maisons ont des toitures typiques de deux techniques différentes
-* La maison à l’Enseigne-du-Patriote (1) a un toit en ‘tôle à la canadienne’
-* La maison de la Minerve (2) a un toit en ‘tôle à baguettes’
+* La maison de la Minerve (1) a un toit en ‘tôle à la canadienne’ (photo ci-dessus)
+* La maison à l’Enseigne-du-Patriote (2) a un toit en ‘tôle à baguettes’ (photo ci-dessous)
+
+<br/>
+![]({{ site.github.url }}/resources/ToitMaisonEnseigneDuPatriote.jpg "Toit en tôle à baguettes - Maison à l'Enseigne-Du-Patriote")
+
+<p style="text-align: center;">Toit en tôle à baguettes - Maison à l'Enseigne-Du-Patriote</p>
 
 <br/>
 # Deux techniques pour les toits en tôle
@@ -105,9 +111,9 @@ Ces ordonnances établiront de nouvelles règles en matière de protection de co
 <br/>
 ## Sources
 
-1. [Maison à l'Enseigne-du-Patriote](https://www.vieux.montreal.qc.ca/inventaire/fiches/fiche_bat.php?sec=e&num=9){:target="_blank"}
+1. [Maison de la Minerve](https://www.vieux.montreal.qc.ca/inventaire/fiches/fiche_bat.php?sec=e&num=3){:target="_blank"}
 
-2. [Maison de la Minerve](https://www.vieux.montreal.qc.ca/inventaire/fiches/fiche_bat.php?sec=e&num=3){:target="_blank"}
+2. [Maison à l'Enseigne-du-Patriote](https://www.vieux.montreal.qc.ca/inventaire/fiches/fiche_bat.php?sec=e&num=9){:target="_blank"}
 
 3. [Couverture de tôle - Action Patrimoine](https://actionpatrimoine.ca/outils/fiches-techniques/couverture-de-tole-2/){:target="_blank"}
 

@@ -36,6 +36,7 @@ Toutes les informations ci-dessus sont tirées des sources (1) et (2) à moins d
 
 ![]({{ site.github.url }}/resources/JardinDuGouverneurPommiersWidth400px.jpeg "Pommiers")
 
+<br/>
 * Jardin ornemental
   * Jardin à la française: symétrique et géométrique
   * Victoire de la pensée sur la matière
