@@ -3,7 +3,7 @@ layout: misc
 title: "Unicode - UTF-8"
 author: "Sylvain White"
 categories: subCategory
-tags: [misc]4550 Rue Cartier, Montréal, QC H2H 1W5, Canada
+tags: [misc]
 ---
 
 <br/>
