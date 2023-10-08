@@ -9,7 +9,7 @@ image: FleuveSaintLaurent.jpg
 <p style="text-align: center;">Le fleuve Saint-Laurent devant le Vieux-Port - André Chivinski - wikimedia (9)</p>
 
 <br/>
-## La longueur du fleuve Saint-Laurent
+## Longueur du fleuve Saint-Laurent
 
 * Encore un bel exemple des deux solitudes!
     * Selon wikipédia en français (1) et l’encyclopédie canadienne, le fleuve fait 1197 km
@@ -35,7 +35,7 @@ Finalement, les deux wikipédia ont raison selon leur définition des limites du
 Mais ce sont des finasseries qui n'intéressent pas vraiment les touristes. Passons aux choses sérieuses!
 
 <br/>
-## Le nom du fleuve
+## Nom du fleuve
 * 10 août 1535: Jacques Cartier arrive à l’embouchure du fleuve le jour de la fête de Laurent de Rome (5)
     * Il attribue d'abord le nom de Saint-Laurent à l'embouchure du fleuve
     * Il croit alors que c'est un simple golfe de la Côte-Nord : la «baye sainct Laurens»
