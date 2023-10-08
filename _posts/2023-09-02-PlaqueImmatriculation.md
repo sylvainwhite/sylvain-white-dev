@@ -4,41 +4,12 @@ title: "Plaque d'immatriculation"
 author: "Sylvain White"
 categories: misc
 tags: [misc]
-image: PlaqueImmatriculationQuébec.jpg
+image: PlaqueImmatriculationQuébecQ1.jpg
 ---
-<p style="text-align: center;">Plaque d'immatriculation du Québec - BasilLeaf - wikimedia (1)</p>
+<p style="text-align: center;">Première plaque d'immatriculation à Montréal - Automobile de Ucal-Henri Dandurand (6)</p>
 
 <br/>
-
-# Plaque d'immatriculation du Québec
-
-<br/>
-## Pourquoi ‘Je me souviens’ se retrouve sur les plaques d’immatriculation au Québec?
-
-* Parce que c'est la devise du Québec (2)
-* 1978: C'est une proposition de Denis Vaugeois et non de Lise Payette comme on le croit (3)
-* De 1963 à 1978, c’était ‘La belle province’, un slogan touristique (3)
-
-<br/>
-## Pourquoi la devise du Québec est "Je me souviens"?
-
-* Parce que le "Je me souviens" est gravé sur la façade du parlement (2)
-    * 1883: Eugène-Étienne Taché conçoit les plans de l’assemblée nationale
-	* Il le fait graver sous les armoiries du Québec au-dessus de la porte principale
-	* De plus, tous les personnages historiques importants du Québec ornent la façade
-* La fausse histoire (4)
-    * La petite fille de Taché publie dans un journal un poème de son grand-père
-	* Elle affirme que la devise complète est la suivante:
-	    * ‘Je me souviens / Que né sous le lys / Je croîs sous la rose’
-	* C’est une devise que Taché a écrite mais pour un autre projet
-* 1939: La devise est officialisée par le parlement (2) en même temps que les nouvelles armoiries
-
-<br/>
-## Pourquoi y a-t-il une plaque seulement à l'arrière des véhicules? (5)
-
-* Seulement pour des raisons d’économie
-* Il y aussi 19 états américains qui ont des plaques seulement à l’arrière 
-* Cette décision a été prise en 1978
+# Plaque d'immatriculation au Québec
 
 <br/>
 ## Quelle est la première plaque d’immatriculation à Montréal?
@@ -51,22 +22,49 @@ image: PlaqueImmatriculationQuébec.jpg
 	* Des citoyens se plaignent de l’automobile qui effraie les chevaux
 	* Dandurand  se rend à la ville pour obtenir un permis de conduire en ville
 	* Comme il n’y a pas de permis pour les automobiles, on lui délivre un permis de vélo!
-* 1906: Première ‘plaque’ (6)
+* 1906: Première "plaque" (6)
 	* Croissance du nombre d’automobiles
-	* On délivre la première plaque ‘Q1’ à un véhicule de Dandurand
+	* On délivre la première plaque "Q1" à un véhicule de Dandurand
 	* Il doit la peindre lui-même sur le véhicule qui se trouve au musée Ramezay
 
 <br/>
-![]({{ site.github.url }}/resources/PlaqueImmatriculationQ1.jpg "Automobile de Dandurand et sa plaque Q1")
+## Pourquoi "Je me souviens" se retrouve sur les plaques d’immatriculation au Québec?
 
-<p style="text-align: center;">Automobile de Dandurand et sa plaque Q1 (6)</p>
+<br/>
+![]({{ site.github.url }}/resources/PlaqueImmatriculationQuébec.jpg "Plaque d'immatriculation du Québec - BasilLeaf - wikimedia (1)")
 
+<p style="text-align: center;">Plaque d'immatriculation du Québec - BasilLeaf - wikimedia (1)</p>
+
+* Parce que c'est la devise du Québec (2)
+* 1978: C'est une proposition de Denis Vaugeois et non de Lise Payette comme on le croit (3)
+* De 1963 à 1978, c’était "La belle province", un slogan touristique (3)
+
+<br/>
+## Pourquoi la devise du Québec est "Je me souviens"?
+
+* Parce que le "Je me souviens" est gravé sur la façade du parlement (2)
+    * 1883: Eugène-Étienne Taché conçoit les plans de l’assemblée nationale
+	* Il le fait graver sous les armoiries du Québec au-dessus de la porte principale
+	* De plus, tous les personnages historiques importants du Québec ornent la façade
+* La fausse histoire (4)
+    * La petite fille de Taché publie dans un journal un poème de son grand-père
+	* Elle affirme que la devise complète est la suivante:
+	    * "Je me souviens / Que né sous le lys / Je croîs sous la rose"
+	* C’est une devise que Taché a écrite mais pour un autre projet
+* 1939: La devise est officialisée par le parlement (2) en même temps que les nouvelles armoiries
+
+<br/>
+## Pourquoi y a-t-il une plaque seulement à l'arrière des véhicules? (5)
+
+* Seulement pour des raisons d’économie
+* Il y aussi 19 états américains qui ont des plaques seulement à l’arrière 
+* Cette décision a été prise en 1978
 
 <br/>
 ## Quelles sont les plaques spéciales au Québec?
 
 * Il y a 15 catégories de plaques au Québec (8)
-* Les véhicules commerciaux ont des plaques qui débutent par ‘F’
+* Les véhicules commerciaux ont des plaques qui débutent par "F"
 * Les véhicules électriques ont des plaques vertes
 
 <br/>
