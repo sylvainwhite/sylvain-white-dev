@@ -9,17 +9,32 @@ image: CastorDrapeauDuCanada.jpg
 <p style="text-align: center;">Un castor vole un drapeau du Canada à Saskatoon - Radio-Canada (1)</p>
 
 <br/>
+## Les origines du drapeau canadien (5)
 
-# Drapeau du Canada
+* Le drapeau actuel a été adopté offciellement en 1965
+* Le drapeau officiel du Canada jusqu'en 1965 était l'Union Jack (5)
+* Il y a eu un concours et de vives discussions avant son adoption
+* Plusieurs souhaitaient que le Red Ensign (voir ci-dessous) deviennent le drapeau canadien
+* L'Ontario et le Manitoba ont adopté le Red Ensign comme drapeau provincial en guise de protestation (3)(4)
 
 <br/>
 ## Le Red Ensign
 
-* Le drapeau officieux du Canada à partir de 1868 est le Red Ensign (5)
-* Le drapeau officiel du Canada jusqu'en 1965 est l'Union Jack (5)
-* Le Red Ensign combine l'Union Jack et des armoiries provinciales ou canadiennes
-* Il y a eu plusieurs versions du Red Ensign. Les 2 plus connues sont ci-dessous
-* Il a été utilisé par la marine marchande et il a flotté sur plusieurs bâtiments officiels (2)(6)
+ * Le drapeau officieux du Canada à partir de 1868 est le Red Ensign (5)
+ * Le Red Ensign combine l'Union Jack et des armoiries provinciales ou canadiennes
+ * Il y a eu plusieurs versions du Red Ensign. Les 2 plus connues sont ci-dessous
+ * Il a été utilisé par la marine marchande et il a flotté sur plusieurs bâtiments officiels (2)(6)
+ * Le Red Ensign flotte au Mémorial de Vimy (7)(8)
+    * 9 avril 1917: Bataille de la 1ère guerre mondiale à la crête de Vimy en France
+    * Les troupes canadiennes ont combattu sous le Red Ensign
+    * La victoire des troupes canadiennes à Vimy définit une nouvelle identité nationale pour le pays
+    * Bataille planifiée brillamment par Sir Julian Byng, un britannique
+    * 3600 morts et 10600 blessés canadiens
+
+<br/>
+![]({{ site.github.url }}/resources/Vimy_Memorial_flags.jpg "Mémorial de Vimy (7)")
+
+<p style="text-align: center;">Drapeaux au Mémorial de Vimy (7)</p>
 
 <br/>
 ![]({{ site.github.url }}/resources/RedEnsign1868-1922.jpg "Red Ensign 1868-1922 ")
@@ -32,31 +47,10 @@ image: CastorDrapeauDuCanada.jpg
 <p style="text-align: center;">Red Ensign 1922-1957 avec les armoiries du Canada (6)</p>
 
 <br/>
-## Les origines du drapeau canadien (5)
-
-* Il a été adopté offciellement en 1965
-* Il y a eu un concours et de vives discussions avant son adoption
-* Plusieurs souhaitaient que le Red Ensign deviennent le drapeau canadien officiel
-* L'Ontario et le Manitoba ont adopté le Red Ensign comme drapeau provincial en guise de protestation (3)(4)
-
-<br/>
 ## Le jour du Drapeau Canadien (2)
 
 <br/>
 ![]({{ site.github.url }}/resources/JourDuDrapeau.jpg "Jour du Drapeau")
-
-<br/>
-## Le Red Ensign au Mémorial de Vimy (7)(8)
-
-<br/>
-![]({{ site.github.url }}/resources/Vimy_Memorial_flags.jpg "Mémorial de Vimy (7)")
-
-<br/>
-* 9 avril 1917: Bataille de la 1ère guerre mondiale à la crête de Vimy en France
-* Les troupes canadiennes ont combattu sous le Red Ensign
-* La victoire des troupes canadiennes à Vimy définit une nouvelle identité nationale pour le pays
-* Bataille planifiée brillamment par Sir Julian Byng, un britannique
-* 3600 morts et 10600 blessés canadiens
 
 <br/>
 ## Sources
