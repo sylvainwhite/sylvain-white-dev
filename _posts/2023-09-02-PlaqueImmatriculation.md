@@ -14,18 +14,18 @@ image: PlaqueImmatriculationQuébecQ1.jpg
 <br/>
 ## Quelle est la première plaque d’immatriculation à Montréal?
 
-* 1899: Première automobile à Montréal (6)
-    * Ucal-Henri Dandurand a été le premier montréalais automobiliste (6)
-	* Dandurand est un riche promoteur immobilier (7)
-	* Passionné d’automobiles, il en acquit plusieurs durant sa vie (6)
+* 1906: Première "plaque" (6)
+	* Croissance du nombre d’automobiles
+	* On délivre la première plaque "Q1" à un véhicule de Ucal-Henri Dandurand
+	* Il doit la peindre lui-même sur son véhicule qui se trouve au musée Ramezay* 
 * 1904: Premier permis (6)
 	* Des citoyens se plaignent de l’automobile qui effraie les chevaux
 	* Dandurand  se rend à la ville pour obtenir un permis de conduire en ville
 	* Comme il n’y a pas de permis pour les automobiles, on lui délivre un permis de vélo!
-* 1906: Première "plaque" (6)
-	* Croissance du nombre d’automobiles
-	* On délivre la première plaque "Q1" à un véhicule de Dandurand
-	* Il doit la peindre lui-même sur le véhicule qui se trouve au musée Ramezay
+* 1899: Première automobile à Montréal (6)
+    * Ucal-Henri Dandurand a été le premier montréalais automobiliste (6)
+	* Dandurand est un riche promoteur immobilier (7)
+	* Passionné d’automobiles, il en acquit plusieurs durant sa vie (6)
 
 <br/>
 ## Pourquoi "Je me souviens" se retrouve sur les plaques d’immatriculation au Québec?
@@ -36,22 +36,23 @@ image: PlaqueImmatriculationQuébecQ1.jpg
 <p style="text-align: center;">Plaque d'immatriculation du Québec - BasilLeaf - wikimedia (1)</p>
 
 * Parce que c'est la devise du Québec (2)
-* 1978: C'est une proposition de Denis Vaugeois et non de Lise Payette comme on le croit (3)
-* De 1963 à 1978, c’était "La belle province", un slogan touristique (3)
+* 1978: Denis Vaugeois (et non de Lise Payette) propose de mettre la devise sur la plaque (3)
+* 1963 à 1978: C’était "La belle province", un slogan touristique au lieu de la devise (3)
 
 <br/>
 ## Pourquoi la devise du Québec est "Je me souviens"?
 
-* Parce que le "Je me souviens" est gravé sur la façade du parlement (2)
-    * 1883: Eugène-Étienne Taché conçoit les plans de l’assemblée nationale
-	* Il le fait graver sous les armoiries du Québec au-dessus de la porte principale
+* 1886: "Je me souviens" est gravé sur la façade du parlement à Québec (2)
+    * Eugène-Étienne Taché a conçu les plans du parlement
+	* Il fait graver "Je me souviens" sous les armoiries au-dessus de la porte principale
 	* De plus, tous les personnages historiques importants du Québec ornent la façade
-* La fausse histoire (4)
+* 1939: La devise est officialisée par le parlement (2) en même temps que les nouvelles armoiries
+* 1978: La fausse histoire sur l'origine de la devise (4)
     * La petite fille de Taché publie dans un journal un poème de son grand-père
 	* Elle affirme que la devise complète est la suivante:
 	    * "Je me souviens / Que né sous le lys / Je croîs sous la rose"
-	* C’est une devise que Taché a écrite mais pour un autre projet
-* 1939: La devise est officialisée par le parlement (2) en même temps que les nouvelles armoiries
+	* C’est bien une devise que Taché a écrite mais pour un autre projet
+armoiries
 
 <br/>
 ## Pourquoi y a-t-il une plaque seulement à l'arrière des véhicules? (5)
