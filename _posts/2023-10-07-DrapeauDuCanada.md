@@ -19,7 +19,7 @@ image: CastorDrapeauDuCanada.jpg
 * Le drapeau officiel du Canada jusqu'en 1965 est l'Union Jack (5)
 * Le Red Ensign combine l'Union Jack et des armoiries provinciales ou canadiennes
 * Il y a eu plusieurs versions du Red Ensign. Les 2 plus connues sont ci-dessous
-* Il a été utilisé par la marine marchande et il a flotté sur plusieurs bâtiments offciels (2)(6)
+* Il a été utilisé par la marine marchande et il a flotté sur plusieurs bâtiments officiels (2)(6)
 
 <br/>
 ![]({{ site.github.url }}/resources/RedEnsign1868-1922.jpg "Red Ensign 1868-1922 ")
@@ -52,9 +52,9 @@ image: CastorDrapeauDuCanada.jpg
 ![]({{ site.github.url }}/resources/Vimy_Memorial_flags.jpg "Mémorial de Vimy (7)")
 
 <br/>
-* Bataille de la crête de Vimy: 9 avril 1917 
+* 9 avril 1917: Bataille de la 1ère guerre mondiale à la crête de Vimy en France
 * Les troupes canadiennes ont combattu sous le Red Ensign
-* La victoire de Vimy définit une nouvelle identité nationale pour le pays
+* La victoire des troupes canadiennes à Vimy définit une nouvelle identité nationale pour le pays
 * Bataille planifiée brillamment par Sir Julian Byng, un britannique
 * 3600 morts et 10600 blessés canadiens
 
