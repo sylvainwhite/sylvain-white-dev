@@ -22,7 +22,7 @@ Le [document Vocabulaire architectural]({{ site.github.url }}/resources/vocabula
   * Consultez un dictionnaire pour les définitions rigoureuses.
 * Vous n’utiliserez sans doute pas tout ce vocabulaire dans vos tours (un narthex vraiment !!!) mais 
   * J’espère que ce lexique vous aidera dans vos lectures à propos d’architecture.
-  * Deux ressources très utilisées dans ce lexique:
+  * Deux ressources très utilisées dans ce lexique
     * [Glossaire du vocabulaire de l'architecture québécoise](https://numerique.banq.qc.ca/patrimoine/details/52327/2689036){:target="_blank"} 
     * [Petit lexique illustré de l'architecture montréalaise](https://montreal.ca/articles/petit-lexique-illustre-de-larchitecture-montrealaise-4566){:target="_blank"} 
 * Les photos de ce document qui n’ont pas de source mentionnée sont celles que j’ai prises personnellement
