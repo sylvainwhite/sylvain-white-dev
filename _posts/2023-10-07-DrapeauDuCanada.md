@@ -11,7 +11,7 @@ image: CastorDrapeauDuCanada.jpg
 <br/>
 ## Les origines du drapeau canadien (5)
 
-* Le drapeau actuel a été adopté offciellement en 1965
+* Le drapeau actuel a été adopté officiellement en 1965
 * Le drapeau officiel du Canada jusqu'en 1965 était l'Union Jack (5)
 * Il y a eu un concours et de vives discussions avant son adoption
 * Plusieurs souhaitaient que le Red Ensign (voir ci-dessous) deviennent le drapeau canadien
