@@ -37,7 +37,7 @@ image: Les4Évangélistes.jpg
     * Saint-Jean: un aigle
     * Saint-Marc: un lion
     * Saint-Luc: un bœuf (ou un taureau)
-* En plus de leur attribut respectif, ils ont souvent un livre à la main (mais pas toujours) 
+* En plus de leur attribut respectif, ils ont souvent un livre ou une plume à la main (mais pas toujours) 
 
 <br/>
 ## Quelle est l’origine des attributs des évangélistes?
@@ -75,7 +75,7 @@ image: Les4Évangélistes.jpg
 <p style="text-align: center;">Photo de DAVID ILIFF, <a href="https://creativecommons.org/licenses/by-sa/3.0" target="_blank">CC BY-SA 3.0</a> via Wikimedia Commons</p>
 
 <br/>
-![]({{ site.github.url }}/resources/BasiliqueNotreDame4Évangélistes.png "Les 4 évanglistes")
+![]({{ site.github.url }}/resources/BasiliqueNotreDame4Évangélistes.png "Les 4 évangélistes")
 
 ### Basilique Saint-Patrick
 
@@ -83,7 +83,7 @@ image: Les4Évangélistes.jpg
 
 ![]({{ site.github.url }}/resources/BasiliqueSaintPatrickChoeurAnnoté.jpg "Le Choeur de Saint-Patrick")
 
-![]({{ site.github.url }}/resources/BasiliqueSaintPatrick4Évangélistes.png "Les 4 évanglistes")
+![]({{ site.github.url }}/resources/BasiliqueSaintPatrick4Évangélistes.png "Les 4 évangélistes")
 
 ### Église Saint-Jean-Baptiste
 
@@ -91,7 +91,7 @@ image: Les4Évangélistes.jpg
 
 ![]({{ site.github.url }}/resources/ÉgliseSaintJeanBaptisteFacadeAnnotée.jpg "Façade de l'église Saint-Jean-Baptiste")
 
-![]({{ site.github.url }}/resources/ÉgliseSaintJeanBaptiste4Évangélistes.png "Les 4 évanglistes")
+![]({{ site.github.url }}/resources/ÉgliseSaintJeanBaptiste4Évangélistes.png "Les 4 évangélistes")
 
 ### Cathédrale Marie-Reine-du-Monde et Saint-Jacques-le-Majeur
 
@@ -102,18 +102,18 @@ image: Les4Évangélistes.jpg
 <p style="text-align: center;">Coupole de la cathédrale Marie-Reine-du-Monde (4)</p>
 <p style="text-align: center;">Photo de Diego Delso, <a href="https://creativecommons.org/licenses/by-sa/4.0" target="_blank">CC BY-SA 4.0</a> via Wikimedia Commons</p>
 
-![]({{ site.github.url }}/resources/CathédraleMarieReine4Évangélistes.png "Les 4 évanglistes")
+![]({{ site.github.url }}/resources/CathédraleMarieReine4Évangélistes.png "Les 4 évangélistes")
 
-### Cathédrale Christ Chruch
+### Cathédrale Christ Church
 
-* Ils sont représentés dans un vitrial du choeur
-* Ils sont sculptés (mais sans leurs attributs) dans les chapiteaux des colonnes au 4 coin de l'église 
-
-<br/>
-![]({{ site.github.url }}/resources/ChristChurch4Évangélistes.png "Les 4 évanglistes")
+* Ils sont représentés dans le vitrail au fond du choeur
+* Ils sont sculptés (mais sans leurs attributs) dans les chapiteaux des colonnes au 4 coins de l'église 
 
 <br/>
-![]({{ site.github.url }}/resources/ChristChurch4TêtesÉvangélistes.png "Les 4 chapiteaux d'évanglistes")
+![]({{ site.github.url }}/resources/ChristChurch4Évangélistes.png "Les 4 évangélistes")
+
+<br/>
+![]({{ site.github.url }}/resources/ChristChurch4TêtesÉvangélistes.png "Les 4 chapiteaux d'évangélistes")
 
 <br/>
 ## Sources
