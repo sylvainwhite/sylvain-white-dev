@@ -16,8 +16,9 @@ image: PlaqueImmatriculationQuébecQ1.jpg
 
 * 1906: Première "plaque" (6)
 	* Croissance du nombre d’automobiles
-	* On délivre la première plaque "Q1" à un véhicule de Ucal-Henri Dandurand
-	* Il doit la peindre lui-même sur son véhicule qui se trouve au musée Ramezay* 
+	* On délivre la première plaque "Q1" à un véhicule de Ucal-Henri Dandurand (7)
+	* Il doit la peindre lui-même sur son véhicule qui se trouve au musée Ramezay
+		* Voir la photo ci-dessus
 * 1904: Premier permis (6)
 	* Des citoyens se plaignent de l’automobile qui effraie les chevaux
 	* Dandurand  se rend à la ville pour obtenir un permis de conduire en ville
@@ -45,14 +46,13 @@ image: PlaqueImmatriculationQuébecQ1.jpg
 * 1886: "Je me souviens" est gravé sur la façade du parlement à Québec (2)
     * Eugène-Étienne Taché a conçu les plans du parlement
 	* Il fait graver "Je me souviens" sous les armoiries au-dessus de la porte principale
-	* De plus, tous les personnages historiques importants du Québec ornent la façade
+	* De plus, plusieurs personnages historiques importants du Québec ornent la façade
 * 1939: La devise est officialisée par le parlement (2) en même temps que les nouvelles armoiries
 * 1978: La fausse histoire sur l'origine de la devise (4)
     * La petite fille de Taché publie dans un journal un poème de son grand-père
 	* Elle affirme que la devise complète est la suivante:
 	    * "Je me souviens / Que né sous le lys / Je croîs sous la rose"
 	* C’est bien une devise que Taché a écrite mais pour un autre projet
-armoiries
 
 <br/>
 ## Pourquoi y a-t-il une plaque seulement à l'arrière des véhicules? (5)
