@@ -32,7 +32,6 @@ Donc, la version anglaise semble avoir raison. Vraiment? Prenons la définition 
 
 <br/>
 Finalement, les deux wikipédia ont raison selon leur définition des limites du golfe.
-Mais ce sont des finasseries qui n'intéressent pas vraiment les touristes. Passons aux choses sérieuses!
 
 <br/>
 ## Nom du fleuve
@@ -47,9 +46,8 @@ Mais ce sont des finasseries qui n'intéressent pas vraiment les touristes. Pass
 
 * Il y a 1600 km entre le port de Montréal et l’océan atlantique (détroit de Belle Isle)
     * Encore une fois, les chiffres varient selon les sources
-    * La distance est bien de 1600 km selon la mesure ci-dessous
+    * La distance est bien de 1600 km (presque 1000 miles) selon la mesure ci-dessous
     * C'est vrai seulement en été car le détroit de Belle Isle n'est pas navigable en hiver...
-        * Mais c'est encore une finasserie qui n'interesse pas nos touristes!
 
 <br/>
 ![]({{ site.github.url }}/resources/DistancePortEtAtlantique.jpg "Distance de Montréal à l'océan Atlantique")
@@ -59,7 +57,7 @@ Mais ce sont des finasseries qui n'intéressent pas vraiment les touristes. Pass
 <br/>
 * Le fleuve Saint-Laurent est le seul affluent des grands lacs
     * Donc toute l’eau des grands lacs passe donc par Montréal!
-* Le dénivelé de la voie maritime du Saint-Laurent au complet est l'équivalent d'un immeuble de 60 étages (6)
+* Le dénivelé de la voie maritime du Saint-Laurent au complet est l'équivalent d'un immeuble de [60 étages](https://grandslacs-voiemaritime.com/wp-content/themes/slsmc/seaway-timeline-page/images/vital_waterway_fr.jpg){:target="_blank"} (6)
     * De la tête du lac Supérieur jusqu'à la mer
 * Le bassin hydrographique des grands lacs et du Saint-Laurent contient 25% de l’eau douce du monde (7)
     * Voir le graphique qui illustre ce gigantesque bassin (7)
