@@ -107,7 +107,7 @@ image: Les4Évangélistes.jpg
 ### Cathédrale Christ Church
 
 * Ils sont représentés dans le vitrail au fond du choeur
-* Ils sont sculptés (mais sans leurs attributs) dans les chapiteaux des colonnes au 4 coins de l'église 
+* Ils sont sculptés (mais sans leurs attributs) dans les chapiteaux des colonnes aux 4 coins de l'église 
 
 <br/>
 ![]({{ site.github.url }}/resources/ChristChurch4Évangélistes.png "Les 4 évangélistes")
