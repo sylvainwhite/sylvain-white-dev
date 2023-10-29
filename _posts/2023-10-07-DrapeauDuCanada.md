@@ -9,7 +9,7 @@ image: CastorDrapeauDuCanada.jpg
 <p style="text-align: center;">Un castor vole un drapeau du Canada à Saskatoon - Radio-Canada (1)</p>
 
 <br/>
-## Les origines du drapeau canadien (5)
+## Quels sont les origines du drapeau canadien? (5)
 
 * Le drapeau actuel a été adopté officiellement en 1965
 * Le drapeau officiel du Canada jusqu'en 1965 était l'Union Jack (5)
@@ -18,10 +18,10 @@ image: CastorDrapeauDuCanada.jpg
 * L'Ontario et le Manitoba ont adopté le Red Ensign comme drapeau provincial en guise de protestation (3)(4)
 
 <br/>
-## Le Red Ensign
+## Qu'est-ce que le Red Ensign?
 
- * Le drapeau officieux du Canada à partir de 1868 est le Red Ensign (5)
- * Le Red Ensign combine l'Union Jack et des armoiries provinciales ou canadiennes
+ * Le Red Enseign est le drapeau officieux du Canada à partir de 1868 (5)
+ * Il combine l'Union Jack et des armoiries provinciales ou canadiennes
  * Il y a eu plusieurs versions du Red Ensign. Les 2 plus connues sont ci-dessous
  * Il a été utilisé par la marine marchande et il a flotté sur plusieurs bâtiments officiels (2)(6)
  * Le Red Ensign flotte au Mémorial de Vimy (7)(8)
@@ -47,6 +47,27 @@ image: CastorDrapeauDuCanada.jpg
 <p style="text-align: center;">Red Ensign 1922-1957 avec les armoiries du Canada (6)</p>
 
 <br/>
+## Pourquoi le drapeau du Royaume-Uni s'appelle-t-il l'Union Jack?
+
+ * Le Royaume-Uni est l'union de quatre royaumes (9)
+    * Angleterre
+    * Pays de Galles (réuni à l'Angleterre en 1282)
+    * Écosse (réuni à l'Angleterre en 1606)
+    * Irlande (réuni à l'Angleterre en 1800)
+        * 1920: Indépendance de l'Irlande sauf l'Irlande-du-Nord
+ * Plusieurs hypothèses sur l'origine de "Jack" (10)
+    * Référence au roi Jacques 1er (1566-1625) qui a créé un drapeau (1606)
+    * Jack (et Jacques) signifiait autrefois paysan, homme du peuple
+    * La plus vraisemblable selon les experts: Jack signifie pavillon
+ * Grande-Bretagne
+    * C'est le Royaume-Uni sans l'Irlande-du-Nord
+
+<br/>
+![]({{ site.github.url }}/resources/UnionJackUnionQuatreRoyaumes.jpg "Union Jack: L'Union de quatre royaumes")
+
+<p style="text-align: center;">Union Jack: L'Union de quatre royaumes (10)</p>
+
+<br/>
 ## Le jour du Drapeau Canadien (2)
 
 <br/>
@@ -70,4 +91,10 @@ image: CastorDrapeauDuCanada.jpg
 7. [Drapeaux au Mémorial de Vimy - wikipedia](https://en.m.wikipedia.org/wiki/File:Vimy_Memorial_flags.JPG){:target="_blank"}
 
 8. [Bataille de la crête de Vimy - Gouvernement du Canada](https://www.veterans.gc.ca/fra/remembrance/wars-and-conflicts/first-world-war/battle-of-vimy-ridge){:target="_blank"}
+
+9. [Histoire du Royaume-Uni](https://fr.wikipedia.org/wiki/Histoire_du_Royaume-Uni){:target="_blank"}
+
+10. [Pourquoi le drapeau du Royaume-Uni s'appelle l'Union Jack?](http://ca-m-interesse.over-blog.com/article-pourquoi-le-drapeau-du-royaume-uni-s-appelle-l-union-jack-49238692.html){:target="_blank"}
+
+
 
