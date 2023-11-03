@@ -11,8 +11,8 @@ image: CabaneÀSucre.jpg
 <br/>
 ## Quelle est l’histoire du sirop d’érable? (7)
 
-* Ce sont les 1ères nations qui ont découvert l’eau d’érable et sa transformation en sirop
-    * Les 1ères nations s'en servaient en particulier comme aliment tonique au printemps
+* Ce sont les premières nations qui ont découvert l’eau d’érable et sa transformation en sirop
+    * Les premières nations s'en servaient en particulier comme aliment tonique au printemps
 	* De nombreuses légendes mettent en scène le sirop d'érable
 * Agathe de Repentigny (1657-1747), femme d’affaires (8)
     * Elle exporte jusqu’à 30 000 livres de sucre d’érable en France en 1701!
@@ -82,7 +82,7 @@ image: CabaneÀSucre.jpg
 <br/>
 ![]({{ site.github.url }}/resources/CannesSiropÉrable.jpg "Contenants de sirop érable. Crédit (16)")
 
-<p style="text-align: center;">Contenants de sirop érable. Crédit (16)</p>
+<p style="text-align: center;">Contenants de sirop érable. Crédit:Catalogue 1961 - Dominion & Grimm (16)</p>
 
 <br/>
 ## À qui les producteurs peuvent-ils vendre leur sirop?
@@ -125,4 +125,4 @@ image: CabaneÀSucre.jpg
 
 15. [Classification du sirop d’érable](https://www.lafermemartinette.com/categories-du-sirop-derable/){:target="_blank"}
 
-16. [Cataloge 1961 - Dominion & Grimm](https://www.dominiongrimm.ca/DATA/VINTAGECAT/18_fr~v~catalogue-1961.pdf){:target="_blank"}
+16. [Catalogue 1961 - Dominion & Grimm](https://www.dominiongrimm.ca/DATA/VINTAGECAT/18_fr~v~catalogue-1961.pdf){:target="_blank"}
