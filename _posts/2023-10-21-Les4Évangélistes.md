@@ -15,7 +15,7 @@ image: Les4Évangélistes.jpg
 
 * Dans la liturgie catholique, un prêtre lit toujours un extrait d'un évangile durant la messe
 * Les évangélistes sont donc très souvent représentés dans les églises
-* Cette rubrique contient des nombreux exemples de leur représentation dans les églises montréalaises
+* Cette rubrique contient de nombreux exemples de leur représentation dans les églises montréalaises
 
 <br/>
 ## Qui sont les évangélistes?
