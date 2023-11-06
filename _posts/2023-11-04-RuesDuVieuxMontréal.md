@@ -25,16 +25,16 @@ image: PlanDollierDeCasson1672.jpg
 * Le saint patron est le saint qui porte le même prénom que le personnage (5)
     * Exemple: Saint-Paul est le saint patron de Paul Chomedey de Maisonneuve
 * Il y a aussi des saints patrons pour des lieux, des métiers ou des groupes
-    * Saint-Joseph est le saint patron du Canada
+    * Saint-Joseph est le saint patron du Canada et aussi celui des soeurs Hospitalières
     * Saint-Matthieu est le saint patron des agents des douanes!
     * Saint-Jean-Baptiste est le saint patron des Canadiens Français
 
 <br/>
 ## Quelques faits à propos du plan de Dollier de Casson (1)
 
+* Le notaire-arpenteur Bénigne Basset a participé à l'élaboration du plan
 * Ce plan est dressé dans le but de construire la première église Notre-Dame
-* Il est aidé par le notaire-arpenteur Bénigne Basset
-* Le plan reprend certains chemins ou sentiers qui existaient déjà
+    * Il reprend certains chemins ou sentiers qui existaient déjà
 * Dollier de Casson dessine aussi les plans de l’église (2)
 
 <br/>
