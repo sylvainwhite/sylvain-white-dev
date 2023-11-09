@@ -47,6 +47,7 @@ image: PlanDollierDeCasson1672.jpg
 | Commune (lieu) | Terrain partagé pour faire paître les animaux. Ce n'est pas une rue sur le plan. | De la Commune |
 | Saint-Pierre | Pierre Gadoys, agriculteur. Il a creusé le premier puits à Montréal sur la Place d’Armes. | Saint-Pierre |
 | du Calvaire | Représentation de la crucifixion du Christ | N’existe plus aujourd’hui (6) |
+| Saint-François | François Dollier de Casson, auteur du plan! | Saint-François-Xavier |
 | Saint-Joseph | Père de Jésus, saint patron des Hospitalières. La rue longe leur hôpital. | Saint-Sulpice |
 | Saint-Lambert | Lambert Closse, sergent-major de la garnison de Ville-Marie | Saint-Laurent |
 | Saint-Gabriel | Gabriel Souart, premier curé de Ville-Marie | Saint-Gabriel |
