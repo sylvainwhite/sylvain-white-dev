@@ -63,7 +63,7 @@ Finalement, les deux wikipédia ont raison selon leur définition des limites du
     * Voir le graphique qui illustre ce gigantesque bassin (7)
 * La navigation sur le fleuve est l'une des plus périlleuses au monde!
     * Les grands bateaux emploient donc obligatoirement des capitaines québécois
-    * Lire ce très joli article de La Presse qui explique comment se déroule cette navigation (8)
+    * Lire ce très joli article de Radio-Canada qui explique comment se déroule cette navigation (8)
 
 <br/>
 ## Sources
