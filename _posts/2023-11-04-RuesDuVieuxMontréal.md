@@ -51,7 +51,7 @@ image: PlanDollierDeCasson1672.jpg
 | Saint-Joseph | Père de Jésus, saint patron des Hospitalières. La rue longe leur hôpital. | Saint-Sulpice |
 | Saint-Lambert | Lambert Closse, sergent-major de la garnison de Ville-Marie | Saint-Laurent |
 | Saint-Gabriel | Gabriel Souart, premier curé de Ville-Marie | Saint-Gabriel |
-| Saint-Charles | Charles d’Ailleboust, juge (1) | N’existe plus depuis la création du marché de la Place Jacques-Cartier |
+| Saint-Charles | Charles d’Ailleboust, juge (1) | N’existe plus depuis la création du marché à la Place Jacques-Cartier |
 
 <br/>
 ## Tableau de l'origine d'autres noms de rues dans le Vieux-Montréal (4)
