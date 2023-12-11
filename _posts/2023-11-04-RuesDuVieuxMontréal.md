@@ -20,9 +20,9 @@ image: PlanDollierDeCasson1672.jpg
 <br/>
 ## Comment les rues sont-elles nommées?
 
-* Les rues sont nommées pour rendre hommage à des personnages importants de l'histoire de Montréal
+* Les rues sont souvent nommées pour rendre hommage à des personnages importants de Montréal
 * On nomme la rue d'après le nom du saint patron du personnage
-* Le saint patron est le saint qui porte le même prénom que le personnage (5)
+* Un saint patron est souvent le saint qui porte le même prénom que le personnage (5)
     * Exemple: Saint-Paul est le saint patron de Paul Chomedey de Maisonneuve
 * Il y a aussi des saints patrons pour des lieux, des métiers ou des groupes
     * Saint-Joseph est le saint patron du Canada et aussi celui des soeurs Hospitalières
@@ -33,9 +33,9 @@ image: PlanDollierDeCasson1672.jpg
 ## Quelques faits à propos du plan de Dollier de Casson (1)
 
 * Le notaire-arpenteur Bénigne Basset a participé à l'élaboration du plan
-* Ce plan est dressé dans le but de construire la première église Notre-Dame
+* Ce plan a été dressé dans le but de construire la première église Notre-Dame
     * Il reprend certains chemins ou sentiers qui existaient déjà
-* Dollier de Casson dessine aussi les plans de l’église (2)
+* Dollier de Casson a dessiné aussi les plans de l’église (2)
 
 <br/>
 ## Tableau de l'origine des noms des rues sur le plan de 1672 (1)(4) 
