@@ -43,6 +43,11 @@ image: CabaneÀSucre.jpg
     * Il permet de concentrer les sucres car l’eau d’érable ne contient qu’environ 2 % à 3 % de sucre
     * En pratique industrielle, l'osmose inverse (1) permet une 1ère étape de concentration avant le bouillage
 
+* Production (17)
+    * Le Québec produit près de 70% de la production mondiale (2023)
+    * La majorité des producteurs sont dans Chaudière-Appalaches
+    * Il est essentiellement exporté (62%) aux États-Unis
+
 <br/>
 ### Comment mesure-t-on la qualité du sirop d’érable? (15)
 
@@ -126,3 +131,5 @@ image: CabaneÀSucre.jpg
 15. [Classification du sirop d’érable](https://www.lafermemartinette.com/categories-du-sirop-derable/){:target="_blank"}
 
 16. [Catalogue 1961 - Dominion & Grimm](https://www.dominiongrimm.ca/DATA/VINTAGECAT/18_fr~v~catalogue-1961.pdf){:target="_blank"}
+
+17. [Production de sirop d'érable - Gouvernement du Québec](https://www.quebec.ca/agriculture-environnement-et-ressources-naturelles/agriculture/industrie-agricole-au-quebec/productions-agricoles/production-sirop-erable-acericulture){:target="_blank"}
