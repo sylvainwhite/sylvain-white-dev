@@ -9,7 +9,7 @@ image: ToitMaisonDeLaMinerve.jpg
 <p style="text-align: center;">Toit en tôle à la canadienne - Maison de la Minerve</p>
 <br/>
 
-# La maison de la Minerve et la maison à l’Enseigne-du-Patriote
+### La maison de la Minerve et la maison à l’Enseigne-du-Patriote
 
 * Ces maisons ont des toitures typiques de deux techniques différentes
 * La maison de la Minerve (1) a un toit en ‘tôle à la canadienne’ (photo ci-dessus)
@@ -21,7 +21,7 @@ image: ToitMaisonDeLaMinerve.jpg
 <p style="text-align: center;">Toit en tôle à baguettes - Maison à l'Enseigne-Du-Patriote</p>
 
 <br/>
-# Deux techniques pour les toits en tôle
+### Deux techniques pour les toits en tôle
 
 * ‘Tôle à la canadienne’
     * Les feuilles ont à peu près la taille d’une feuille de papier d’aujourd’hui (3)
@@ -39,7 +39,7 @@ image: ToitMaisonDeLaMinerve.jpg
     * Fin XIXe siècle: d’autres techniques ont été inventées pour faire les joints dont le ‘joint pincé’
 
 <br/>
-# Quels sont les autres matériaux possibles?
+### Quels sont les autres matériaux possibles?
 
 Il y en a plusieurs. Voici un graphique qui résume les matériaux et la durée de leur utilisation.
 
@@ -48,7 +48,7 @@ Il y en a plusieurs. Voici un graphique qui résume les matériaux et la durée 
 <p style="text-align: center;">Chronologie des principaux modes de matériaux de revêtement (4)</p>
 
 <br/>
-## Ardoise (6)(13)
+#### Ardoise (6)(13)
 
 * Les premières ardoises venaient de France pour recouvrir les édifices conventuels et institutionnels
  * L'ardoise servait de lest aux navires venant d’Europe qui repartaient avec du bois/autres matières premières
@@ -67,28 +67,28 @@ Il y en a plusieurs. Voici un graphique qui résume les matériaux et la durée 
 <p style="text-align: center;">Toiture d'ardoise de la maison de Georges-Étienne Cartier (9)</p>
 
 <br/>
-## Cuivre
+#### Cuivre
 
 * Le toit en cuivre est plutôt exceptionnel car il est très coûteux
 * L’hôtel de ville est un bel exemple dans le Vieux-Montréal (10)
 * Le cuivre est de couleur brune à l’origine. Il s’oxyde et devient vert avec le temps
 
 <br/>
-## Asphalte et goudron (11)(12)
+#### Asphalte et goudron (11)(12)
 
 * Ces matériaux ont permis de créer un toit plat qui est apparu à Montréal en 1875 
 * Il est composé de couches de feutre, d'asphalte, de goudron et de gravier 
 * C’est le toit typique des duplex et triplex montréalais
 
 <br/>
-## Bardeaux de bois (14)
+#### Bardeaux de bois (14)
 
 * Les bardeaux sont utilisés dès le 17ième siècle. Le plus souvent en cèdre et plus rarement en pin
 * Le cèdre est presque imputrescible mais très inflammable
 * Ils sont donc interdits par une ordonnance en 1721 (voir ci-dessous)
 
 <br/>
-## Les ordonnances de 1721 et 1727
+### Les ordonnances de 1721 et 1727
 
 Ces ordonnances établiront de nouvelles règles en matière de protection de contre l'incendie.
 
@@ -103,7 +103,7 @@ Ces ordonnances établiront de nouvelles règles en matière de protection de co
     * Les murs coupe-feu sont dorénavant obligatoires entre les maisons
 
 <br/>
-## À propos du toit Mansart (17)
+### À propos du toit Mansart (17)
 * Ce toit doit sa renommée à l'architecte français François Mansart qui en popularisa l'emploi au XVII siècle
 * Il a été interdit par l’ordonnance de 1721 mais de nouveau à la mode dans la 2ième moitié du XIX siècle
 * Le toit mansardé offre l’avantage d’un grand espace intérieur au niveau des combles 

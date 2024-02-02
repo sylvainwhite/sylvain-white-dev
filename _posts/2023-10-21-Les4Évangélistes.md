@@ -6,21 +6,25 @@ categories: misc
 tags: [misc]
 image: Les4Évangélistes.jpg
 ---
-<p style="text-align: center;">Les Quatre Évangélistes, retable de la chapelle du château de Blutenburg à Munich (1)</p>
+<p style="text-align: center;">Les 4 évangélistes, retable de la chapelle du château de Blutenburg à Munich (1)</p>
  <p style="text-align: center;">Photo de GFreihalter, <a href="https://creativecommons.org/licenses/by-sa/3.0" target="_blank">CC BY-SA 3.0</a> via Wikimedia Commons</p>
 
 
 <br/>
-## Les 4 évangélistes
+### Les 4 évangélistes
 
 * Dans la liturgie catholique, un prêtre lit toujours un extrait d'un évangile durant la messe
 * Les évangélistes sont donc très souvent représentés dans les églises
 * Cette rubrique contient de nombreux exemples de leur représentation dans les églises montréalaises
 
 <br/>
-## Qui sont les évangélistes?
+### Qui sont les évangélistes?
 
-* Les évangélistes sont 4 apôtres: Saint-Matthieu, Saint-Jean, Saint-Marc et Saint-Luc
+* Les évangélistes sont 4 apôtres:
+    * Saint-Matthieu
+    * Saint-Jean
+    * Saint-Marc
+    * Saint-Luc
 * On les appelle les évangélistes car chacun a écrit un évangile
 * Un évangile est un écrit qui raconte la vie de Jésus
 * C'est la tradition catholique qui attribue les évangiles à ces 4 apôtres
@@ -29,7 +33,7 @@ image: Les4Évangélistes.jpg
 * La 1ère partie de la bible est appelée l’Ancien Testament
 
 <br/>
-## Comment reconnaît-on les évangélistes?
+### Comment reconnaît-on les évangélistes?
 
 * Ils sont relativement faciles à reconnaître car chaque évangéliste est représenté par un attribut
 * Les attributs des évangélistes sont:
@@ -40,7 +44,7 @@ image: Les4Évangélistes.jpg
 * En plus de leur attribut respectif, ils ont souvent un livre ou une plume à la main (mais pas toujours) 
 
 <br/>
-## Quelle est l’origine des attributs des évangélistes?
+### Quelle est l’origine des attributs des évangélistes?
 
 * Ces attributs sont tirés d’un écrit du prophète Ézéchiel dans l’Ancien Testament
 * Ézéchiel décrit une vision où il voit un char tiré par 4 créatures ailées
@@ -49,7 +53,7 @@ image: Les4Évangélistes.jpg
 * Note: Ézéchiel est l’un des deux prophètes représentés dans la Chaire de Vérité de la basilique Notre-Dame
 
 <br/>
-## Est-ce que tous les saints ont des attributs précis comme les évangélistes?
+### Les saints ont-ils des attributs précis comme les évangélistes?
 
 * Non. Il n’y a pas toujours de correspondance entre un saint et un attribut
 * Certains saints ont un attribut, parfois plus d’un, et d’autres pas du tout
@@ -61,13 +65,13 @@ image: Les4Évangélistes.jpg
 * Note: Saint-Pierre et Saint-Paul sont aussi représentés dans le choeur de la basilique Notre-Dame
 
 <br/>
-## Exemples de représentation des évangélistes dans les églises de Montréal
+### Représentations des évangélistes dans 5 églises de Montréal
 
-### Basilique Notre-Dame
+#### Basilique Notre-Dame
 
 * Ils sont représentés par des sculptures dans le choeur
 * Leurs attributs ne sont pas très évidents
-* Mais au moins leurs noms sont marqués au pied de leurs statues!
+* Mais au moins leurs noms sont écrits au pied de leurs statues!
 
 ![]({{ site.github.url }}/resources/BasiliqueNotreDameChoeurAnnoté.jpg "Le Choeur de Notre-Dame")
 
@@ -77,7 +81,7 @@ image: Les4Évangélistes.jpg
 <br/>
 ![]({{ site.github.url }}/resources/BasiliqueNotreDame4Évangélistes.png "Les 4 évangélistes")
 
-### Basilique Saint-Patrick
+#### Basilique Saint-Patrick
 
 * Ils sont représentés par des vitraux dans le choeur de chaque côté de l'autel
 
@@ -85,7 +89,7 @@ image: Les4Évangélistes.jpg
 
 ![]({{ site.github.url }}/resources/BasiliqueSaintPatrick4Évangélistes.png "Les 4 évangélistes")
 
-### Église Saint-Jean-Baptiste
+#### Église Saint-Jean-Baptiste
 
 * Ils sont représentés par des sculptures de la façade
 
@@ -93,7 +97,7 @@ image: Les4Évangélistes.jpg
 
 ![]({{ site.github.url }}/resources/ÉgliseSaintJeanBaptiste4Évangélistes.png "Les 4 évangélistes")
 
-### Cathédrale Marie-Reine-du-Monde et Saint-Jacques-le-Majeur
+#### Cathédrale Marie-Reine-du-Monde et Saint-Jacques-le-Majeur
 
 * Ils sont représentés dans les pendentifs de la coupole à la croisée du transept 
 
@@ -104,7 +108,7 @@ image: Les4Évangélistes.jpg
 
 ![]({{ site.github.url }}/resources/CathédraleMarieReine4Évangélistes.png "Les 4 évangélistes")
 
-### Cathédrale Christ Church
+#### Cathédrale Christ Church
 
 * Ils sont représentés dans le vitrail au fond du choeur
 * Ils sont sculptés (mais sans leurs attributs) dans les chapiteaux des colonnes aux 4 coins de l'église 

@@ -9,7 +9,7 @@ image: CabaneÀSucre.jpg
 <p style="text-align: center;">Crédit: Constance Lamoureux, Office du tourisme de Québec Office du tourisme de Québec (11)</p>
 
 <br/>
-## Quelle est l’histoire du sirop d’érable? (7)
+### Quelle est l’histoire du sirop d’érable? (7)
 
 * Ce sont les premières nations qui ont découvert l’eau d’érable et sa transformation en sirop
     * Les premières nations s'en servaient en particulier comme aliment tonique au printemps
@@ -20,7 +20,7 @@ image: CabaneÀSucre.jpg
 * Pour plus de détails sur l’histoire du sirop d’érable , voir sources (4) et (7)
 
 <br/>
-## Quel processus naturel permet à l’eau d’érable de couler? (2)
+### Quel processus naturel permet à l’eau d’érable de couler? (2)
 
 * L’eau d’érable est appelée sève brute et elle est produite par l’arbre seulement au printemps
 	* Des nuits de gel suivies par des jours de dégel sont nécessaires pour que l’eau d’érable coule
@@ -31,7 +31,7 @@ image: CabaneÀSucre.jpg
 	* Plusieurs arbres entaillés ont plus de 100 ans
 
 <br/>
-## Comment produit-on le sirop d’érable?
+### Comment produit-on le sirop d’érable?
 
 * Récolte
     * Il faut en moyenne 40 litres d'eau d'érable pour obtenir un litre de sirop (10)
@@ -44,7 +44,7 @@ image: CabaneÀSucre.jpg
     * En pratique industrielle, l'osmose inverse (1) permet une 1ère étape de concentration avant le bouillage
 
 <br/>
-## Comment mesure-t-on la qualité du sirop d’érable? (15)
+### Comment mesure-t-on la qualité du sirop d’érable? (15)
 
 * La qualité du sirop se mesure par la transparence du sirop à la lumière
 * C’est le pourcentage de lumière qui traverse le sirop d’érable qui détermine sa qualité (voir figure ci-dessous)
@@ -59,7 +59,7 @@ image: CabaneÀSucre.jpg
 <p style="text-align: center;">Classification du sirop d'érable. Crédit: (15)</p>
 
 <br/>
-## Quels arbres produisent de l’eau d’érable?
+### Quels arbres produisent de l’eau d’érable?
 
 * Parmi les nombreuses espèces d'érables, trois sont principalement utilisées (2)
     * L'érable à sucre (Acer saccharum)
@@ -72,7 +72,7 @@ image: CabaneÀSucre.jpg
     * Le noyer
 
 <br/>
-## Quand la canne de sirop d’érable est-elle apparue? (13)
+### Quand la canne de sirop d’érable est-elle apparue? (13)
 
 * Elle fait son apparition en 1951 (7)
 * Le dessin emblématique sur la canne est introduit par la compagnie Dominion & Grimm en 1955
@@ -85,7 +85,7 @@ image: CabaneÀSucre.jpg
 <p style="text-align: center;">Contenants de sirop érable. Crédit:Catalogue 1961 - Dominion & Grimm (16)</p>
 
 <br/>
-## À qui les producteurs peuvent-ils vendre leur sirop?
+### À qui les producteurs peuvent-ils vendre leur sirop?
 
 * La production et la vente de sirop d’érable sont contrôlées par un système de gestion de l’offre au Québec (5)
 * Ce système s’apparente à celui du lait, des œufs et de la volaille au Canada

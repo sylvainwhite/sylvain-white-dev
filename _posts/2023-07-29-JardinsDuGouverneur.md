@@ -8,12 +8,12 @@ image: JardinDuGouverneur.jpg
 ---
 <br/>
 
-# Jardins du gouverneur au château Ramezay
+## Jardins du gouverneur au château Ramezay
 
 Toutes les informations ci-dessus sont tirées des sources (1) et (2) à moins d'indication contraire.
 
 <br/>
-## Commentaires généraux
+### Commentaires généraux
 * Le jardin a été recréé en 2000
   * Beaucoup plus petit que le jardin de l'époque
 * La nourriture en Nouvelle-France (3)
@@ -28,7 +28,7 @@ Toutes les informations ci-dessus sont tirées des sources (1) et (2) à moins d
   * Le bélier est un animal emblématique des armoiries de Ramezay
 
 <br/>
-## Divisions du jardin
+### Divisions du jardin
 * Verger
   * Poiriers, pommiers, petits fruits
   * Les murs de pierre conservent la chaleur et permettent la culture en espalier

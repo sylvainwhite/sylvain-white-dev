@@ -9,7 +9,7 @@ image: PlanDollierDeCasson1672.jpg
 <p style="text-align: center;">Plan des rues de Ville-Marie en 1672 par François Dollier de Casson. Crédit: (10)</p>
 
 <br/>
-## Qui est François Dollier de Casson (1636-1701)?
+### Qui est François Dollier de Casson (1636-1701)?
 
 * D’abord soldat, il devient prêtre sulpicien (2)
 * 1666: Il arrive en Nouvelle-France (3)
@@ -18,7 +18,7 @@ image: PlanDollierDeCasson1672.jpg
 * Il écrit aussi une «Histoire du Montréal» et il est donc considéré comme le premier historien de Montréal (3)
 
 <br/>
-## Comment les rues sont-elles nommées?
+### Comment les rues sont-elles nommées?
 
 * Les rues sont souvent nommées pour rendre hommage à des personnages importants de Montréal
 * On nomme la rue d'après le nom du saint patron du personnage
@@ -30,7 +30,7 @@ image: PlanDollierDeCasson1672.jpg
     * Saint-Jean-Baptiste est le saint patron des Canadiens Français
 
 <br/>
-## Quelques faits à propos du plan de Dollier de Casson (1)
+### Quelques faits à propos du plan de Dollier de Casson (1)
 
 * Le notaire-arpenteur Bénigne Basset a participé à l'élaboration du plan
 * Ce plan a été dressé dans le but de construire la première église Notre-Dame
@@ -38,7 +38,7 @@ image: PlanDollierDeCasson1672.jpg
 * Dollier de Casson a dessiné aussi les plans de l’église (2)
 
 <br/>
-## Tableau de l'origine des noms des rues sur le plan de 1672 (1)(4) 
+#### Tableau 1: Origine des noms des rues sur le plan de 1672 (1)(4) 
 
 | **Nom de la rue sur le plan de 1672**  | **Origine du nom** | **Nom de la rue aujourd'hui** |
 | Saint-Jacques | Jacques Archambault, agriculteur (1) ou Jean-Jacques Olier, fondateur des sulpiciens (4) |  Saint-Jacques |
@@ -54,7 +54,7 @@ image: PlanDollierDeCasson1672.jpg
 | Saint-Charles | Charles d’Ailleboust, juge (1) | N’existe plus depuis la création du marché à la Place Jacques-Cartier |
 
 <br/>
-## Tableau de l'origine d'autres noms de rues dans le Vieux-Montréal (4)
+#### Tableau 2: Origine d'autres noms de rues dans le Vieux-Montréal (4)
 
 | **Nom de la rue** | **Origine du nom** |
 | Saint-Antoine | Rue principale du faubourg Saint-Antoine. Elle s'appelait la rue Craig jusqu'en 1974 |

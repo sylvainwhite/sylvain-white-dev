@@ -11,8 +11,7 @@ image: PlaqueImmatriculationQuébecQ1.jpg
 <br/>
 # Plaque d'immatriculation au Québec
 
-<br/>
-## Quelle est la première plaque d’immatriculation à Montréal?
+### Quelle est la première plaque d’immatriculation à Montréal?
 
 * 1906: Première "plaque" (6)
 	* Croissance du nombre d’automobiles
@@ -29,7 +28,7 @@ image: PlaqueImmatriculationQuébecQ1.jpg
 	* Passionné d’automobiles, il en acquit plusieurs durant sa vie (6)
 
 <br/>
-## Pourquoi "Je me souviens" se retrouve sur les plaques d’immatriculation au Québec?
+### Pourquoi "Je me souviens" se retrouve sur les plaques d’immatriculation au Québec?
 
 <br/>
 ![]({{ site.github.url }}/resources/PlaqueImmatriculationQuébec.jpg "Plaque d'immatriculation du Québec - BasilLeaf - wikimedia (1)")
@@ -41,7 +40,7 @@ image: PlaqueImmatriculationQuébecQ1.jpg
 * 1963 à 1978: C’était "La belle province", un slogan touristique au lieu de la devise (3)
 
 <br/>
-## Pourquoi la devise du Québec est "Je me souviens"?
+### Pourquoi la devise du Québec est "Je me souviens"?
 
 * 1886: "Je me souviens" est gravé sur la façade du parlement à Québec (2)
     * Eugène-Étienne Taché a conçu les plans du parlement
@@ -55,14 +54,14 @@ image: PlaqueImmatriculationQuébecQ1.jpg
 	* C’est bien une devise que Taché a écrite mais pour un autre projet
 
 <br/>
-## Pourquoi y a-t-il une plaque seulement à l'arrière des véhicules? (5)
+### Pourquoi la plaque est-elle seulement à l'arrière du véhicule? (5)
 
 * Seulement pour des raisons d’économie
 * Il y aussi 19 états américains qui ont des plaques seulement à l’arrière 
 * Cette décision a été prise en 1978
 
 <br/>
-## Quelles sont les plaques spéciales au Québec?
+### Quelles sont les plaques spéciales au Québec?
 
 * Il y a 15 catégories de plaques au Québec (8)
 * Les véhicules commerciaux ont des plaques qui débutent par "F"

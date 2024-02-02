@@ -9,10 +9,6 @@ highlighter:         rouge
 permalink:           none
 plugins:             [jekyll-paginate, jekyll-sitemap, jekyll-feed, jekyll-seo-tag]
 
-sass:
-  sass_dir: assets/css
-  style: :nested
-
 # Customise atom feed settings (this is where Jekyll-Feed gets configuration information)
 title:		         "sylvain-white-dev"
 description:	     "Millenial Jekyll theme for running a blog or publication"

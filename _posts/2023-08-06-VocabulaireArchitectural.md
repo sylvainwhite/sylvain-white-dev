@@ -8,12 +8,12 @@ image: VocabulaireArchitectural.jpg
 ---
 <br/>
 
-# Vocabulaire architectural
+## Vocabulaire architectural
 
 Le [document Vocabulaire architectural]({{ site.github.url }}/resources/vocabulaireArchitectural_v48.pdf){:target="_blank"} a été écrit durant mon cours de guide et diffusé à mes collègues de classe. Si jamais vous trouvez une erreur dans ce document, surtout faites-le moi savoir!
 
 <br/>
-## Introduction (extraite du document)
+### Introduction (extraite du document)
 
 * Le vocabulaire de l’architecture est très vaste. Seulement quelques termes sont expliqués dans ce document
   * Par exemple, trois types de chapiteaux sont définis ici alors qu’il y en a de nombreux autres
