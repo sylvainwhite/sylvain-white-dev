@@ -98,6 +98,15 @@ image: CabaneÀSucre.jpg
 * Le système de gestion de l’offre est remis en question par plusieurs (6)
 
 <br/>
+### Les pets-de-soeur (18)
+
+* Le pet-de-soeur est une pâtisserie en forme de brioche constitué d’une pâte recouverte de cassonade ou de sirop d'érable et cuite au four
+* C'est un dessert surtout préparé durant le temps de fêtes
+* Il servait à utiliser les restants de pâte à tarte
+* L'origine du nom est nébuleuse. Une plus probable est expliquée dans le livre Cuisine québécoise 'Les secrets de nos grands-mamans'
+* Ce serait un amalgame entre le fait que les soeurs en préparaient dans les presbytères et disaient à tout le monde que 'C’est un pet (à faire)!'
+
+<br/>
 ## Sources
 
 1. [Le phénomène de l'osmose et l'osmose inverse](https://www.youtube.com/watch?v=IsBaWQjF2TY){:target="_blank"}
@@ -133,3 +142,5 @@ image: CabaneÀSucre.jpg
 16. [Catalogue 1961 - Dominion & Grimm](https://www.dominiongrimm.ca/DATA/VINTAGECAT/18_fr~v~catalogue-1961.pdf){:target="_blank"}
 
 17. [Production de sirop d'érable - Gouvernement du Québec](https://www.quebec.ca/agriculture-environnement-et-ressources-naturelles/agriculture/industrie-agricole-au-quebec/productions-agricoles/production-sirop-erable-acericulture){:target="_blank"}
+
+18. [La petite histoire du pet de soeur](https://m.facebook.com/nt/screen/?params=%7B%22note_id%22%3A842711296538904%7D&path=%2Fnotes%2Fnote%2F&refsrc=deprecated&_rdr){:target="_blank"}
