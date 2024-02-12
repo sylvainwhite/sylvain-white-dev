@@ -43,10 +43,12 @@ image: CabaneÀSucre.jpg
     * Il permet de concentrer les sucres car l’eau d’érable ne contient qu’environ 2 % à 3 % de sucre
     * En pratique industrielle, l'osmose inverse (1) permet une 1ère étape de concentration avant le bouillage
 
-* Production (17)
-    * Le Québec produit près de 70% de la production mondiale (2023)
-    * La majorité des producteurs sont dans Chaudière-Appalaches
-    * Il est essentiellement exporté (62%) aux États-Unis
+* Production québécoise
+    * Près de 70% de la production mondiale en 2023 (17)
+    * Presque 12 000 gallons en moyenne 2013 à 2023 (19)
+        * Un gallon = 8 cannes de sirop d'érable
+    * La majorité des producteurs sont dans Chaudière-Appalaches (17)
+
 
 <br/>
 ### Comment mesure-t-on la qualité du sirop d’érable? (15)
@@ -80,14 +82,13 @@ image: CabaneÀSucre.jpg
 ### Quand la canne de sirop d’érable est-elle apparue? (13)
 
 * Elle fait son apparition en 1951 (7)
-* Le dessin emblématique sur la canne est introduit par la compagnie Dominion & Grimm en 1955
-* On ne connaît pas l’artiste malheureusement
-* Cette compagnie d'équipements pour l’acériculture existe toujours aujourd’hui (14)
+* Le dessin emblématique sur la canne est d'un artiste inconnu. Il a été créé en 1955 par la compagnie Dominion & Grimm qui existe toujours aujourd’hui! (14)
+* La canne contient 540 ml de sirop d'érable
 
 <br/>
 ![]({{ site.github.url }}/resources/CannesSiropÉrable.jpg "Contenants de sirop érable. Crédit (16)")
 
-<p style="text-align: center;">Contenants de sirop érable. Crédit:Catalogue 1961 - Dominion & Grimm (16)</p>
+<p style="text-align: center;">Contenants de sirop érable. Crédit: Catalogue 1961 - Dominion & Grimm (16)</p>
 
 <br/>
 ### À qui les producteurs peuvent-ils vendre leur sirop?
@@ -144,3 +145,5 @@ image: CabaneÀSucre.jpg
 17. [Production de sirop d'érable - Gouvernement du Québec](https://www.quebec.ca/agriculture-environnement-et-ressources-naturelles/agriculture/industrie-agricole-au-quebec/productions-agricoles/production-sirop-erable-acericulture){:target="_blank"}
 
 18. [La petite histoire du pet de soeur](https://m.facebook.com/nt/screen/?params=%7B%22note_id%22%3A842711296538904%7D&path=%2Fnotes%2Fnote%2F&refsrc=deprecated&_rdr){:target="_blank"}
+
+19. [Production annuelle de sirop d'érable - Statistiques Canada](https://www150.statcan.gc.ca/t1/tbl1/fr/tv.action?pid=3210035401){:target="_blank"}
