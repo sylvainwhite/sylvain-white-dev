@@ -4,7 +4,7 @@ Written by Sylvain White
 
 It contains 2 types of posts:
 
-1. Posts on topics for Montreal guided tours
+1. Posts on topics for my Montreal guided tours
 2. Posts on software development. See menu 'Software'
 
 This blog is based on the Millennial Jekyll theme by Paul Le.

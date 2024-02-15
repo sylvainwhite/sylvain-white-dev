@@ -11,8 +11,8 @@ plugins:             [jekyll-paginate, jekyll-sitemap, jekyll-feed, jekyll-seo-t
 
 # Customise atom feed settings (this is where Jekyll-Feed gets configuration information)
 title:		         "sylvain-white-dev"
-description:	     "Millenial Jekyll theme for running a blog or publication"
-author:            "Paul Le"
+description:	     "Blog on software and topics for my Montreal guided tours based on Jekyll theme by Paul Le"
+author:            "Sylvain White"
 
 # RSS 2.0 can be used instead of Atom by uncommenting following two lines
 #feed:
