@@ -45,7 +45,7 @@ Toutes les informations ci-dessus sont tirées des sources (1) et (2) à moins d
 * Potager
   * Les légumes les plus courants à l'époque
     * Oignon, chou, carotte, navet, pois, haricot, laitue, concombre
-  * On a emprunté les légumes suivants aux premières nations:
+  * On a emprunté les légumes suivants aux Premières Nations:
     * Mais, citrouille, topinambour
   * Les légumes suivants ne deviennent populaires seulement qu'au 19ième siècle:
     * Tomate, pomme de terre

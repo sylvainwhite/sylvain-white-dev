@@ -38,7 +38,7 @@ Finalement, les deux wikipédia ont raison selon leur définition des limites du
 * 10 août 1535: Jacques Cartier arrive à l’embouchure du fleuve le jour de la fête de Laurent de Rome (5)
     * Il attribue d'abord le nom de Saint-Laurent à l'embouchure du fleuve
     * Il croit alors que c'est un simple golfe de la Côte-Nord : la «baye sainct Laurens»
-* Les premières nations avaient chacune un nom pour désigner le fleuve
+* Les Premières Nations avaient chacune un nom pour désigner le fleuve
     * Un des plus connus est Magtogoek en algonquin qui signifie ‘chemin qui marche’ (1)
 
 <br/>

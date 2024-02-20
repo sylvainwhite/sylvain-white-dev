@@ -11,8 +11,8 @@ image: CabaneÀSucre.jpg
 <br/>
 ### Quelle est l’histoire du sirop d’érable? (7)
 
-* Ce sont les premières nations qui ont découvert l’eau d’érable et sa transformation en sirop
-    * Les premières nations s'en servaient en particulier comme aliment tonique au printemps
+* Ce sont les Premières Nations qui ont découvert l’eau d’érable et sa transformation en sirop
+    * Les Premières Nations s'en servaient en particulier comme aliment tonique au printemps
 	* De nombreuses légendes mettent en scène le sirop d'érable
 * Agathe de Repentigny (1657-1747), femme d’affaires (8)
     * Elle exporte jusqu’à 30 000 livres de sucre d’érable en France en 1701!
