@@ -12,7 +12,7 @@ image: LanguesAutochtones.jpg
 ## Définition du terme 'Autochtones' au Canada
 
 * Le terme 'Autochtones' désigne les premiers peuples d'Amérique du Nord et leurs descendants (8)
-* La Constitution canadienne reconnaît 3 groupes de peuples autochtones : les Premières Nations, les Inuit et les Métis (8)
+* La Constitution canadienne reconnaît 3 groupes de peuples autochtones: les Premières Nations, les Inuit et les Métis (8)
 * Pour la définition de l'identité métisse, voir la source (9)
 
 ![]({{ site.github.url }}/resources/ArborescenceDesAutochtones.jpg "Arborescence des autochtones")
@@ -59,7 +59,7 @@ Voici quelques exemples d'expression en langues autochtones pour désigner les E
 * Atikamekw: Emitikocicak - Ceux qui défrichent les arbres
 * Innus: Mishtikushuat - Ceux qui sont dans un canot en bois
 * Inuktitut: Qallunaat - Ceux qui prennent soin de leurs sourcils
-  * Origine incertaine. Peut-être aussi 'ceux qui sont puissants, avares et se mettent facilement en colère'. Notez que l'inuktitut n'est pas la seule langue inuite au Canada. Il existe cinq principaux dialectes parlés au Canada : l'inuvialuktun, l'inuinnaqtun ainsi que trois différents dialectes d'inuktitut (7)
+  * Origine incertaine. Peut-être aussi 'ceux qui sont puissants, avares et se mettent facilement en colère'. Notez que l'inuktitut n'est pas la seule langue inuite au Canada. Il existe cinq principaux dialectes parlés au Canada: l'inuvialuktun, l'inuinnaqtun ainsi que trois différents dialectes d'inuktitut (7)
 * Mohawks (et plusieurs autres langues): Ratihnarà:ken - Peaux blanches
   * L'aînée Hilda Nicholas indique ne jamais utiliser le mot "Mohawk" pour décrire son peuple et sa langue (mohawk signifie "mangeur de viande humaine". Nom donné par les Algonquins, leurs ennemis héréditaires). Elle lui préfère le mot Kanien’kehá:ka (peuple du silex)
 
