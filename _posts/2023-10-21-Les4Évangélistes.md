@@ -29,7 +29,9 @@ image: Les4Évangélistes.jpg
 * Un évangile est un écrit qui raconte la vie de Jésus
 * C'est la tradition catholique qui attribue les évangiles à ces 4 apôtres
 * La réalité fondée sur les recherches en études bibliques est plus complexe (2)
-* La Bible est divisée en 2 parties: L'Ancien et le Nouveau Testament. Les 4 évangiles se trouvent dans le Nouveau Testament.
+* La Bible est divisée en 2 parties:
+    * L'Ancien Testament
+    * Le Nouveau Testament (qui contient les 4 évangiles)
 
 <br/>
 ### Comment reconnaît-on les évangélistes?
@@ -61,7 +63,7 @@ image: Les4Évangélistes.jpg
 * Parmi les exemples les plus classiques, il y a Saint-Pierre et Saint-Paul
     * L’attribut de Saint-Pierre est une clef car il est considéré comme le gardien des portes du paradis
     * L’attribut de Saint-Paul est une épée car il était soldat avant sa conversion
-* Note: Saint-Pierre et Saint-Paul sont aussi représentés dans le choeur de la basilique Notre-Dame
+* Note: Saint-Pierre et Saint-Paul ont des statues qui les représentent dans le choeur de la basilique Notre-Dame
 
 <br/>
 ### Représentations des évangélistes dans 5 églises de Montréal
