@@ -55,14 +55,12 @@ Toutes les informations ci-dessus sont tirées des sources (1) et (2) à moins d
 <br/>
 ## Sources
 
-1. Jardin du Gouverneur
-Publication du musée du Château Ramezay
+1. Jardin du Gouverneur - Publication du musée du Château Ramezay
 
-2. [Jardin du gouverneur](https://www.chateauramezay.qc.ca/fr/expositions/jardin/){:target="_blank"}
-Site web du musée du Château Ramezay
+2. [Jardin du gouverneur - Site web du musée du Château Ramezay](https://www.chateauramezay.qc.ca/fr/expositions/jardin/){:target="_blank"}
 
-3. [Jardins et potagers en Nouvelle-France](https://www.septentrion.qc.ca/catalogue/jardins-et-potagers-en-nouvelle-france){:target="_blank"}
-Martin Fournier, Édition du Septentrion, 2004
+
+3. [Jardins et potagers en Nouvelle-France](https://www.septentrion.qc.ca/catalogue/jardins-et-potagers-en-nouvelle-france){:target="_blank"}, Martin Fournier, Éd. Septentrion, 2004
 
 4. [L’exportation de plantes médicinales canadiennes en Europe](https://www.erudit.org/en/journals/cd/1900-v1-n1-cd1041796/8283ac.pdf){:target="_blank"}
 
