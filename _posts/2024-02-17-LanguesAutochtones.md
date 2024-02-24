@@ -18,7 +18,7 @@ image: LanguesAutochtones.jpg
 ![]({{ site.github.url }}/resources/ArborescenceDesAutochtones.jpg "Arborescence des autochtones")
 
 * L'orthographe des noms autochtones
-  * Il faut écrire 'Premières Nations' avec des majuscules car l'expression est considérée comme un nom propre comme les noms de peuples
+  * Il faut écrire 'Premières Nations' avec des majuscules car l'expression est considérée comme un nom propre comme les noms de peuples. La même règle s'applique pour les 'Autochtones' que l'on doit écrire avec une majuscule
   * Voir la source (3) pour l'ensemble des règles concernant l'orthographe des noms autochtones
 
 <br/>
@@ -52,7 +52,7 @@ Graphique des locuteurs des langues autochtones au Québec basé sur le nombre d
   * Inukshuk: Tour de pierres non taillées empilées ressemblant grossièrement à un être humain
 
 <br/>
-## Langues autochtones : onze nuances de 'Blancs'
+## Langues autochtones: Onze nuances de 'Blancs'
 
 Voici quelques exemples d'expression en langues autochtones pour désigner les Européens (10)
 * Huron-Wendat: Hatinionyenhahk - Ceux qui utilisent le fer
