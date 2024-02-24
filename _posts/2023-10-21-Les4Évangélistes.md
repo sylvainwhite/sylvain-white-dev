@@ -29,8 +29,7 @@ image: Les4Évangélistes.jpg
 * Un évangile est un écrit qui raconte la vie de Jésus
 * C'est la tradition catholique qui attribue les évangiles à ces 4 apôtres
 * La réalité fondée sur les recherches en études bibliques est plus complexe (2)
-* Les 4 évangiles se trouvent dans le Nouveau Testament qui est la 2ième partie de la bible
-* La 1ère partie de la bible est appelée l’Ancien Testament
+* La Bible est divisée en 2 parties: L'Ancien et le Nouveau Testament. Les 4 évangiles se trouvent dans le Nouveau Testament.
 
 <br/>
 ### Comment reconnaît-on les évangélistes?
@@ -71,7 +70,7 @@ image: Les4Évangélistes.jpg
 
 * Ils sont représentés par des sculptures dans le choeur
 * Leurs attributs ne sont pas très évidents
-* Mais au moins leurs noms sont écrits au pied de leurs statues!
+* Mais au moins leur nom est écrit au pied de leur statue!
 
 ![]({{ site.github.url }}/resources/BasiliqueNotreDameChoeurAnnoté.jpg "Le Choeur de Notre-Dame")
 
@@ -83,7 +82,7 @@ image: Les4Évangélistes.jpg
 
 #### Basilique Saint-Patrick
 
-* Ils sont représentés par des vitraux dans le choeur de chaque côté de l'autel
+* Ils sont représentés dans les vitraux du choeur de chaque côté de l'autel
 
 ![]({{ site.github.url }}/resources/BasiliqueSaintPatrickChoeurAnnoté.jpg "Le Choeur de Saint-Patrick")
 
