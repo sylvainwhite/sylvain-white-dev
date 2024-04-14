@@ -104,7 +104,7 @@ image: ComparaisonsGéographiques.jpg
 
 1. [NASA - Created with NASA WorldWind by User:Chicoutimi using Landsat 7 (Visible Color) satellite image](https://en.wikipedia.org/wiki/Greater_Montreal#/media/File:Montr%C3%A9al_Satellite.jpg){:target="_blank"}
 
-2. [Superficie de la Russie - wikipédia](https://fr.wikipedia.org/wiki/%C3%89tats_des_%C3%89tats-Unis_par_superficie){:target="_blank"}
+2. [Superficie de la Russie - wikipédia](https://fr.wikipedia.org/wiki/Russie){:target="_blank"}
 
 3. [Agglomération de Montréal - Gouvernement du Québec](https://www.economie.gouv.qc.ca/pages-regionales/montreal/portrait-regional/occupation-du-territoire){:target="_blank"}
 
