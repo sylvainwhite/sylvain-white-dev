@@ -65,6 +65,14 @@ Finalement, les deux wikipédia ont raison selon leur définition des limites du
     * Les grands bateaux emploient donc obligatoirement des capitaines québécois
     * Lire ce très joli article de Radio-Canada qui explique comment se déroule cette navigation (8)
 
+* Archipel d'Hochelaga (10)
+    * L'île de Montréal est la plus grande de cet archipel
+    * L'archipel regroupe environ 320 îles
+    * Il comprend toutes les îles 
+        * de la rivière des Mille-Îles
+        * de la rivière des Prairies
+        * du fleuve Saint-Laurent de l'île Perrot jusqu'aux îles au large de Varennes
+
 <br/>
 ## Sources
 
@@ -85,6 +93,8 @@ Finalement, les deux wikipédia ont raison selon leur définition des limites du
 8. [Les géants du Saint-Laurent](https://ici.radio-canada.ca/recit-numerique/5436/fleuve-pilotes-saint-laurent-navigation-maritime-risques-hiver-transport-conteneurs-marchandises){:target="_blank"}
 
 9. [Source André Chivinski - wikimedia](https://commons.wikimedia.org/wiki/File:Montr%C3%A9al_302_(35877228203).jpg){:target="_blank"}
+
+10. [Archipel d'Hochelaga - wikipédia](https://fr.wikipedia.org/wiki/Archipel_d%27Hochelaga){:target="_blank"}
 
 
 
