@@ -60,7 +60,11 @@ Finalement, les deux wikipédia ont raison selon leur définition des limites du
 * Le dénivelé de la voie maritime du Saint-Laurent au complet est l'équivalent d'un immeuble de [60 étages](https://grandslacs-voiemaritime.com/wp-content/themes/slsmc/seaway-timeline-page/images/vital_waterway_fr.jpg){:target="_blank"} (6)
     * De la tête du lac Supérieur jusqu'à la mer
 * Le bassin hydrographique des grands lacs et du Saint-Laurent contient 25% de l’eau douce du monde (7)
-    * Voir le graphique qui illustre ce gigantesque bassin (7)
+
+![]({{ site.github.url }}/resources/SystemeHydrographique.jpg "Système hydrographique du Saint-Laurent incluant les Grands Lacs")
+
+<p style="text-align: center;">Système hydrographique du Saint-Laurent incluant les Grands Lacs</p>
+
 * La navigation sur le fleuve est l'une des plus périlleuses au monde!
     * Les grands bateaux emploient donc obligatoirement des capitaines québécois
     * Lire ce très joli article de Radio-Canada qui explique comment se déroule cette navigation (8)
