@@ -85,9 +85,16 @@ image: PiècesDeMonnaieCanadiennes.jpg
         * Wapiti (wapiti, elk)
         * Orignal (élan, moose) 
 
-![]({{ site.github.url }}/resources/GrandeursDesCervidés.jpg "ource: Nature Québec (9)")
+![]({{ site.github.url }}/resources/GrandeursDesCervidés.jpg "Source: Nature Québec (9)")
 
 <p style="text-align: center;">Source: Nature Québec (9)</p>
+
+* Animaux naturalisés (empaillés) dans le Vieux-Montréal
+    * C'est pour intéresser les enfants quand on passe devant ces boutiques
+    * Un loup blanc - boutique le Chariot - sur la Place Jacques-Cartier
+    * Une tête d'orignal - 40 rue Saint-Paul Est - devant le Vieux-Port Steak House
+
+![]({{ site.github.url }}/resources/AnimauxNaturalisés.jpg "Place Jacques-Cartier et 40 rue Saint-Paul Est")
 
 * Pourquoi on dit 'trente sous' pour désigner une pièce de 25 cents?
     * 1858: Le Canada adopte le dollar canadien (10)
@@ -111,11 +118,11 @@ image: PiècesDeMonnaieCanadiennes.jpg
     * Distribution géographique
         * Presque partout au Canada
     * Oiseau migrateur mais certaines populations sont résidentes
-        * Migration généralement au-dessus de la mer, un peu éloignés de la côte
+        * Migration généralement au-dessus de la mer mais peu éloignée de la côte
     * Ils sont très rares en Europe
         * Population estimée à 300 couples
 * Pourquoi appelle-t-on un dollar une piastre au Québec? (14)
-    * Les devises espagnoles sont couramment utilisées duranrt le régime français
+    * Les devises espagnoles sont couramment utilisées durant le régime français
     * Parmi ces devises, il y a la « piastre espagnole »
     * Le mot piastre est employé pour désigner la piastre espagnole 
         * Apparait dès 1680 dans la correspondance de l'intendant Talon
