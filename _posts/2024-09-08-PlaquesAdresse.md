@@ -42,7 +42,8 @@ image: PlaquesAdresses.jpg
 <br/> 
 #### Codes postaux (5)
 
-* 1966: Poste Canada achemine 49 milliards de lettres triées à la main!
+* 1966: Poste Canada achemine 49 milliards de lettres 
+    * Elles sont triées à la main!
 * 1971: Création des codes postaux
     * Chaîne de six caractères alphanumériques
     * Pour faciliter l'acheminement et le tri automatique
