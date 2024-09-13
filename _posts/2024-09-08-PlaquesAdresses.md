@@ -12,10 +12,12 @@ image: PlaquesAdresses.jpg
 #### Système d'adresses à Montréal
 
 * Début 1900: Besoin d’uniformiser les numéros d’immeuble
-    * À la suite de l’annexion des plusieurs municipalités
+    * À la suite de l’annexion de plusieurs municipalités
 * 1905: La rue Saint-Laurent devient un boulevard 
     * Il devient l’axe de division principal entre l’ouest et l’est
-* 1924:  Les adresses des rues dans l’axe nord-sud sont renumérotées
+* 1909: Les propriétaires doivent acheter leur plaque d'adresse à la ville
+    * Pour uniformiser les plaques pour les postiers, les pompiers, etc. (2)
+* 1924: Les adresses des rues dans l’axe nord-sud sont renumérotées
     * En débutant au point le plus au sud, soit le fleuve Saint-Laurent
     * Système qualifié d'unique au monde à l'époque
         * Un numéro commun est attribué à chaque coin de rue important 
@@ -24,19 +26,17 @@ image: PlaquesAdresses.jpg
 <br/> 
 #### Plaques d'adresse
 
-* 1909: Les propriétaires doivent acheter leur plaque d'adresse à la ville
-    * Pour uniformiser les plaques pour les postiers, les pompiers, etc. (2)
 * Description des plaques (1)
     * Fabriquées en acier émaillé à bords tombés
     * La plupart des plaques ont des chiffres blancs sur un fond bleu
     * Mais aussi des plaques noires et blanches ou vertes et blanches
-    * Typographie originale: Voir 4 sur la photo ci-dessus
+    * Typographie originale: Voir le chiffre 4 sur la photo ci-dessus
 * 1979: La vente de plaques d’adresse standardisées se poursuit toujours (3)
     * Elles sont vendues au prix de 10 $
     * Montréal dispose alors d’un stock de 15 000 plaques
-    * Aujourd’hui ? Plus rien. On se sait pas quand l'obligation s'est arrêtée
-* Aujourd'hui: Compagnie française reproduit les vieilles plaques montréalaise! (2)
-    * L'entreprise Émaillerie normande établie à Caen
+* Aujourd’hui: Plus rien. On se sait pas quand l'obligation s'est arrêtée
+    * Une compagnie française reproduit les vieilles plaques montréalaises!
+    * C'est l'entreprise Émaillerie normande établie à Caen (2)
     * Coût: Environ 60$
 
 <br/> 
