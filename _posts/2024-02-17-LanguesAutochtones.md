@@ -14,6 +14,7 @@ image: LanguesAutochtones.jpg
 * Le terme 'Autochtones' désigne les premiers peuples d'Amérique du Nord et leurs descendants (8)
 * La Constitution canadienne reconnaît 3 groupes de peuples autochtones: les Premières Nations, les Inuit et les Métis (8)
 * Pour la définition de l'identité métisse, voir la source (9)
+  * Plus de 60 000 personnes se déclarent métis au Québec (12)
 
 ![]({{ site.github.url }}/resources/ArborescenceDesAutochtones.jpg "Arborescence des autochtones")
 
@@ -87,3 +88,5 @@ Voici quelques exemples d'expression en langues autochtones pour désigner les E
 10. [Langues autochtones : onze nuances de 'Blancs' - Radio-Canada](https://ici.radio-canada.ca/espaces-autochtones/1929730/langues-autochtones-blancs-dictionnaire){:target="_blank"}
 
 11. [À la rescousse des langues autochtones du Québec - L'Actualité](https://lactualite.com/societe/a-la-rescousse-des-langues-autochtones-du-quebec/){:target="_blank"}
+
+12. [Recensement 2021 - Autochtones au Québec](https://www12.statcan.gc.ca/census-recensement/2021/as-sa/fogs-spg/page.cfm?lang=F&topic=8&dguid=2021A000224){:target="_blank"}
