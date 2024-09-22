@@ -9,9 +9,9 @@ image: LanguesAutochtones.jpg
 <p style="text-align: center;">Crédit: Radio-Canada (10)</p>
 
 <br/>
-## Définition du terme 'Autochtones' au Canada
+## Définition du terme 'Autochtone' au Canada
 
-* Le terme 'Autochtones' désigne les premiers peuples d'Amérique du Nord et leurs descendants (8)
+* Le terme 'Autochtone' désigne les premiers peuples d'Amérique du Nord et leurs descendants (8)
 * La Constitution canadienne reconnaît 3 groupes de peuples autochtones: les Premières Nations, les Inuit et les Métis (8)
 * Pour la définition de l'identité métisse, voir la source (9)
   * Plus de 60 000 personnes se déclarent métis au Québec (12)
