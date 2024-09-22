@@ -27,7 +27,7 @@ image: LanguesAutochtones.jpg
 
   * Avant l’arrivée des Européens, on estime que 300 langues étaient parlées en Amérique du Nord (4) et 53 langues autochtones au Canada (6)
   * À l’heure actuelle, seulement 3 des 53 langues autochtones ont une chance de survie : le cri, l’ojibwa et l’inuktitut (6)
-  * Au Québec, 11 langues étaient parlées il y a quelques siècles et seulement 5 ont été relativement mieux préservées: l’innu, l’attikamek, le cri, le naskapi et l’inuktitut (4)
+  * Au Québec, 11 langues étaient parlées il y a quelques siècles et seulement 5 ont été relativement mieux préservées: l’innu, l’attikamek, le cri, le naskapi et l’inuktitut (5)
   * Voir graphique ci-dessous pour le nombre de locuteurs de langues autochtones au Québec
 
 <br/>
