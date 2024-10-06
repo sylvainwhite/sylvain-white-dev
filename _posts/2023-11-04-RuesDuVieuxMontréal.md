@@ -35,7 +35,7 @@ image: PlanDollierDeCasson1672.jpg
 * Le notaire-arpenteur Bénigne Basset a participé à l'élaboration du plan
 * Ce plan a été dressé dans le but de construire la première église Notre-Dame
     * Il reprend certains chemins ou sentiers qui existaient déjà
-* Dollier de Casson a dessiné aussi les plans de l’église (2)
+* Dollier de Casson a aussi dessiné les plans de l’église (2)
 
 <br/>
 #### Tableau 1: Origine des noms des rues sur le plan de 1672 (1)(4) 

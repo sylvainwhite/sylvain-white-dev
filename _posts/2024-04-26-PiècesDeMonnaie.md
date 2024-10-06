@@ -48,6 +48,7 @@ image: PiècesDeMonnaieCanadiennes.jpg
     * Leurs barrages font en moyenne entre 10 et 100 m
         * Le plus long découvert (par satellite!) à ce jour: 850 m
 
+<br/>
 ### La pièce de 10 cents (4)
 * Composition: 92% acier, 5,5% cuivre, 2,5% nickel
 * Émission: 1858 à aujourd'hui
@@ -63,8 +64,9 @@ image: PiècesDeMonnaieCanadiennes.jpg
     * 'Bluenoser' est le surnom des Néo-Écossais (5) 
         * Peut-être des mitaines bleues des marins (6)
             * Le bleu déteignait sur leur nez en s'essuyant avec leurs mitaines!    
-        * Plus probablement de la patate bleue qu'ils mangeaient 
+        * Plus probablement de la patate bleue qu'ils mangeaient
 
+<br/>
 ### La pièce de 25 cents (6)
 * Composition: 94% acier, 3,8% cuivre, 2,2% nickel
 * Émission: 1870 à aujourd'hui
@@ -89,13 +91,15 @@ image: PiècesDeMonnaieCanadiennes.jpg
 
 <p style="text-align: center;">Source: Nature Québec (9)</p>
 
-* Animaux naturalisés (empaillés) dans le Vieux-Montréal
+* Animaux naturalisés dans le Vieux-Montréal
     * C'est pour intéresser les enfants quand on passe devant ces boutiques
     * Un loup blanc - boutique le Chariot - sur la Place Jacques-Cartier
     * Une tête d'orignal - 40 rue Saint-Paul Est - devant le Vieux-Port Steak House
 
+<br/>
 ![]({{ site.github.url }}/resources/AnimauxNaturalisés.jpg "Place Jacques-Cartier et 40 rue Saint-Paul Est")
 
+<br/>
 * Pourquoi on dit 'trente sous' pour désigner une pièce de 25 cents?
     * 1858: Le Canada adopte le dollar canadien (10)
         * La conversion est de 120 sous pour un dollar
@@ -106,6 +110,7 @@ image: PiècesDeMonnaieCanadiennes.jpg
 * Expression "Changer quatre trente sous pour une piastre"
     * Signification: Faire des changements qui n'apportent rien 
 
+<br/>
 ### La pièce de 1 dollar (12)
  * Composition: 91,5% nickel, plaquée 8,5% bronze (88% cuivre et 12% étain) 
 * Émission: 1987 à aujourd'hui
@@ -127,6 +132,7 @@ image: PiècesDeMonnaieCanadiennes.jpg
     * Le mot piastre est employé pour désigner la piastre espagnole 
         * Apparait dès 1680 dans la correspondance de l'intendant Talon
 
+<br/>
 ### La pièce de 2 dollars (15)
 * Composition: (2012 à aujourd'hui)
     * Anneau extérieur: Acier plaqué nickel

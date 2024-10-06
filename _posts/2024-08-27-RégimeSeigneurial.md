@@ -117,7 +117,6 @@ en terres, appelées censives
             * Peu de censitaires se prévaudront de cette possibilité
             * L’ordonnance de 1840 servira de modèle à la loi d'abolition de 1854
 
-
 <br/> 
 #### Régime seigneurial après la guerre de la Conquête
 
