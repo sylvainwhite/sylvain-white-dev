@@ -57,7 +57,7 @@ image: PatinoireVictoriaMatchDeHockey.jpg
 
 1. [Victoria Skating Rink - wikipédia](https://fr.wikipedia.org/wiki/Victoria_Skating_Rink){:target="_blank"}
 
-2. [Évolution de la Coupe Stanley - Reddit](https://www.reddit.com/r/nhl/comments/18imog9/should_the_nhl_redesign_the_cup_to_fit_more_names/?tl=fr){:target="_blank"}
+2. [Évolution de la Coupe Stanley - The Athletic NHL](https://x.com/TheAthleticNHL/status/1666539273430917120){:target="_blank"}
 
 3. [Origines du hockey sur glace](https://www.thecanadianencyclopedia.ca/fr/article/origines-du-hockey-sur-glace){:target="_blank"}
 
