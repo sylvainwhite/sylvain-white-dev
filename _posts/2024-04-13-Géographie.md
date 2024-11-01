@@ -1,10 +1,10 @@
 ---
 layout: post
-title: "Comparaisons géographiques"
+title: "Géographie"
 author: "Sylvain White"
 categories: misc
 tags: [misc]
-image: ComparaisonsGéographiques.jpg
+image: Géographie.jpg
 ---
 <p style="text-align: center;">Crédit: NASA (1)</p>
 
