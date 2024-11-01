@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Transport en commun à Montréal"
+title: "Transport en commun"
 author: "Sylvain White"
 categories: misc
 tags: [misc]

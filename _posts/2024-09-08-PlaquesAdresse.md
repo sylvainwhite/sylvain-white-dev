@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Les plaques d'adresse à Montréal"
+title: "Les plaques d'adresse"
 author: "Sylvain White"
 categories: misc
 tags: [misc]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Noms des rues du Vieux-Montréal"
+title: "Rues du Vieux-Montréal"
 author: "Sylvain White"
 categories: misc
 tags: [misc]
