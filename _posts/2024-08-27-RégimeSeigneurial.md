@@ -107,7 +107,7 @@ en terres, appelées censives
 * Les seigneuries du clergé ne connaissent pas les problèmes de succession
     * Mais c'est un problème pour les familles seigneuriales
     * Car leurs terres sont morcelées génération après génération
-* Cette richesse supérieure susciter la controverse
+* Cette richesse supérieure suscite la controverse
     * Longtemps, des administrateurs britanniques voudront confisquer ces biens
     * La situation sera régularisée par une ordonnance 1840 
         * En partie pour un appui sans faille de l'église durant les Rébellions
