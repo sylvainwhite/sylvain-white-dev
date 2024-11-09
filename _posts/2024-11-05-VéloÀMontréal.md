@@ -9,21 +9,24 @@ image: VéloÀMontréal.jpg
 <p style="text-align: center;">Station BIXI dans le Vieux-Montréal (1)</p>
 
 <br/>
-### Évolution de la bicyclette (2)
-
-![]({{ site.github.url }}/resources/ÉvolutionDeLaBicyclette.jpg "Par Al2. Translation by Berrucomons — Travail personnel, CC BY 3.0")
-
-<br/>
 ### Débuts du vélo à Montréal (10)
 * 1869: Les premiers vélos font leur apparition à Montréal
+	* Il s'agit sans doute de vélocipèdes. Voir graphique ci-dessous 
 	* Dès cette première année, une quinzaine de courses ont lieu
 	* École de « vélocipédie » dotée d’une piste d’apprentissage
 * 1878: Fondation du Montreal Bicycling Club
-	* 1er club au Canada
 	* 2ième en Amérique du Nord après celui de Boston
+	* Probablement des vélos grand-bi. Voir graphique ci-dessous
 	* Disparition durant la première guerre mondiale mais refondé en 2017 (11)
 * 1890: Âge d'or
 	* Le vélo devient un moyen de transport urbain populaire
+	* Grâce à l'invention de la 'bicyclette de sécurité'. Voir graphique ci-dessous
+	* Prix abordable car production à grande échelle
+
+<br/>
+### Graphique de l'évolution de la bicyclette (2)
+
+![]({{ site.github.url }}/resources/ÉvolutionDeLaBicyclette.jpg "Par Al2. Translation by Berrucomons — Travail personnel, CC BY 3.0")
 
 <br/>
 ### Déclin et renouveau (10)
@@ -40,7 +43,7 @@ image: VéloÀMontréal.jpg
 	* 1972: Ventes de vélo 
 		* Plus de vélos vendus que d'automobiles en Amérique du Nord
 	* 1973: Crise du pétrole
-		* Le vélo redevient un moyen de transport		
+		* Le vélo redevient un moyen de transport
 
 <br/>
 ### Les pistes cyclables en trois dates (10)
@@ -96,7 +99,7 @@ image: VéloÀMontréal.jpg
 
 6. [Carte des pistes cyclables](https://montreal.ca/services/carte-des-pistes-cyclables){:target="_blank"}
 
-7. [REV - Wikipédia](https://fr.wikipedia.org/wiki/R%C3%A9seau_express_v%C3%A9lo_(Montr%C3%A9al)){:target="_blank"}
+7. [Réseau Express Vélo (REV)- Wikipédia](https://fr.wikipedia.org/wiki/R%C3%A9seau_express_v%C3%A9lo_(Montr%C3%A9al)){:target="_blank"}
 
 8. [Bixi - Qui sommes-nous?](https://bixi.com/fr/qui-sommes-nous/){:target="_blank"}
 
