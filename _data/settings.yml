@@ -8,6 +8,7 @@ google-ID: ''
 
 menu:
 - {name: 'Software', folder: 'pages', file: 'software.html'}
+- {name: 'Divers', folder: 'pages', file: 'divers.html'}
 
 # Available social icons are powered by Font Awesome, so you can use any icon that they offer
 social:
