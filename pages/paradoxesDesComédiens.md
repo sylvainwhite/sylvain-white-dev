@@ -21,6 +21,22 @@ p.196 <br/>
  > Les spectacles qui montrent une détresse prétendument réaliste me mettent en colère. Non pas parce qu'ils parlent de détresse, seulement par le pathos, sans espoir, sans poésie, sans humour. J'aime quand les spectacles sont,  d'une manière ou d'une autre, plus grands que la vie. Autrement, pour voir la vrai visage de la misère,  il suffit de prendre le métro!
 
 <br/>
+Témoignage de Fabrice Luchini<br/>
+p.204-206 <br/>
+ > D'après Jouvet, 'un acteur, c'est quelqu'un qui témoigne de lui-même; un comédien quelqu'un qui par une lente insinuation s'élève, en devenant formidablement vacant, à l'altitude où le personnage existe. Contente-toi de dire les mots d'un certain Molière a écrits et ne mais rien dedans'. Le comédien s'élève à l'altitude où un personnage existe. Il sait qu'il ne sera jamais Alsace ou Dom Juan. Il sait qu'il ne doit pas réduire la colère d'Alceste à sa propre petite colère psychologique(réduire ce personnage archétypal s'appelle 'la religion du personnage'). C'est un travail infini. Il n'y a pas de méthode. Il faut fréquenter, répéter, physiquement, pas intellectuellement. 
+
+ > Poème écrit par Victor Hugo 10 ans après la mort de sa fille:
+<br/>Il me semblait que tout n'était qu'un affreux un rêve
+<br/>Qu'elle ne pouvait m'avoir ainsi quitté
+<br/>Que je l'entendais rire dans la chambre à côté
+<br/>Que c'était impossible enfin qu'elle fût morte
+<br/>Et que j'allais la voir entrer par cette porte
+<br/>Oh! que de fois j'ai dit: Silence, elle a parlé!
+<br/>Tenez! voici le bruit de sa main sur la clé!
+<br/>Attendez! elle vient! laissez-moi moi que j'écoute
+<br/>Car elle est quelque part dans la maison sans doute!
+
+<br/>
 Témoignage de Macha Makeieff<br/>
 p.213 <br/>
  > Je dis aux acteurs: 'Tu ne sais pas tout du personnage parce qu'on ne sait pas tout de soi-même; tu n'es pas seulement ce que tu dis.' 
