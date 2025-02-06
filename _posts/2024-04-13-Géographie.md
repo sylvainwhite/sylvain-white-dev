@@ -29,7 +29,7 @@ image: Géographie.jpg
 ### Comparaison avec Paris intra-muros
 * Population (2021)
     * De l'île de Montréal: 2.0 millions (3) 
-    * De Paris intra-muros: 2.1 million (6)
+    * De Paris intra-muros: 2.1 millions (6)
     * Donc à peu près la même population
 * Superficie
     * De l'île de Montréal: 472,6 km2 (5) 
