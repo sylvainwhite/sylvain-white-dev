@@ -99,6 +99,26 @@ image: Géographie.jpg
     * Superficie de la Russie: 17.23 millions de km2 (2)
     * Donc la Russie est 75% plus grande que le Canada
 
+### Montagnes autour de Montréal
+
+* Nord: Laurentides
+    * Partie du bouclier canadien
+    * 50% du territoire canadien
+* Sud-ouest: Adirondacks
+    * Massif plus ou moins rond à l'ouest du lac Champlain et de l'Hudson
+    * 250 km de long par 200 km de large environ
+* Sud-est: Appalaches
+    * Grande chaîne de l'est qui va de Terre-Neuve jusqu'en Alabama
+    * 2200 km de long par 300 km de large environ
+
+<br/>
+![]({{ site.github.url }}/resources/MontagnesAutourDeMontréal.jpg "Source (15)")
+
+<p style="text-align: center;">Source (15)</p>
+
+* Les basses terres du Saint-Laurent, située entre ces 3 massifs, sont habitables par l'homme depuis 6 à 8 millénaires. Source (15) 
+
+
 <br/>
 ## Sources
 
@@ -129,5 +149,7 @@ image: Géographie.jpg
 13. [États des États-Unis par superficies - wikipédia](https://fr.wikipedia.org/wiki/%C3%89tats_des_%C3%89tats-Unis_par_superficie){:target="_blank"}
 
 14. [Superficie du Canada - wikipédia](https://fr.wikipedia.org/wiki/Canada){:target="_blank"}
+
+15. Notre-Dame-de-Bon-Secours: une chapelle et son quartier, Patricia Simpson, Louise Pothier, éditions Fides, 2001
 
 
