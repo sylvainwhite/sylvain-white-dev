@@ -28,6 +28,7 @@ image: PatinoireVictoriaMatchDeHockey.jpg
 <br/>
 * Victoria Rink (1)
     * 1862: Fin de la construction à 200 mètres de l’actuel Centre Bell
+	* Il était rue Drummond à Montréal, entre les rues Stanley et Drummond, légèrement en retrait du boulevard René-Lévesque
 	* 1896: Installation du télégraphe pour diffuser les résultats des matchs
 	* 1937: Édifice abandonné 
 
