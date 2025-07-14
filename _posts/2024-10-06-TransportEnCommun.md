@@ -96,7 +96,7 @@ image: TransportEnCommun_MPM10.jpg
 
 4. [It's the anniversary of Montreal's first road fatality - Montreal Gazette](https://montrealgazette.com/news/local-news/its-the-anniversary-of-montreals-first-road-casualty-a-pedestrian-hit-by-a-driver-avoiding-a-street-car){:target="_blank"}
 
-5. [Bus Drawings - Transportation Photo Website](http://www.busdrawings.com/){:target="_blank"}
+5. [Le retour du bon vieux «trolley» - La Presse](https://www.lapresse.ca/debats/200903/20/01-838610-le-retour-du-bon-vieux-trolley.php){:target="_blank"}
 
 6. [Transport urbain à Montréal: d’hier à demain](https://ceriu.qc.ca/system/files/e2.4_michele_st-jacques.pdf){:target="_blank"}
 
