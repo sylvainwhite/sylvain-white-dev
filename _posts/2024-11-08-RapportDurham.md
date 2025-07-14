@@ -103,7 +103,7 @@ Pages 93 et 94
 
 Page 104
 <br/>
-<cite>L'hostilité des races est manifestement insuffisante pour expliquer tous les maux du Bas-Canada, vu que les résultats ont été à peu près les mêmes parmi la population homogène des autres provinces. Il n'est que trop évident que le Bas-Canada, ou les deux Canadas, n'ont pas été les seuls à présenter des conflits répétés entre l'exécutif et les branches populaires de la législature.[...] On peut dire, avec raison, que l'état naturel du gouvernement dans toutes ces colonies en est un d'affrontement entre l'éxécutif et l'assemblée représentative...s</cite>
+<cite>L'hostilité des races est manifestement insuffisante pour expliquer tous les maux du Bas-Canada, vu que les résultats ont été à peu près les mêmes parmi la population homogène des autres provinces. Il n'est que trop évident que le Bas-Canada, ou les deux Canadas, n'ont pas été les seuls à présenter des conflits répétés entre l'exécutif et les branches populaires de la législature.[...] On peut dire, avec raison, que l'état naturel du gouvernement dans toutes ces colonies en est un d'affrontement entre l'éxécutif et l'assemblée représentative...</cite>
 
 Pages 106 et 107
 <br/>
@@ -124,7 +124,7 @@ Pages 140 et 141
 
 page 157
 <br/>
-<cite>En vertu de l'acte constitutionnel de 1791, une certaine partie des terres de chaque township [appelée la réserve du clergé] fut mise de côté pour le soutien du clergé protestant . L'Église d'Angleterre a toujours prétendu à la jouissance exclusive de ses fonds. Les diverses confessions de dissidents protestants ont affirmé que le terme les inclut et demandent qu'on leur fournisse également, à même ce fonds, tous les chrétiens qui n'appartiennent pas à l'Église de Rome.</cite>
+<cite>En vertu de l'acte constitutionnel de 1791, une certaine partie des terres de chaque township [appelée la réserve du clergé] fut mise de côté pour le soutien du clergé protestant. L'Église d'Angleterre a toujours prétendu à la jouissance exclusive de ces fonds. Les diverses confessions de dissidents protestants ont affirmé que le terme les inclut et demandent qu'on leur fournisse également, à même ce fonds, tous les chrétiens qui n'appartiennent pas à l'Église de Rome.</cite>
 
 Page 158
 <br/>
