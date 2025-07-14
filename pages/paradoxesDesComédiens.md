@@ -26,7 +26,7 @@ p.204-206 <br/>
  > D'après Jouvet, 'un acteur, c'est quelqu'un qui témoigne de lui-même; un comédien quelqu'un qui par une lente insinuation s'élève, en devenant formidablement vacant, à l'altitude où le personnage existe. Contente-toi de dire les mots d'un certain Molière a écrits et ne mais rien dedans'. Le comédien s'élève à l'altitude où un personnage existe. Il sait qu'il ne sera jamais Alsace ou Dom Juan. Il sait qu'il ne doit pas réduire la colère d'Alceste à sa propre petite colère psychologique(réduire ce personnage archétypal s'appelle 'la religion du personnage'). C'est un travail infini. Il n'y a pas de méthode. Il faut fréquenter, répéter, physiquement, pas intellectuellement. 
 
  > Poème écrit par Victor Hugo 10 ans après la mort de sa fille:
-<br/>Il me semblait que tout n'était qu'un affreux un rêve
+<br/>Il me semblait que tout n'était qu'un affreux rêve
 <br/>Qu'elle ne pouvait m'avoir ainsi quitté
 <br/>Que je l'entendais rire dans la chambre à côté
 <br/>Que c'était impossible enfin qu'elle fût morte
@@ -44,21 +44,21 @@ p.213 <br/>
 <br/>
 Témoignage de François Morel<br/>
 p.232 <br/>
- > Un chanteur comme Yves Montand était intéressant à voir, mais une fois seulement car ces spectacles étaient les mêmes d'un soir à l'autre. À l'inverse, Serge Reggiani  jouait davantage avec ses émotions du moment; cela donnait un tour plus vivant à son jeu, dont je me sens plus proche.
+ > Un chanteur comme Yves Montand était intéressant à voir, mais une fois seulement car ces spectacles étaient les mêmes d'un soir à l'autre. À l'inverse, Serge Reggiani jouait davantage avec ses émotions du moment; cela donnait un tour plus vivant à son jeu, dont je me sens plus proche.
  
 <br/>
 Témoignage de Stanislas Nordey<br/>
 p.253 <br/>
- > Pasolini à cette belle formule: 'Le charme de l'acteur ne doit pas prévaloir sur le sens de ce qu'il dit'. Le charme, c'est la séduction, mais aussi l'émotion facile.L'émotion doit être présente, sans écraser cependant le sens, la pensée, le poème. 
+ > Pasolini à cette belle formule: 'Le charme de l'acteur ne doit pas prévaloir sur le sens de ce qu'il dit'. Le charme, c'est la séduction, mais aussi l'émotion facile. L'émotion doit être présente, sans écraser cependant le sens, la pensée, le poème. 
    
 <br/>
 Témoignage de Eric Rufdey<br/>
 p.285-286 <br/>
- > Cela fait appel à l'illusion et à la crédulité. On leur montre le lapin, le chapeau, et on leur dit que le lapin va sortir du chapeau. On met le lapin dans le chapeau devant eux. Tout à coup, le lapin en sort et ils trouvenr ça magique, alors que tout était annoncé. 
+ > Cela fait appel à l'illusion et à la crédulité. On leur montre le lapin, le chapeau, et on leur dit que le lapin va sortir du chapeau. On met le lapin dans le chapeau devant eux. Tout à coup, le lapin en sort et ils trouvent ça magique, alors que tout était annoncé. 
 
- > Cela ne fonctionne pas d'être réaliste au théâtre.   et ce n'est pas ce que les spectateurs demandent.
+ > Cela ne fonctionne pas d'être réaliste au théâtre et ce n'est pas ce que les spectateurs demandent.
 
- > J'ai proposé (pour la scénographie de Lucrèce Borgia) qu'ils se retrouvent dans une lagune, loin de Venise, où ils peuvent fomenter des projets car personne ne peut les entendre. J'ai eu l'idée d'une sorte de cimetière de bateaux. Mais comme on était à Venise, on s'est dit: 'Tiens faisons un cimetière de gondoles'. Je suis allé aux ateliers de construction de la Comédie Française. On a appelé à Venise des constructeurs de gondoles qui nous ont envoyé des plans. Quand j'ai vu les plans j'ai dit mais ça ne ressemble pas à une gondole. On m'a répondu: 'Si c'est comme ça qu'ils font des gondoles à Venise'. Et moi: 'Oui mais pour les gens ce n'est pas une gondole. On va croire que c'est une niche ou un prototype pour le Vendée Globe. Personne ne comprendra qu'une vraie gondole est vrillée pour que le type qui est sur le côté ne fasse pas gîter le bateau. Si on fait une gondole tordue, la réalité apparaîtra comme un mensonge'.
+ > J'ai proposé (pour la scénographie de Lucrèce Borgia) qu'ils se retrouvent dans une lagune, loin de Venise, où ils peuvent fomenter des projets car personne ne peut les entendre. J'ai eu l'idée d'une sorte de cimetière de bateaux. Mais comme on était à Venise, on s'est dit: 'Tiens faisons un cimetière de gondoles'. Je suis allé aux ateliers de construction de la Comédie Française. On a appelé à Venise des constructeurs de gondoles qui nous ont envoyé des plans. Quand j'ai vu les plans, j'ai dit mais ça ne ressemble pas à une gondole. On m'a répondu: 'Si c'est comme ça qu'ils font des gondoles à Venise'. Et moi: 'Oui mais pour les gens ce n'est pas une gondole. On va croire que c'est une niche ou un prototype pour le Vendée Globe. Personne ne comprendra qu'une vraie gondole est vrillée pour que le type qui est sur le côté ne fasse pas gîter le bateau. Si on fait une gondole tordue, la réalité apparaîtra comme un mensonge'.
 
 <br/>
 Témoignage de Jean-François Sivadier<br/>
