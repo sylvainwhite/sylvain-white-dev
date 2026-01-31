@@ -30,8 +30,8 @@ image: MairesDeMontréal.jpg
 <br/>
 ### Jacques Viger, premier maire de Montréal - 1833-36 (p.19, 3)
 
-* Très estimé de ces contemporains, il représente la probité et l'honnêteté. Il est une véritable encyclopédie vivante
-* Touche à tout: Journaliste, cartographe, historien, archiviste, statisticien
+* Très estimé de ses contemporains, il représente la probité et l'honnêteté. Il est une véritable encyclopédie vivante
+* Touche à tout: journaliste, cartographe, historien, archiviste, statisticien
 * Premier linguiste du Québec; il rédige une "néologie canadienne" répertoriant les termes en usage dans la langue du pays
 
 <br/>
@@ -41,14 +41,14 @@ image: MairesDeMontréal.jpg
 * La station Beaudry n'est **PAS** nommée en son honneur
 * Il est maire pendant la guerre civile américaine. Au début, la grande majorité des Canadiens favorise le nord et l'abolition de l'esclavage
 * Même Calixa Lavallée, à titre de musicien, s'engagea avec les troupes nordistes dans le régiment du Rhode Island
-* Mais avec le temps, les opinions changèrent aider en cela par les nombreux sudistes présents dans la ville qui avaient fait de l'hôtel Saint Lawrence Hall leur quartier général.
+* Mais avec le temps, les opinions changèrent aider en cela par les nombreux sudistes présents dans la ville qui avaient fait de l'hôtel Saint Lawrence Hall leur quartier général
 * Après divers incidents, la sympathie des Montréalais envers les Sudistes s'effondra surtout quand ils apprirent que l'auteur de l'assassinat du président Lincoln, l'acteur John Wilkes Booth, avait séjourné à l'hôtel Saint-Lawrence Hall pendant plusieurs semaines
 * Guillaume Lamothe fut nommé chef de police sous le règne de Jean-Louis Beaudry. Aventurier, il a vécu de nombreuses années en Europe où il aurait participé à la révolution de 1848 à Paris. En Italie, il a épousé une belle dame d'une noble famille italienne qu'il a ramenée avec lui à Montréal 
 
 <br/>
 ### Aldis Bernard, maire anglophone de Montréal - 1873-75 (p.102 et suivantes, 3)
 * Nombreuses mesures sanitaires pour améliorer la ville. Par exemple, la création des parcs dans les quartiers populeux
-* Principal point de son programme de 1873: Éliminer les cochons de la ville!
+* Principal point de son programme de 1873: éliminer les cochons de la ville!
 * Il a vécu à Philadelphie où il apprend le métier de chirurgien. Il revient à Montréal et exerce en tant que dentiste à Montréal
 * Il veut faire reconnaître la profession mais les médecins s'y opposent! L'incendie du parlement brûle tous les documents appuyant cette reconnaissance
 * C'est seulement en 1869 qu'une loi reconnaît le Collège des chirurgiens dentistes
