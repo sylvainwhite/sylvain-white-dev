@@ -20,7 +20,7 @@ Cette rubrique contient des éléments d'information concernant l'introduction d
     * Voir citation de Pehr Kalm (2)
 * Même si des artisans fabriquaient de la brique
     * Exemple: première briqueterie de la colonie près de Québec en 1640
-* Ces briques étaient intégrés à des éléments architecturaux
+* Ces briques étaient intégrées à des éléments architecturaux
     * Exemple: cloisons intérieures ou encadrements de portes et de fenêtres
 * Ou bien elles servaient à bâtir des fours ou des cheminées
 
@@ -32,9 +32,9 @@ Cette rubrique contient des éléments d'information concernant l'introduction d
 * Cette fabrique est l’une des premières briqueteries à Montréal
     * 1825: Griffintown a la plus grande proportion d'édifices en brique à Montréal
     * On le sait grâce au fameux recensement de Jacques Viger en 1825
-* Fin des années 1870: Deux briqueteries importantes sur l'île de Montréal (5)
+* Fin des années 1870: deux briqueteries importantes sur l'île de Montréal (5)
     * Bulmer & Sheppard et T. W. Peel & Co
-    * 1879: Elles produisent respectivement 10 millions et 4 millions de briques
+    * 1879: elles produisent respectivement 10 millions et 4 millions de briques
     *  Elles occupent de nombreux terrains situés dans l'est de la ville
         * Quadrilatère: Papineau, de Rouen, Iberville et Rachel
     * Rue Sheppard d'après le nom du petit-fils du fondateur de Bulmer & Sheppard
