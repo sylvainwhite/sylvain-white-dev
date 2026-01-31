@@ -10,7 +10,7 @@ image: VocabulaireArchitectural.jpg
 
 ## Vocabulaire architectural
 
-Le [document Vocabulaire architectural]({{ site.github.url }}/resources/vocabulaireArchitectural_v48.pdf){:target="_blank"} a été écrit durant mon cours de guide et diffusé à mes collègues de classe. Si jamais vous trouvez une erreur dans ce document, surtout faites-le moi savoir!
+Le [document Vocabulaire architectural]({{ site.github.url }}/resources/vocabulaireArchitectural_v49.pdf){:target="_blank"} a été écrit durant mon cours de guide et diffusé à mes collègues de classe. Si jamais vous trouvez une erreur dans ce document, surtout faites-le moi savoir!
 
 <br/>
 ### Introduction (extraite du document)
