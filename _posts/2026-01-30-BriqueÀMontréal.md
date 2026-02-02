@@ -40,6 +40,10 @@ Cette rubrique contient des éléments d'information concernant l'introduction d
     * Rue Sheppard d'après le nom du petit-fils du fondateur de Bulmer & Sheppard
 
 <br/>
+![]({{ site.github.url }}/resources/BriquesTirésDePignonsSurRue.jpg "Tableau d'utilisation de la brique à Montréal (13)")
+<p style="text-align: center;">Tableau d'utilisation de la brique à Montréal (13)</p>
+
+<br/>
 ### Pattes de chat (6)
 *  Avant l'industrialisation de la fin du 19ième, la fabrication des briques est un processus artisanal
 * Les briques étaient pressées dans des moules puis séchées au soleil avant d'être cuites
@@ -135,7 +139,7 @@ Cette rubrique contient des éléments d'information concernant l'introduction d
 
 12. [La deuxième vie des carrières - La Presse](https://www.lapresse.ca/actualites/2020-10-05/la-deuxieme-vie-des-carrieres.php){:target="_blank"}
 
-
+13. p.210, Pignons sur rue - Les Quartiers de Montréal, Michèle Benoit, Roger Gratton, Guérin éditeur ltée, 1991 
 
 
 
