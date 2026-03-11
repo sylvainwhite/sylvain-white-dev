@@ -97,7 +97,7 @@ Cette rubrique contient des éléments d'information concernant la construction 
 
  * Balcons   
     * Les ouvertures des balcons ont la même taille que les ouvertures des fenêtres
-    * Le garde-de-corps est en verre pour faire croire à une fenêtre plutôt qu’à un balcon
+    * Le garde-corps est en verre pour faire croire à une fenêtre plutôt qu’à un balcon
     * Car il n'y a jamais de balcons dans les immeubles du Vieux-Montréal!
 
  * Rues Saint-François et de l'Hôpital
