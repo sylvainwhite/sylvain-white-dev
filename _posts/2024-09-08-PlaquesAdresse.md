@@ -63,4 +63,4 @@ image: PlaquesAdresses.jpg
 
 4. [Ciblage par code postal - Poste Canada](https://www.canadapost-postescanada.ca/scp/fr/soutien/bc/entreprises/ciblage-code-postal/utiliser-les-donnees-avec-le-ciblage-par-code-postal){:target="_blank"}
 
-5. [Chronologie de l'histoire postale au Canada](https://www.museedelhistoire.ca/cmc/exhibitions/cpm/chrono/ch1971af.html){:target="_blank"}
+5. [Code postal au Canada](https://fr.wikipedia.org/wiki/Code_postal_au_Canada){:target="_blank"}
