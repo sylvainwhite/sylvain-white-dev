@@ -20,7 +20,7 @@ image: CastorDrapeauDuCanada.jpg
 <br/>
 ### Qu'est-ce que le Red Ensign?
 
- * Le Red Enseign est le drapeau officieux du Canada à partir de 1868 (5)
+ * Le Red Ensign est le drapeau officieux du Canada à partir de 1868 (5)
  * Il combine l'Union Jack et des armoiries provinciales ou canadiennes
  * Il y a eu plusieurs versions du Red Ensign. Les 2 plus connues sont ci-dessous
  * Il a été utilisé par la marine marchande et il a flotté sur plusieurs bâtiments officiels (2)(6)
