@@ -16,14 +16,14 @@ Cette rubrique contient des éléments d'information concernant la construction 
 <br/>
 ### Historique du site
 
-* 1897-1929: Siège social de la compagnie canadienne de téléphone Bell
+* 1897-1929: siège social de la compagnie canadienne de téléphone Bell
 * 1929-1940: ? Démolition du siège social durant cette période
-* 1940-1955: Stationnement (voir plan de 1940 ci-dessous)
-* 1955-2000: Parking 'Pigeon Hole' (7)
-* 2000-2010: Terrain vacant ou stationnement?
-* 2004: Projet Saint-François qui n'a jamais abouti
-* 2010-2024: Parc Éphémère (8)
-* 2025: Projet 'Le Laurence' (4)
+* 1940-1955: stationnement (voir plan de 1940 ci-dessous)
+* 1955-2000: parking 'Pigeon Hole' (7)
+* 2000-2010: terrain vacant ou stationnement?
+* 2004: projet Saint-François qui n'a jamais abouti
+* 2010-2024: parc Éphémère (8)
+* 2025: projet 'Le Laurence' (4)
 
 <br/>
 #### Siège social de la compagnie canadienne de téléphone Bell en 1897 (2)
@@ -74,7 +74,7 @@ Cette rubrique contient des éléments d'information concernant la construction 
 
 * Volumétrie
     * Les hauteurs respectent celles des bâtiments environnants
-    * Étage attique: Commun pour plusieurs bâtiments du Vieux-Montréal
+    * Étage attique: commun pour plusieurs bâtiments du Vieux-Montréal
     * Cet étage couronne le bâtiment qui n'est pas qu'une boite rectangulaire!
 * Façade
     * Asymétrie verticale – fenêtres non alignées
@@ -83,7 +83,7 @@ Cette rubrique contient des éléments d'information concernant la construction 
  
  * Fenêtres 
     * Elles sont asymétriques mais leurs tailles rappellent celles des autres fenêtres du Vieux-Montréal
-    * Ouvertures aveugles: Même grandeur que les fenêtres mais il y a 4 nuances de beige avec des formes asymétriques toujours pour casser l’effet massif
+    * Ouvertures aveugles: même grandeur que les fenêtres mais il y a 4 nuances de beige avec des formes asymétriques toujours pour casser l’effet massif
     * Le % de fenestration sur la vaste majorité des façades du Vieux-Montréal est pourtant très semblable a ce qui est proposé ici (9, Commentaire 136)
 
 <br/>
@@ -92,17 +92,17 @@ Cette rubrique contient des éléments d'information concernant la construction 
 <br/>
 * Revêtement
     * Gris–beige rappelle les couleurs des pierres du Vieux-Montréal
-    * Le grain du béton rappelle le grain des vieilles pierres autour de ce bâtiment
+    * Le grain du béton rappelle le grain des vieilles pierres autour de ce bâtiment. On peut penser aussi à de la pierre bouchardée
     * Les façades sont revêtues de cadres de béton aux agrégats exposés sertissant des sections de pierre calcaire de tonalité gris-beige (9, Commentaire 160)
 
  * Balcons   
     * Les ouvertures des balcons ont la même taille que les ouvertures des fenêtres
     * Le garde-corps est en verre pour faire croire à une fenêtre plutôt qu’à un balcon
-    * Car il n'y a jamais de balcons dans les immeubles du Vieux-Montréal!
+    * Car il n'y a pratiquement jamais de balcons dans les immeubles du Vieux-Montréal!
 
  * Rues Saint-François et de l'Hôpital
-    * Rue Saint-François: Espace au milieu du bâtiment pour casser l'effet massif
-    * Rue de l'Hôpital: Pas d'espace. Il y a un effet massif de la façade 
+    * Rue Saint-François: espace au milieu du bâtiment pour casser l'effet massif
+    * Rue de l'Hôpital: pas d'espace. Il y a un effet massif de la façade 
 
  * Vitrage dans les coins inférieurs du bâtiment
     * C'est grand classique qui évite le côté massif et permet de voir la rue au-delà du coin et donc permet l'intégration dans l’environnement
