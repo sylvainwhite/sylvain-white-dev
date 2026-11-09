@@ -125,13 +125,13 @@ Cette rubrique contient des éléments d'information concernant l'introduction d
 
 5. [Étude historique et patrimoniale du territoire du PPU des faubourg](https://ocpm.qc.ca/sites/default/files/pdf/P109/3.4.2.1_volet_1_synthese_historique_ppu_des_faubourgs.pdf){:target="_blank"}
 
-6. [SI LES BRIQUES POUVAIENT PARLER](http://liremaville.com/curiosite6.html){:target="_blank"}
+6. [Secrets of Montreal](https://www.instagram.com/reel/DLsIdFIqauB/?hl=fr){:target="_blank"}
 
 7. [Pourquoi de nombreux bâtiments en brique au Québec ont été peints ?](https://aquajetrestauration.com/batiments-brique-quebec-peints-histoire/){:target="_blank"}
 
 8. [Pourquoi certaines maisons du Plateau sont-elles colorées ?](https://mauditsfrancais.ca/certaines-maisons-plateau-colorees/){:target="_blank"}
 
-9. [Visiter Montréal : le guide complet](https://www.planete3w.fr/visiter-montreal-guide-complet/){:target="_blank"}
+9. [The mystery of the cat paws in Montréal bricks](https://holamontreal.com/historias/patas-de-gato-ladrillos-montreal){:target="_blank"}
 
 10. [Usine Briques Hanson - Répertoire du patrimoine culturel du Québec](https://www.patrimoine-culturel.gouv.qc.ca/rpcq/detail.do?methode=consulter&id=190928&type=bien){:target="_blank"}
 
